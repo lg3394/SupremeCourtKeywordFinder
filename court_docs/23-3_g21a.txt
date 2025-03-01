@@ -1,0 +1,9811 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+  
+ 
+
+  
+ 
+
+ 
+ 
+
+ 
+  
+
+ 
+ 
+
+        
+ 
+ 
+                  
+ 
+
+       
+ 
+               
+ 
+                   
+ 
+
+ 
+ 
+               
+ 
+                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+
+- - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - -
+
+SUPREME COURT 
+OF THE UNITED STATES 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+COINBASE, INC.,             ) 
+
+Petitioner,  ) 
+
+v. ) No. 23-3 
+
+DAVID SUSKI, ET AL.,              ) 
+
+Respondents.  ) 
+
+Pages: 1 through 50 
+
+Place: Washington, D.C. 
+
+Date: February 28, 2024 
+
+HERITAGE REPORTING CORPORATION 
+Official Reporters 
+
+1220 L Street, N.W., Suite 206 
+Washington, D.C.  20005 
+
+(202) 628-4888 
+www.hrccourtreporters.com 
+
+www.hrccourtreporters.com
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+ 
+                                                                   
+ 
+ 
+                    
+ 
+                                
+ 
+                    
+ 
+                         
+ 
+                               
+ 
+              
+ 
+                         
+ 
+                                
+ 
+              
+ 
+                   
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+               
+ 
+             
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9
+
+10              
+
+11              
+
+12
+
+13  
+
+14  
+
+15  
+
+16
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22
+
+23
+
+24
+
+25
+
+- - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - -
+
+Official 
+
+1 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+ COINBASE, INC.,            )
+
+    Petitioner,  )
+
+ v. ) No. 23-3
+
+ DAVID SUSKI, ET AL.,             )
+
+    Respondents.       ) 
+
+Washington, D.C.
+
+ Wednesday, February 28, 2024 
+
+The above-entitled matter came on for 
+
+oral argument before the Supreme Court of the 
+
+United States at 11:36 a.m. 
+
+APPEARANCES: 
+
+JESSICA L. ELLSWORTH, ESQUIRE, Washington, D.C.; on 
+
+behalf of the Petitioner. 
+
+DAVID J. HARRIS, JR., ESQUIRE, San Diego, California; 
+
+on behalf of the Respondents. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                               
+ 
+                 
+ 
+               
+ 
+               
+ 
+              
+ 
+               
+ 
+                          
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+2
+
+Official 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF:             PAGE:
+
+ JESSICA L. ELLSWORTH, ESQ.
+
+ On behalf of the Petitioner             3
+
+ ORAL ARGUMENT OF:
+
+ DAVID J. HARRIS, JR., ESQ.
+
+ On behalf of the Respondents 32
+
+ REBUTTAL ARGUMENT OF:
+
+ JESSICA L. ELLSWORTH, ESQ. 
+
+On behalf of the Petitioner             48 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                               
+ 
+                                                
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+                           
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+               
+ 
+             
+ 
+               
+ 
+                
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13    
+
+14  
+
+15  
+
+16 
+
+17  
+
+18  
+
+19  
+
+20  
+
+21 
+
+22  
+
+23 
+
+24  
+
+25  
+
+3
+
+Official 
+
+P R O C E E D I N G S
+
+ (11:36 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear
+
+ argument next in Case 23-3, Coinbase versus
+
+ Suski.
+
+ Ms. Ellsworth.
+
+ ORAL ARGUMENT OF JESSICA L. ELLSWORTH
+
+ ON BEHALF OF THE PETITIONER
+
+ MS. ELLSWORTH:  Mr. Chief Justice, and 
+
+may it please the Court: 
+
+The Federal Arbitration Act requires 
+
+courts to enforce arbitration agreements 
+
+according to their terms.  Respondents and 
+
+Coinbase agreed to arbitrate any disputes about 
+
+Coinbase services and to delegate to an 
+
+arbitrator any threshold disputes about whether 
+
+specific claims were subject to arbitration. 
+
+Despite this delegation clause, the 
+
+parties have spent nearly three years disputing 
+
+this threshold issue.  That's because, instead 
+
+of enforcing the delegation clause, the courts 
+
+below came up with rationales to evade it and to 
+
+instead answer the question of arbitrability for 
+
+themselves. 
+
+The Ninth Circuit did so by 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                 
+ 
+              
+ 
+               
+ 
+               
+ 
+                 
+ 
+                
+ 
+              
+ 
+               
+ 
+                 
+ 
+                
+ 
+               
+ 
+             
+ 
+             
+ 
+                
+ 
+               
+ 
+                
+ 
+               
+ 
+                
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+               
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9 
+
+10 
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17  
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24 
+
+25  
+
+4 
+
+Official 
+
+characterizing Respondents' challenge as one of
+
+ contract formation, asserting that contract
+
+ formation can never be delegated and
+
+ sidestepping the delegation clause.  The issue, 
+
+as the court of appeals saw it, was whether the
+
+ parties formed a contract to arbitrate these
+
+ claims.
+
+ If that approach were correct, courts 
+
+in every case could ignore delegation clauses by 
+
+just characterizing an arbitrability dispute as 
+
+a question of whether the parties formed a 
+
+contract to arbitrate the claims at issue. 
+
+Respondents do not defend that 
+
+reasoning.  They agree the contracts here were 
+
+formed and that they were in effect.  Their 
+
+argument is that the scope of the otherwise 
+
+applicable arbitration agreement was narrowed by 
+
+a later contract to exclude their asserted 
+
+claims.  That question is one of arbitrability, 
+
+and the parties agreed an arbitrator would 
+
+decide it. 
+
+Respondents blur three distinct legal 
+
+questions in a case like this one.  The first is 
+
+the merits of the claims the Respondents assert. 
+
+The second is whether those -- the merits of 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                  
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+                
+ 
+                
+ 
+               
+ 
+             
+ 
+                
+ 
+                
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9   
+
+10 
+
+11  
+
+12 
+
+13 
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+5
+
+Official 
+
+ those claims should be arbitrated.  And the 
+
+third, which is the only question that was 
+
+before the courts below and is before this
+
+ Court, is who decides whether the merits should 
+
+be arbitrated. This third question is
+
+ antecedent to the other two.
+
+ I welcome the Court's questions.
+
+ JUSTICE THOMAS:  Isn't the problem the
+
+ confusion that results from the difference 
+
+between the official rules and the agreement? 
+
+MS. ELLSWORTH:  So, Your Honor, at 
+
+some level, there is some confusion that the 
+
+Respondents have argued results from looking at 
+
+these two together.  But the only way there is 
+
+confusion is if you conflate those different 
+
+layers of questions because the -- the -- the 
+
+delegation clause that's in the arbitration 
+
+agreement answers directly the who decides. 
+
+JUSTICE THOMAS:  So what is the source 
+
+of the disagreement here?  Doesn't it come from 
+
+the -- the -- the rules? 
+
+MS. ELLSWORTH:  So the source of the 
+
+agreement is --
+
+JUSTICE THOMAS:  Disagreement. 
+
+MS. ELLSWORTH:  Certainly.  The source 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                 
+ 
+                
+ 
+               
+ 
+              
+ 
+              
+ 
+                 
+ 
+               
+ 
+                 
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+                 
+ 
+               
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+               
+ 
+               
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8 
+
+9   
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19 
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+6 
+
+Official 
+
+of the disagreement is that there is a forum
+
+ selection clause in the official rules that says
+
+ something about controversies regarding the
+
+ promotion.
+
+ And the Respondents have argued that, 
+
+by using that language, the second contract
+
+ somehow carved out of the arbitration agreement 
+
+the claims they want to assert here.
+
+ JUSTICE THOMAS:  Well, couldn't this 
+
+have been solved in drafting by simply either 
+
+having an express arbitration provision in the 
+
+official rules or by referring back to and 
+
+incorporating the user agreement? 
+
+MS. ELLSWORTH:  So, Your Honor, I 
+
+think those are certainly questions that could 
+
+be and should be addressed by the arbitrator 
+
+when this gets there.  But -- but the threshold 
+
+question is whether the confusion that Your 
+
+Honor is referencing has anything to do with the 
+
+who decides issue.  And there's nothing in the 
+
+official rules language --
+
+JUSTICE THOMAS:  Well, I think it goes 
+
+a little deeper because you can also say, is 
+
+there actually an arbitration agreement that 
+
+comes out of the -- the rules? 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+               
+ 
+               
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+             
+ 
+                            
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5 
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+7
+
+Official 
+
+MS. ELLSWORTH:  So -- so, Your Honor,
+
+ I -- I don't think there is an arbitration
+
+ agreement anywhere in the official rules.  The 
+
+Respondents' argument is to try to take the 
+
+official rules to create ambiguity about the --
+
+or -- or -- or confusion, as Your Honor said,
+
+ about what claims are actually subject to
+
+ arbitration.
+
+           JUSTICE THOMAS:  Yeah. 
+
+MS. ELLSWORTH:  But that is a 
+
+garden-variety arbitrability question.  It 
+
+doesn't speak to the threshold, gateway who 
+
+decides question. 
+
+JUSTICE JACKSON: So can I ask you --
+
+oh, go ahead.  Go ahead. 
+
+JUSTICE KAVANAUGH:  Go ahead. 
+
+JUSTICE JACKSON:  Can I ask you about 
+
+the who -- who decides question? Because I --
+
+I'm follow -- I think I'm following your 
+
+argument, but I -- I guess I'm questioning 
+
+whether you're right that the only way there is 
+
+confusion is if you conflate the questions. 
+
+So let me -- let me posit this 
+
+hypothetical.  Suppose we have two contracts, 
+
+the first of which has a delegation clause that 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+               
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+             
+ 
+                   
+ 
+              
+ 
+               
+  
+
+1 
+
+2 
+
+3   
+
+4 
+
+5 
+
+6   
+
+7   
+
+8   
+
+9   
+
+10 
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+8 
+
+Official 
+
+answers the who decides question, and the answer 
+
+in the first contract is the arbitrator decides.
+
+ We have a second contract that answers the 
+
+delegation question, and the answer in that case 
+
+is the court decides.
+
+ In that situation, where you have
+
+ these two different contracts with two different
+
+ clear delegation principles, isn't the question
+
+ at that point, which contract controls?  Which, 
+
+you know, I take it is another way of the Ninth 
+
+Circuit saying, well, this contract superseded 
+
+that one.  But, really, it's a question at that 
+
+point of what did the parties intend, what was 
+
+their agreement about which of these two 
+
+contracts controls the situation. 
+
+And in that case, I think you go to 
+
+the court.  Why -- why am I wrong about that? 
+
+And isn't that the situation that's actually 
+
+being presented on these facts? 
+
+MS. ELLSWORTH:  So I think you are 
+
+right about that, not wrong about it. And I 
+
+think the distinction between your hypothetical 
+
+and this issue in this case is -- is -- is a 
+
+very important one. 
+
+You're right about it because, in your 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+               
+ 
+               
+ 
+                 
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+                
+ 
+               
+ 
+             
+ 
+                 
+ 
+                
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+  
+
+1   
+
+2 
+
+3 
+
+4 
+
+5   
+
+6   
+
+7   
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14    
+
+15 
+
+16  
+
+17  
+
+18           
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+9
+
+Official 
+
+ hypothetical, you identified a -- a contract 
+
+with a delegation clause and a second contract 
+
+that isn't silent about delegation; it 
+
+specifically addresses delegation and has a
+
+ different provision.
+
+ So a party could come into court
+
+ resisting arbitration and make a specific 
+
+challenge to the delegation clause in the first
+
+ contract that is directed at whether that 
+
+particular delegation clause has been superseded 
+
+by the later delegation clause.  It's all at 
+
+this who decides level. 
+
+The problem in this case is that the 
+
+-- from the very beginning, the Respondents have 
+
+agreed this arbitration agreement remains in 
+
+effect.  This delegation clause remains in 
+
+effect.  It would cover these claims. 
+
+JUSTICE JACKSON: I understand, but by 
+
+operation of the law, don't we have the --
+
+basically the same thing here?  Because the 
+
+second contract is not completely silent.  The 
+
+second contract says forum selection, go to --
+
+you know, disputes go to the court. 
+
+And I thought that by operation of 
+
+law, when you don't speak to delegation in a 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                  
+ 
+                 
+ 
+                 
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+               
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+  
+
+1   
+
+2 
+
+3 
+
+4 
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+10
+
+Official 
+
+ situation like that, it's -- the choice is --
+
+the delegation is to the court. So that, in 
+
+effect, even though we don't have those words in 
+
+the second contract, we basically achieve the
+
+ same thing.  Am I wrong about that?
+
+ MS. ELLSWORTH:  I -- I think you
+
+ are --
+
+JUSTICE JACKSON:  Okay.
+
+ MS. ELLSWORTH:  -- just a little bit 
+
+off about that. 
+
+JUSTICE JACKSON:  Okay. 
+
+MS. ELLSWORTH:  And the nuance here, I 
+
+think, is the exact nuance that this Court 
+
+identified really going all the way back to 
+
+Prima Paint but through Rent-A-Center itself, 
+
+where it talked about the fact you can have 
+
+validity challenges that are -- that occur at 
+
+these different levels. 
+
+So you can argue that there's some 
+
+sort of invalidity or some sort of supersession 
+
+that occurs at the level of the arbitration 
+
+agreement.  You can also have one that occurs at 
+
+the level of the delegation clause. 
+
+And under the severability principle 
+
+that this Court has consistently applied and 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                 
+ 
+                
+ 
+              
+ 
+                
+ 
+              
+ 
+               
+ 
+              
+ 
+               
+ 
+             
+ 
+             
+ 
+                
+ 
+              
+ 
+                  
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+               
+  
+
+1 
+
+2 
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12 
+
+13  
+
+14 
+
+15  
+
+16 
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22 
+
+23  
+
+24  
+
+25  
+
+11 
+
+Official 
+
+that it draws directly from the text of Section 
+
+2 of the FAA, the only question here is whether
+
+ the -- the Respondents' argument addresses the
+
+ who decides question.
+
+ JUSTICE KAVANAUGH:  Can I -- keep
+
+ going.
+
+ JUSTICE JACKSON:  No, I'm -- it's all
+
+ right. I'm done.
+
+ MS. ELLSWORTH:  So the only -- only 
+
+other point I would make that I think is 
+
+important to understand about this is that a 
+
+delegation clause by its very nature must reach 
+
+more broadly than an arbitration agreement, and 
+
+that's because, when you get to the del -- when 
+
+you -- when you have the delegation and you end 
+
+up in front of the arbitrator, sometimes the 
+
+answer will be yes, this should be arbitrated; 
+
+sometimes it will be no, it shouldn't be.  But 
+
+the force of the delegation clause does not turn 
+
+on the reach of the arbitration agreement. 
+
+JUSTICE KAVANAUGH:  So, from the reply 
+
+brief, page 9, I located a point of possible 
+
+agreement between you and Respondent on a remand 
+
+possibility.  So you say on page 9 in the reply 
+
+brief, "Because the Ninth Circuit did not decide 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+              
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+                
+ 
+                 
+ 
+               
+ 
+              
+ 
+               
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+                
+ 
+              
+ 
+               
+ 
+             
+ 
+               
+ 
+               
+ 
+              
+ 
+               
+  
+
+1 
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7   
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17            
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+12 
+
+Official 
+
+whether the sweepstakes' official rules
+
+ displaced the delegation clause, this Court 
+
+could vacate the judgment below and instruct the
+
+ Ninth Circuit to apply the FAA's severability
+
+ rules. See response 58," the response to the
+
+ red brief.
+
+ The red brief said "the Court should 
+
+remand this case to the Ninth Circuit to more
+
+ thoroughly consider whether the Official Rules 
+
+partially modify the User Agreements' delegation 
+
+clauses" -- they say -- "under non-preempted, 
+
+State laws of contract interpretation." 
+
+Are you all saying the same thing 
+
+there? And if you both agree that the Ninth 
+
+Circuit's analysis is wrong, it should be 
+
+remanded, are we done? 
+
+MS. ELLSWORTH:  So I think, Your 
+
+Honor, that we do both agree that the Ninth 
+
+Circuit's analysis was wrong.  I think we do 
+
+both agree that this should be remanded. 
+
+I think we have a disagreement when 
+
+you get beyond that.  And --
+
+JUSTICE KAVANAUGH:  The -- the under, 
+
+the -- can we just remand and say that's for the 
+
+Ninth Circuit to -- to figure out in the first 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                
+ 
+                 
+ 
+                
+ 
+               
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+                          
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+ 
+               
+ 
+               
+ 
+                 
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22    
+
+23  
+
+24  
+
+25 
+
+13
+
+Official 
+
+ instance?
+
+ MS. ELLSWORTH:  You can.  I -- I think 
+
+it would be important --
+
+JUSTICE KAVANAUGH:  And if we do that,
+
+ are we done?
+
+ (Laughter.)
+
+ MS. ELLSWORTH:  So, Your Honor, I
+
+ think you -- I think you could stop there.
+
+ JUSTICE KAVANAUGH:  Okay. 
+
+MS. ELLSWORTH:  I think there are some 
+
+reasons not to stop there and to add a little 
+
+bit of an explanation. 
+
+JUSTICE KAVANAUGH:  But we could.  I 
+
+just want to get the "could" and the Respondent. 
+
+(Laughter.) 
+
+MS. ELLSWORTH:  Yes.  Yes, Your Honor. 
+
+Yes. I -- I --
+
+JUSTICE KAVANAUGH:  And then tell me 
+
+why we shouldn't, but I just wanted to get the 
+
+"could."  Okay. 
+
+MS. ELLSWORTH:  Well, I -- I think you 
+
+-- you -- you could stop there, but in saying 
+
+that you're remanding the case, I think there 
+
+are three important principles that the Ninth 
+
+Circuit went astray on that I would recommend 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+               
+ 
+                 
+ 
+              
+ 
+               
+ 
+              
+ 
+               
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+               
+ 
+               
+ 
+                
+ 
+                 
+ 
+                
+ 
+                
+  
+
+1 
+
+2 
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19 
+
+20  
+
+21  
+
+22 
+
+23  
+
+24 
+
+25 
+
+14 
+
+Official 
+
+that this Court provide as guidance because this 
+
+is a situation, successive contracts come up not
+
+ infrequently in all sorts of commercial
+
+ settings, consumer settings.
+
+ The first is that the severability 
+
+principle applies just as much in a successive
+
+ contract scenario as it does to a single
+
+ contract scenario.  That means that the court
+
+ can only entertain challenges directly to the 
+
+validity or enforceability of the delegation 
+
+clause itself. 
+
+The second principle that I think 
+
+would be important to explain is that delegation 
+
+clauses can and regularly do direct an 
+
+arbitrator to resolve disputes about whether an 
+
+arbitration agreement exists and whether it 
+
+covers a particular dispute. 
+
+The third point I think that this 
+
+Court should make in remanding it is that a 
+
+court cannot refuse to enforce a delegation 
+
+clause based on the court's view that a later 
+
+contract changes the scope of what disputes are 
+
+arbitrable because, as I said in -- to -- in 
+
+response to your earlier question, the force of 
+
+a delegation clause does not rise or fall on the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                            
+ 
+              
+ 
+              
+ 
+               
+ 
+               
+ 
+                  
+ 
+                 
+ 
+              
+ 
+              
+ 
+                   
+ 
+              
+ 
+              
+ 
+               
+ 
+              
+ 
+                
+ 
+                
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5   
+
+6   
+
+7 
+
+8 
+
+9   
+
+10  
+
+11
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+15
+
+Official 
+
+scope of --
+
+JUSTICE SOTOMAYOR: These are huge
+
+ changes.
+
+ CHIEF JUSTICE ROBERTS: Well, you --
+
+you do --
+
+JUSTICE SOTOMAYOR:  I'm sorry.  These 
+
+are huge changes. You are now creating a whole 
+
+set of federal rules on what constitutes a
+
+ superseding agreement or not. 
+
+I don't -- we didn't grant cert on 
+
+that. We granted cert on a very narrow 
+
+question, and the narrow question was where 
+
+parties enter into an agreement -- an 
+
+arbitration agreement with a delegation clause, 
+
+should an arbitrator or a court decide whether 
+
+that agreement is narrowed by a later contract 
+
+that is silent as to arbitration and delegation. 
+
+I don't know whether the silence or 
+
+not is relevant.  The question is what does 
+
+state law do. We didn't answer -- we didn't ask 
+
+for briefing on that.  The short answer is the 
+
+court decides what state law says or doesn't 
+
+say. 
+
+Here, the Ninth Circuit decided that 
+
+three years into this litigation, two appeals to 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+                
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+               
+ 
+                 
+ 
+             
+ 
+              
+ 
+             
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+ 
+                 
+ 
+             
+ 
+               
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5 
+
+6 
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21    
+
+22  
+
+23  
+
+24  
+
+25  
+
+16 
+
+Official 
+
+-- to the Supreme Court that have been accepted.
+
+ Why shouldn't we just answer that question?  The
+
+ Court decides it.  State law may guide the Court 
+
+in whether there's been a superseding agreement, 
+
+but we shouldn't be creating federal rules for 
+
+the state to follow or not follow in
+
+ interpreting contracts.
+
+ MS. ELLSWORTH:  Justice Sotomayor, we 
+
+are not asking for you to create any federal 
+
+rules in resolving this case.  The severability 
+
+rule is something this Court has applied 
+
+consistently.  It has drawn directly from the 
+
+text of Sections 2, 3, and 4. 
+
+And all we're asking is that in -- in 
+
+remanding this, you make clear that the 
+
+severability rule applies here, just as it 
+
+always does. 
+
+JUSTICE SOTOMAYOR:  No, they've --
+
+CHIEF JUSTICE ROBERTS: Well --
+
+JUSTICE SOTOMAYOR:  -- answered that 
+
+-- I'm sorry. 
+
+CHIEF JUSTICE ROBERTS: -- I'm -- I --
+
+I would suppose that your answer could be that 
+
+it -- it depends. I mean, simply because 
+
+there's a subsequent contract that is silent 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+              
+ 
+               
+ 
+                 
+ 
+               
+ 
+              
+ 
+               
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+               
+  
+
+1   
+
+2 
+
+3   
+
+4 
+
+5 
+
+6   
+
+7   
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15 
+
+16  
+
+17  
+
+18    
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+17
+
+Official 
+
+ doesn't mean that the delegation clause covers 
+
+all of that, right?
+
+ You could have a big enterprise and 
+
+you have a delegation clause in a particular 
+
+arbitration agreement, and there's a contract
+
+ entered between the same parties somewhere down
+
+ the line concerning a totally different issue. 
+
+And do you think in that situation it still goes
+
+ to the arbitrator --
+
+MS. ELLSWORTH:  So, Your Honor --
+
+CHIEF JUSTICE ROBERTS: -- to decide 
+
+whether he or she's been delegated the authority 
+
+to arbitrate that agreement? 
+
+MS. ELLSWORTH:  Mr. Chief Justice, I 
+
+think there is a practical answer to that and 
+
+there is a doctrinal answer to that. 
+
+The -- the practical answer is that a 
+
+-- a party only invokes a delegation clause when 
+
+it thinks it has a real claim that the dispute 
+
+is actually subject to arbitration. 
+
+So -- so, for example, in this case, 
+
+the Respondents have agreed that absent the 
+
+official rules changing it, their claims are 
+
+subject to -- to arbitration. So that's the --
+
+that's the practical answer. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+                 
+ 
+               
+ 
+             
+ 
+                
+ 
+               
+ 
+                
+ 
+              
+ 
+               
+ 
+             
+ 
+             
+ 
+                
+ 
+                
+  
+
+1   
+
+2   
+
+3 
+
+4 
+
+5 
+
+6   
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19 
+
+20  
+
+21  
+
+22  
+
+23  
+
+24 
+
+25 
+
+18
+
+Official 
+
+CHIEF JUSTICE ROBERTS: Well, put that
+
+ aside. Well -- or, no, I'll answer it now. I 
+
+mean, the parties invoke it or not depending 
+
+upon how they regard their self-interest.  I 
+
+mean, they may well have a favorable view of the
+
+ person who is arbitrating or not.  They may well 
+
+have a particular reason to proceed more
+
+ promptly than litigation would.
+
+ What is the internal limit that you 
+
+have that says no, that contract is not 
+
+sufficiently connected to why we have a 
+
+delegation clause under the other one? 
+
+MS. ELLSWORTH:  Your Honor, when a 
+
+party invokes a delegation clause, this Court 
+
+unanimously in the Henry -- Henry Schein 
+
+decision from a few terms ago made clear that 
+
+courts have no power and no business answering 
+
+the arbitrability question for themselves, even 
+
+in a case where they think the invocation of the 
+
+delegation clause was wholly groundless. 
+
+We are a far cry from that scenario 
+
+here. I think Your Honor's hypothetical where 
+
+there are two contracts that really address 
+
+totally disconnected scenarios might be closer 
+
+to Henry Schein, but Henry Schein then, I think, 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+                
+ 
+               
+ 
+                 
+ 
+              
+ 
+               
+ 
+                         
+ 
+                 
+ 
+              
+ 
+                
+ 
+                
+ 
+                  
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+                
+ 
+                
+ 
+              
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11 
+
+12  
+
+13  
+
+14  
+
+15 
+
+16  
+
+17  
+
+18 
+
+19 
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+19 
+
+Official 
+
+provides the appropriate avenue.
+
+ And -- and as the Court said in that
+
+ case, if someone really is frivolously or
+
+ improperly invoking a delegation clause, 
+
+arbitrators have ways to quickly move the matter
+
+ back to court.  There may be sanctions
+
+ available.  There are other tools --
+
+CHIEF JUSTICE ROBERTS: Yeah, but at 
+
+some point, you get into the fundamental 
+
+principle of arbitration that the parties must 
+
+have agreed to turn something over to the 
+
+arbitrator.  And it seems to me that if you get 
+
+a contract that is way out of the -- however you 
+
+want to describe it -- the scope, that saying 
+
+it's up for the arbitrator kind of skips over 
+
+that pretty important part. 
+
+MS. ELLSWORTH:  Your Honor, in -- in 
+
+this case, there is undisputedly a clear and 
+
+unmistakable delegation clause of all disputes 
+
+about Coinbase services. 
+
+These claims are about Coinbase 
+
+services.  The Respondents say that they used 
+
+Coinbase services to enter into a sweepstakes 
+
+when they wished they had mailed in a postcard 
+
+instead.  That is absolutely a dispute about 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                  
+ 
+              
+ 
+                  
+ 
+                 
+ 
+                
+ 
+               
+ 
+                 
+ 
+                
+ 
+              
+ 
+                
+ 
+             
+ 
+                
+ 
+               
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+                
+ 
+               
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+  
+
+1 
+
+2   
+
+3   
+
+4 
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10 
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+20 
+
+Official 
+
+Coinbase services. It is covered by the
+
+ arbitration agreement as written.
+
+ The question becomes does the -- do 
+
+the official rules somehow carve out that
+
+ particular set of claims from arbitration, but
+
+ there's not a carveout from delegation.  And 
+
+that makes sense because the purpose of
+
+ delegation is to set up a streamlined, efficient
+
+ process for resolving these arbitrability 
+
+disputes. 
+
+It is about consent to have an 
+
+arbitrator quickly and efficiently tell the 
+
+parties, does this dispute belong in court or 
+
+does this dispute belong in arbitration? 
+
+JUSTICE JACKSON:  But on the --
+
+JUSTICE ALITO:  On the pure -- on the 
+
+pure who question, which is what we agreed to 
+
+review, you say on page 12 of your reply brief, 
+
+"Coinbase agrees that the Court can and should 
+
+assess whether the official rules displace the 
+
+parties' consent to have an arbitrator decide 
+
+arbitrability...".  I mean, that seems to answer 
+
+and concede the who question. 
+
+And then there is the what question. 
+
+But we didn't grant review on the what question. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+               
+ 
+                 
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+               
+ 
+             
+ 
+              
+ 
+               
+ 
+                 
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7 
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+21
+
+Official 
+
+MS. ELLSWORTH:  Right. You -- that's
+
+ absolutely right, Justice Alito. You granted
+
+ review on the -- on the who -- who decides
+
+ question.
+
+ JUSTICE ALITO:  Right.
+
+ MS. ELLSWORTH:  And the answer to the 
+
+who decides question in a case like this where 
+
+there is a delegation clause that remains in
+
+ effect is absolutely that the arbitrator does. 
+
+That --
+
+JUSTICE ALITO:  Well, you -- haven't 
+
+you -- you've -- you've begged the question when 
+
+you say that remains in effect. The question is 
+
+whether it remains in effect after the official 
+
+rules. 
+
+MS. ELLSWORTH:  Your Honor, that's 
+
+correct.  And that is a --
+
+JUSTICE ALITO:  And who decides that? 
+
+MS. ELLSWORTH:  So, if the parties 
+
+came to court and made an argument that was 
+
+specifically directed at the delegation clause 
+
+somehow being undermined, this would require 
+
+showing that your argument addresses the same 
+
+level of concern as who decides. 
+
+Again, if we think about you've got 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                  
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+               
+ 
+                 
+ 
+                 
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+               
+  
+
+1   
+
+2
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8 
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23    
+
+24  
+
+25  
+
+22
+
+Official 
+
+who decides, you've got arbitrability, and you 
+
+have the merits.
+
+ They pointed to a provision that talks
+
+ about a court deciding controversies regarding
+
+ the promotion.  This threshold question is not a
+
+ controversy regarding the promotion.
+
+ And I think that's why, in the 
+
+district court, in the court of appeals, in this 
+
+Court, the way Respondents see to get to a 
+
+delegation invalidation is to argue that the 
+
+arbitration agreement has been narrowed and 
+
+there's been some corresponding narrowing of the 
+
+delegation clause. 
+
+JUSTICE JACKSON: Can we set aside the 
+
+way they framed it?  Because I agree it's a 
+
+little confusing if you start from the world of 
+
+we have a delegation agreement, then we have a 
+
+subsequent agreement, and the question is to 
+
+what extent the subsequent agreement is a 
+
+carveout or narrows or whatever. 
+
+Let's say we don't frame it that way. 
+
+Let's say we frame it in the way that I want to 
+
+-- want to think about it, which is we have 
+
+contract A that absolutely answers the who 
+
+decides question, and then we have contract B 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+                  
+ 
+               
+ 
+                
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+  
+
+1   
+
+2 
+
+3   
+
+4 
+
+5 
+
+6   
+
+7 
+
+8 
+
+9 
+
+10  
+
+11 
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17    
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24 
+
+25  
+
+23
+
+Official 
+
+that implicitly decides the who -- who decides 
+
+question, because I understood by operation of
+
+ law, based on basic -- you know, what the Chief 
+
+Justice was saying, is that if you don't pick 
+
+arbitration, if you're silent about it, then the
+
+ background rule operating is that arbitration is 
+
+not what happens and any question about whether 
+
+or not arbitration is what happens, the who 
+
+decides, goes to the court. So we have contract 
+
+number 1 that is picking arbitrator is the one 
+
+who decides, and we have contract number 2 that 
+
+is implicitly picking court is the one that 
+
+decides. 
+
+I thought you agreed with me at the 
+
+beginning that in that situation, it's a 
+
+question for the court.  And that's what we're 
+
+-- which of these contracts is actually operable 
+
+today? 
+
+MS. ELLSWORTH:  Justice Jackson, I 
+
+think the difference between your earlier 
+
+hypothetical, as I --
+
+JUSTICE JACKSON:  Yes. 
+
+MS. ELLSWORTH:  -- understood it, and 
+
+this one is that the second contract, in your 
+
+earlier hypothetical, specifically said that the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                  
+ 
+                 
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+               
+ 
+               
+ 
+                 
+ 
+                   
+ 
+               
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+                     
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19       
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+24
+
+Official 
+
+ delegation clause -- it -- it identified that 
+
+there wouldn't be a delegation; it would be on
+
+ some sort of different terms.
+
+ In this case, the second contract says
+
+ nothing --
+
+           JUSTICE JACKSON:  Right, but --
+
+MS. ELLSWORTH:  -- about delegation.
+
+ JUSTICE JACKSON:  -- do you disagree 
+
+with me that, by operation of law, when a 
+
+contract says nothing, we're -- it -- it -- the 
+
+court is the one that decides what it means and 
+
+what happens? 
+
+MS. ELLSWORTH:  In -- in the abstract. 
+
+If the only --
+
+JUSTICE JACKSON:  No, not in the 
+
+abstract.  In -- in -- in the way we look at the 
+
+law. If it doesn't say anything about 
+
+arbitration --
+
+MS. ELLSWORTH:  So if it -- if it --
+
+the contract didn't say anything about 
+
+arbitration --
+
+JUSTICE JACKSON:  Yeah. 
+
+MS. ELLSWORTH:  -- we wouldn't be able 
+
+to invoke it as part of a motion to compel 
+
+arbitration. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                         
+ 
+               
+ 
+              
+ 
+               
+ 
+                
+ 
+                 
+ 
+              
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+ 
+                 
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+               
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14    
+
+15 
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+25 
+
+Official 
+
+JUSTICE JACKSON:  No.  What you're
+
+ doing is you're invoking contract 1. So --
+
+MS. ELLSWORTH:  That's right.
+
+ JUSTICE JACKSON:  -- what I'm saying,
+
+ he's invoking contract 2. We have two people 
+
+running in with contracts, one of which suggests
+
+ that this is supposed to be decided by the
+
+ court. The other is -- suggests that this is
+
+ supposed to be decided by the arbitrator. 
+
+And so, in that situation, isn't the 
+
+question which contract controls in this 
+
+situation? 
+
+MS. ELLSWORTH:  So, Justice Jackson, I 
+
+-- I think it's important to figure out what the 
+
+correct starting point is. And I think one of 
+
+the remaining places of daylight between the 
+
+Respondents and the Petitioner here is what the 
+
+right starting point is. 
+
+We say the right starting point is the 
+
+arbitration agreement that we seek to enforce. 
+
+JUSTICE JACKSON:  Yeah. 
+
+MS. ELLSWORTH:  And, here, that is the 
+
+delegation clause in the first contract.  That 
+
+delegation clause, under the -- the 
+
+straightforward operation of Section 2 of the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+                 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+               
+ 
+              
+ 
+                 
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+  
+
+1 
+
+2   
+
+3 
+
+4   
+
+5 
+
+6   
+
+7   
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23    
+
+24 
+
+25  
+
+26 
+
+Official 
+
+FAA, remains valid, enforceable, and irrevocable
+
+ unless they can make some state law challenge 
+
+that would displace it.
+
+ And so the question becomes -- and 
+
+this is the analysis the Ninth Circuit didn't do 
+
+-- have they -- by pointing to the forum
+
+ selection clause that talks about resolving 
+
+controversies about the promotion, have they
+
+ done anything under state law to displace the 
+
+who decides delegation clause in the first 
+
+contract? 
+
+JUSTICE GORSUCH:  Counsel, can I ask 
+
+you just a practical question?  I fully 
+
+appreciate your argument that parties might send 
+
+to the arbitrator the question of who decides 
+
+and, at the same time, have the -- the merits 
+
+decided in one place or the other, even within a 
+
+single arbitration agreement.  The arbitrator 
+
+decides whether agreements go to court or 
+
+arbitration.  Some will; some won't.  I get 
+
+that. 
+
+I guess I'm a little curious why your 
+
+-- your client is fighting this so hard if at 
+
+the end of the day you're going to wind up 
+
+saying, yeah, sweepstakes disputes go to court. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+                
+ 
+               
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+               
+ 
+                 
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+              
+  
+
+1 
+
+2   
+
+3   
+
+4 
+
+5   
+
+6 
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+27 
+
+Official 
+
+So, if the arbitrator is going to have to send
+
+ it to court anyway, why -- why are we here?
+
+ MS. ELLSWORTH:  So, Your Honor, that's 
+
+the practical point that I tried to make in
+
+ response to the Chief Justice.  I think, if we 
+
+thought this was going to end up back in court, 
+
+we wouldn't have invoked --
+
+JUSTICE GORSUCH:  No, I -- I --
+
+MS. ELLSWORTH:  -- the delegation 
+
+clause. 
+
+JUSTICE GORSUCH:  -- I fully 
+
+appreciate that, and I also appreciate that 
+
+under Schein that an arbitrator has -- could 
+
+sanction you for frivolous effort to keep this 
+
+in arbitration.  My question is more practical 
+
+than that even and more nitty-gritty. 
+
+Why in this case are you fighting it 
+
+when you have this second agreement that would 
+
+seem to route -- I -- I accept maybe the 
+
+arbitrator should have decided this.  I'm -- I'm 
+
+spotting you that. 
+
+MS. ELLSWORTH:  So, Your Honor --
+
+JUSTICE GORSUCH:  Why? 
+
+MS. ELLSWORTH:  -- the answer is 
+
+because, when we get to the arbitrator, we think 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                
+ 
+              
+ 
+                
+ 
+                  
+ 
+               
+ 
+               
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+             
+ 
+                
+ 
+               
+ 
+                
+ 
+             
+ 
+             
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9   
+
+10    
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18 
+
+19  
+
+20  
+
+21 
+
+22  
+
+23 
+
+24  
+
+25  
+
+28 
+
+Official 
+
+we have very good reasons --
+
+JUSTICE GORSUCH:  I -- I know that.
+
+ What are they?
+
+ MS. ELLSWORTH:  I'm -- I'm happy to --
+
+to talk you through a number of them. One is
+
+ that this provision is in the contract.  It
+
+ applies to mail-in applicants who participate in
+
+ the sweepstakes that way.
+
+ The second is that the contract -- the 
+
+-- the official rules speak about jurisdiction, 
+
+and a motion to compel arbitration and an 
+
+arbitration agreement are not about removing the 
+
+jurisdiction of the court. 
+
+It speaks to -- to personal 
+
+jurisdiction.  Really, that's what paragraph 10 
+
+is about.  And we don't think it operates as a 
+
+carveout on the arbitration agreement's scope in 
+
+the way that the Respondents have argued. 
+
+So -- so those are exactly the points 
+
+that we would make to an arbitrator.  And I 
+
+think Henry Schein makes clear an arbitrator may 
+
+agree, it may disagree with us, but the 
+
+arbitrator gets to make that decision in the 
+
+first instance. 
+
+JUSTICE BARRETT:  Counsel, can I --
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+              
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                
+ 
+             
+ 
+             
+ 
+               
+ 
+              
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+             
+ 
+               
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5   
+
+6 
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+29
+
+Official 
+
+are you done?
+
+ JUSTICE GORSUCH:  Yeah.
+
+ JUSTICE BARRETT:  Can I just return to 
+
+Justice Kavanaugh's point about what the common
+
+ ground is here?  So you agree that the question 
+
+of whether there is a valid delegation clause is 
+
+one for the court?
+
+ MS. ELLSWORTH:  The question of
+
+ whether there is a -- under the severability 
+
+principle, yes. 
+
+JUSTICE BARRETT:  You agree that 
+
+courts make that decision by clear and 
+
+convincing evidence? 
+
+MS. ELLSWORTH:  I think courts make 
+
+that -- they -- they make that decision, yes. 
+
+JUSTICE BARRETT:  Okay.  And you agree 
+
+that there is a dispute here about whether there 
+
+is a delegation of the arbitrability question to 
+
+the arbitrator? 
+
+MS. ELLSWORTH:  I'm sorry.  We agree 
+
+or disagree? 
+
+JUSTICE BARRETT:  You -- I'm saying --
+
+I'm asking, do you agree with me that the 
+
+dispute between you right now is about whether 
+
+there is a delegation that will send, taking 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                 
+ 
+               
+ 
+                
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+                  
+ 
+               
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+               
+ 
+                 
+ 
+                
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8   
+
+9  
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+30
+
+Official 
+
+ these two contracts together, send this dispute 
+
+to arbitration on the arbitrability question?
+
+ MS. ELLSWORTH:  So I think we agree
+
+ that there is a -- I think both sides agree that
+
+ there is a delegation clause and that, as 
+
+originally formulated, it would cover this
+
+ dispute.  The Respondents say --
+
+JUSTICE BARRETT:  Right, but -- but 
+
+we're looking at two -- we're looking at two 
+
+contracts.  So you -- you agree -- let's finish 
+
+this up very quickly.  You agree that there's a 
+
+dispute about whether there's a valid delegation 
+
+clause that applies here to send it to the 
+
+arbitrator? 
+
+MS. ELLSWORTH:  We -- our position is 
+
+that there is a valid delegation clause and it 
+
+should be enforced. 
+
+JUSTICE BARRETT:  But the -- no. I'm 
+
+sorry. Maybe I was unclear.  But the question 
+
+is, do you agree that there -- the question here 
+
+is about the existence, the validity, of a 
+
+delegation clause? 
+
+MS. ELLSWORTH:  Absolutely, Your 
+
+Honor. The -- the validity of the delegation 
+
+clause, I think, is reserved for a court to 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                 
+ 
+                         
+ 
+               
+ 
+              
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13           
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+31
+
+Official 
+
+ resolve, applying the severability principle, 
+
+which limits the arguments that can be --
+
+JUSTICE BARRETT:  Okay.
+
+ MS. ELLSWORTH:  -- offered to
+
+ undermine it.
+
+ JUSTICE BARRETT:  But you agree on
+
+ those three questions, though?
+
+ MS. ELLSWORTH:  Yes.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+counsel. 
+
+Justice Thomas? 
+
+Justice Alito? 
+
+Justice Sotomayor? 
+
+Justice Kagan? 
+
+Justice Gorsuch? 
+
+Justice Kavanaugh? 
+
+JUSTICE KAVANAUGH:  Any change from 
+
+when I said "could remand"?  No? 
+
+(Laughter.) 
+
+MS. ELLSWORTH:  No change, Your Honor. 
+
+JUSTICE KAVANAUGH:  Okay.  Okay. 
+
+CHIEF JUSTICE ROBERTS:  Justice 
+
+Barrett? 
+
+Justice Jackson? 
+
+Okay. Thank you, counsel. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+                           
+ 
+              
+ 
+               
+ 
+              
+ 
+                 
+ 
+              
+ 
+                 
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+              
+ 
+               
+ 
+                
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+32
+
+Official 
+
+Mr. Harris?
+
+ ORAL ARGUMENT OF DAVID J. HARRIS, JR.
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. HARRIS: Mr. Chief Justice, and
+
+ may it please the Court:
+
+ I'm going to abandon what I planned to 
+
+talk about and try to answer Justice Gorsuch's
+
+ question.  Why are they fighting this so hard? 
+
+And that only occurred to me within the last 
+
+week or so. 
+
+And the answer is there's a strategic 
+
+reason.  They want the Court -- they don't care 
+
+who decides arbitrability.  All they care about 
+
+is how arbitrability gets decided because that's 
+
+what goes to liability at the end of the day. 
+
+And so the plan is we need the Supreme Court to 
+
+overrule the Ninth Circuit's weird "existence" 
+
+language. 
+
+Why do they need that and that only? 
+
+The reason is that "existence" language 
+
+originated from the Goldman Sachs case that was 
+
+cited in our Ninth Circuit opinion.  The Goldman 
+
+Sachs case was somewhat similar to this case in 
+
+that there was a preexisting agreement to 
+
+arbitrate but then a subsequent, more specific 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+               
+ 
+                 
+ 
+               
+ 
+                 
+ 
+                
+ 
+             
+ 
+               
+ 
+               
+ 
+                
+ 
+             
+ 
+             
+ 
+                
+ 
+                
+ 
+                
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16 
+
+17 
+
+18 
+
+19 
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+33
+
+Official 
+
+ agreement to litigate.
+
+ The Ninth Circuit was looking at that
+
+ situation and thinking:  Shoot, we're bound to
+
+ apply the old presumption in favor of
+
+ arbitrability under federal law, but we know 
+
+that as a matter of contract law, there was no
+
+ real, mutual intent to arbitrate this dispute 
+
+under the most recent, most specific agreement.
+
+ So they made up a new federal rule. 
+
+Oh, this is a formation dispute, this is an 
+
+existence dispute, so that they could avoid the 
+
+presumption of -- in favor of arbitrability and 
+
+do the right thing under state law. 
+
+We've gone to great pains to argue 
+
+that non-preempted state laws are what apply 
+
+here because, at the end of the day, those are 
+
+the only laws that are capable of accurately 
+
+discerning the parties' true intentions, no 
+
+matter what type of contractual mess gets thrown 
+
+in front of judges. 
+
+It's impossible to make one federal 
+
+rule, two federal rules, three federal rules 
+
+that are going to accurately discern the 
+
+parties' contractual intentions in -- in an 
+
+infinite number of business situations. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+                
+ 
+               
+ 
+                 
+ 
+              
+ 
+              
+ 
+                
+ 
+                 
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19 
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+34
+
+Official 
+
+ Traditional state law can do that.  And we ask 
+
+that the Court apply that here and welcome to
+
+ answer any questions.
+
+ JUSTICE THOMAS:  But why wouldn't a --
+
+a later agreement that modifies the earlier
+
+ contract simply go to what the scope of the
+
+ agreement is?
+
+ MR. HARRIS: So it goes to two scopes. 
+
+It goes to the scope of the agreement to 
+
+arbitrate the merits of the dispute, and in our 
+
+position that we've tried to brief very heavily 
+
+is that it goes to the scope of the agreement to 
+
+delegate this arbitrability dispute to the 
+
+arbitrator. 
+
+And our reason for doing that is that 
+
+under Granite Rock, consent to arbitrate is 
+
+dispute-specific. If that's true in the context 
+
+of an arbitration agreement, it also has to be 
+
+true in the context of a delegation agreement. 
+
+JUSTICE GORSUCH:  But -- but, counsel, 
+
+the arbitration agreement, you concede, is still 
+
+operative, right? 
+
+MR. HARRIS: For -- for disputes 
+
+unrelated to the sweepstakes, absolutely. 
+
+JUSTICE GORSUCH:  Yeah.  Well --
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                   
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+             
+ 
+               
+ 
+             
+ 
+                
+ 
+              
+ 
+                 
+ 
+               
+ 
+             
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5
+
+6   
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+35
+
+Official 
+
+well -- and it says it applies to everything, 
+
+all disputes about Coinbase services, right? 
+
+The answer has to be yes.
+
+ MR. HARRIS: Yeah.  On -- on -- on its 
+
+-- its isolated terms, that's what the --
+
+JUSTICE GORSUCH:  That's what it says, 
+
+that's what it says, isolated terms, okay.
+
+ And I -- I guess my question for you 
+
+is the inverse of the one I asked your friend on 
+
+the other side.  The point in Schein was, if you 
+
+agree to say the arbitrator gets to direct 
+
+things, if this were all in one contract, it's 
+
+possible some things would be arbitrated, agreed 
+
+to arbitrate and some things would be -- you 
+
+agree to send to court.  And if it were in one 
+
+contract, there's no doubt that the arbitrator 
+
+would decide which -- which direction to route 
+
+things, right? 
+
+The only question is does the second 
+
+contract make this different than it being in a 
+
+single contract.  And I struggle to see why that 
+
+would be the case.  And I furthermore struggle 
+
+to see why you would care because your real 
+
+argument is that the agreement is to litigate 
+
+this in court.  And the routing, who's going to 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                  
+ 
+               
+ 
+                 
+ 
+               
+ 
+                  
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                
+ 
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+                
+ 
+              
+ 
+               
+ 
+             
+ 
+               
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+  
+
+1 
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10 
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+36 
+
+Official 
+
+do the routing? Now we're at the Supreme Court
+
+ of the United States, years have passed, we 
+
+still don't know where this case is going to be.
+
+ You could have had an answer from an
+
+ arbitrator that you belong in -- in court years
+
+ ago. Why didn't you? Again, I just struggle to 
+
+see both sides why we're here.
+
+ MR. HARRIS: So, to deal with the
+
+ first part with the Ninth Circuit and the user 
+
+agreement, I just want to make clear that the 
+
+Ninth Circuit didn't just rely on this existence 
+
+language.  After it sort of regurgitated that --
+
+JUSTICE GORSUCH:  I'm not asking about 
+
+the Ninth Circuit because it --
+
+MR. HARRIS: Well -- well -- well --
+
+JUSTICE GORSUCH:  -- seems to me both 
+
+sides have disavowed the Ninth Circuit's 
+
+opinion. 
+
+MR. HARRIS: -- it -- it really --
+
+JUSTICE GORSUCH:  I'm asking why you 
+
+are here because you could have had an answer 
+
+from an arbitrator --
+
+MR. HARRIS: Sure. 
+
+JUSTICE GORSUCH:  -- because I think 
+
+your -- your argument's really quite strong as 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+               
+ 
+                
+ 
+                 
+ 
+              
+ 
+                 
+ 
+               
+ 
+                   
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+               
+ 
+                
+ 
+               
+ 
+             
+ 
+              
+ 
+              
+ 
+               
+ 
+                
+ 
+             
+ 
+             
+ 
+               
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10  
+
+11 
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+37
+
+Official 
+
+to where this gets routed.
+
+ MR. HARRIS: Well, we've -- we've
+
+ already won in court.  We've already won
+
+ arbitrability in court.  And they haven't
+
+ challenged that here.  So the only way they
+
+ resurrect the arbitrability dispute at all is by 
+
+winning the delegation agreement.
+
+ JUSTICE GORSUCH:  My question is,
+
+ though, if -- if -- if you -- if you think you 
+
+can win on -- on where this goes, why didn't you 
+
+just go to the arbitrator to get a quick answer? 
+
+Why -- why -- why litigate it all the way to the 
+
+Supreme Court of the United States? 
+
+I'll try it one more time. 
+
+MR. HARRIS: So -- so, I mean, I guess 
+
+I'd have to go back and think about why I did it 
+
+in the trial court, why I did it in the --
+
+JUSTICE GORSUCH:  Yeah. 
+
+MR. HARRIS: -- in the Ninth Circuit. 
+
+But, here, so arbitrability, not delegation, 
+
+arbitrability is finally resolved by the federal 
+
+courts because -- unless this Court sends that 
+
+dispute back to an arbitrator. 
+
+JUSTICE GORSUCH:  Right.  Right. 
+
+MR. HARRIS: Or -- or the Ninth 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+               
+ 
+               
+ 
+               
+ 
+              
+ 
+                 
+ 
+              
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+38
+
+Official 
+
+ Circuit sends it back.
+
+ JUSTICE GORSUCH:  That's why -- that's
+
+ why we're here.  We're at the -- at the
+
+ antecedent question.
+
+ MR. HARRIS: Well, I don't want them 
+
+to have a second chance to win arbitrability.
+
+ They've already lost that.
+
+ JUSTICE JACKSON:  Can I ask you about 
+
+Justice Gorsuch's hypothetical about things 
+
+being in one contract?  Because I think it 
+
+actually matters with respect to what's going on 
+
+here. 
+
+So, if we had one contract that just 
+
+had one delegation provision and then later 
+
+underneath it, it had user agreements, 
+
+sweepstakes, or whatever, it didn't say 
+
+anything, you would agree that that delegation 
+
+clause would apply to the whole thing? 
+
+MR. HARRIS: I -- I think that's the 
+
+best reading of the user agreements in 
+
+isolation. 
+
+JUSTICE JACKSON:  All right.  So --
+
+but -- but -- but you're saying that, I guess, 
+
+if we had one contract that had different parts 
+
+and there was a delegation agreement that was in 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                   
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                   
+ 
+                 
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+               
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+  
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+39 
+
+Official 
+
+one part of it and then the other -- that went 
+
+to the arbitrator and then, in the other, it was 
+
+pretty clear the parties were saying this is 
+
+delegated to the court, that you're saying that 
+
+would be a contract formation, the court would 
+
+have to decide which one of those parts -- which 
+
+one of those delegation intents was operable?
+
+ MR. HARRIS: It would definitely be a
+
+ different question if it -- if the two types of 
+
+terms were contained in a single agreement 
+
+between the same two parties. 
+
+JUSTICE JACKSON:  Yes. 
+
+MR. HARRIS: Here, we have two 
+
+separate agreements, two separate economic 
+
+transactions, two separate groups of contracting 
+
+parties, and that changes the intent analysis 
+
+under -- under traditional rules of 
+
+interpretation. 
+
+JUSTICE KAVANAUGH:  The -- are you 
+
+done? 
+
+The -- the brief, you agree with 
+
+Coinbase that the Ninth Circuit's opinion did 
+
+not accurately reflect the parties' contractual 
+
+disputes here, right, particularly the 
+
+references to formation and existence? 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+              
+ 
+                 
+ 
+              
+ 
+                
+ 
+                 
+ 
+               
+ 
+                    
+ 
+                
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+               
+ 
+             
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5   
+
+6   
+
+7 
+
+8   
+
+9 
+
+10 
+
+11 
+
+12  
+
+13  
+
+14  
+
+15 
+
+16 
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+40
+
+Official 
+
+MR. HARRIS: Only that part, Your
+
+ Honor, yes.
+
+ JUSTICE KAVANAUGH:  Right.  And then 
+
+you say the Court can correct the Ninth
+
+ Circuit's reasonings.  The Court should
+
+ remand -- "Alternatively the Court should remand 
+
+this case to the Ninth Circuit..."
+
+ Are you -- I'm asking the same 
+
+question I asked the other -- other side.  Can 
+
+we correct the Ninth Circuit's reasoning as both 
+
+sides agree it's wrong and then send it back --
+
+MR. HARRIS: So -- so -- so I only --
+
+JUSTICE KAVANAUGH:  -- for a 
+
+determination of whether the sweepstakes 
+
+displace the other contract, which could involve 
+
+a debate about which law controls and all sorts 
+
+of other things? 
+
+MR. HARRIS: So I only agree that the 
+
+existence and formation part of the Ninth 
+
+Circuit's analysis was wrong.  I do not view 
+
+that part of what they said as what controlled 
+
+their analysis. 
+
+So, if you look carefully at their 
+
+opinion, they have two headings, delegation 
+
+clause and arbitration or whatever the second 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+               
+ 
+                         
+ 
+                 
+ 
+               
+ 
+                  
+ 
+                 
+ 
+              
+ 
+                 
+ 
+                
+ 
+              
+ 
+                
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7 
+
+8   
+
+9 
+
+10 
+
+11  
+
+12 
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+41
+
+Official 
+
+ heading was.  But they have a heading for
+
+ delegation clause. 
+
+Under that, Coinbase had argued that,
+
+ well, this is a dispute about the scope of the
+
+ arbitration agreement, and, therefore, that's 
+
+the end of the analysis. It must go to the 
+
+arbitrator.
+
+ The Ninth Circuit said:  Wait a 
+
+minute, we're going to actually ask whether that 
+
+scope language was intended to apply to a future 
+
+contract like this one that says court only, 
+
+that has a different set of parties. 
+
+So -- so all that to say, they did 
+
+directly address the delegation question before 
+
+reaching arbitrability.  And that's correct 
+
+under Henry Schein. 
+
+And they also, in addressing 
+
+delegation, the question they answered is, is 
+
+this delegation clause intended to be applicable 
+
+to this arbitrability dispute? 
+
+And that's -- that's one correct 
+
+question to ask under Granite Rock because 
+
+arbitration is always dispute-specific.  It's --
+
+we can't just label this an arbitrability 
+
+dispute and move on. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+              
+ 
+               
+ 
+               
+ 
+                 
+ 
+                  
+ 
+                 
+ 
+                
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+                
+ 
+                
+ 
+                 
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5 
+
+6 
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25 
+
+42
+
+Official 
+
+We can't do that because it's also a
+
+ forum dispute.  It's also in substance a dispute
+
+ about the official rules.  We don't actually
+
+ agree about the scope of the user agreements. 
+
+We disagree about the scope of the official 
+
+rules of the June 2021 sweepstakes. How is that 
+
+not a controversy regarding the sweepstakes as
+
+ to arbitrability?  It's about the arbitrability
+
+ of the sweepstakes. 
+
+JUSTICE KAGAN:  Do you think --
+
+MR. HARRIS: And that was intended for 
+
+the courts. 
+
+JUSTICE KAGAN: -- do you think that 
+
+the Ninth Circuit decided whether the official 
+
+rules supplant the original arbitration 
+
+agreement's delegation clause? 
+
+MR. HARRIS: No.  And that -- that's 
+
+where I think they went wrong if anywhere. 
+
+JUSTICE KAGAN:  So that -- so -- so 
+
+you think that this is not like, oh, they just 
+
+forgot to put in a sentence.  You think that 
+
+they never addressed that question? 
+
+MR. HARRIS: Correct.  They stopped at 
+
+the question before it, which is, look, we don't 
+
+even have to reach the official rules because 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+              
+ 
+                 
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+ 
+                 
+ 
+              
+ 
+              
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+                 
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23              
+
+24 
+
+25  
+
+43
+
+Official 
+
+we're just looking at the clause, the delegation
+
+ clause, and we're looking at the arbitrability 
+
+dispute and we're saying we don't think this was
+
+ meant to cover this.
+
+ And -- and -- and that's an
+
+ applicability decision that is
+
+ delegation-specific.  That's not preempted by
+
+ the FAA.  They haven't -- they haven't addressed
+
+ it at all. 
+
+They haven't addressed it under state 
+
+law. They haven't addressed it under federal 
+
+law. There's actually -- they just want to 
+
+focus on this existence language so that they 
+
+can go back and down and say, hey, this 
+
+existence rule no longer exists, and, by the 
+
+way, that was your excuse to apply state law. 
+
+Now you have to apply the presumption in favor 
+
+of arbitrability. 
+
+JUSTICE SOTOMAYOR:  I think you just 
+
+gave away your case.  I think you just gave away 
+
+your case. 
+
+MR. HARRIS: Well, no, Your Honor. 
+
+JUSTICE SOTOMAYOR:  Your -- your --
+
+they came in saying vacate and remand because 
+
+they didn't address delegation and whether the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                   
+ 
+              
+ 
+                 
+ 
+               
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+                
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+               
+ 
+             
+ 
+                 
+ 
+                
+ 
+                
+ 
+             
+ 
+              
+ 
+                 
+ 
+                
+ 
+              
+ 
+               
+ 
+              
+  
+
+1  
+
+2   
+
+3 
+
+4   
+
+5   
+
+6 
+
+7   
+
+8   
+
+9   
+
+10 
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+44 
+
+Official 
+
+-- the user agreement -- the -- the sweepstakes
+
+ agreement superseded that.  And you're saying 
+
+the Ninth Circuit didn't do that.
+
+ MR. HARRIS: Right.  And -- and in my
+
+ view, they didn't necessarily have to because 
+
+they asked whether the delegation clause was
+
+ applicable to this arbitrability dispute about
+
+ the sweepstakes.  They -- they looked at the
+
+ delegation clause and they said: This wasn't 
+
+intended to cover this particular arbitrability 
+
+dispute.  And so they said it's not delegated. 
+
+But, to -- to some of the Justices' 
+
+point, if we look at just the language of the 
+
+delegation clause, it's broad enough to cover 
+
+any arbitrability dispute.  So the safer, better 
+
+way to address this delegation question is were 
+
+the official rules intended -- or -- or -- or 
+
+did the official rules have the effect of 
+
+modifying the delegation clause as to these 
+
+types of arbitrability disputes? 
+
+JUSTICE GORSUCH:  I -- I -- I -- I 
+
+just -- I'm struggling.  I -- I -- I certainly 
+
+see the argument that the second agreement 
+
+modifies where this thing should go and should 
+
+be resolved and by whom ultimately.  But I think 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                 
+ 
+                  
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+ 
+              
+ 
+                 
+ 
+             
+ 
+              
+ 
+               
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+               
+ 
+               
+ 
+               
+ 
+                
+  
+
+1 
+
+2 
+
+3   
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9   
+
+10  
+
+11    
+
+12  
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25 
+
+45 
+
+Official 
+
+you've just conceded over and over again that 
+
+the first agreement says those questions go to
+
+ the arbitrator and it's broad in scope and it 
+
+covers everything, all relationships with 
+
+Coinbase. So you want us to vacate and remand 
+
+for more proceedings in the Ninth Circuit on 
+
+whether that first agreement modifies the second 
+
+rather than just going to get an answer from the
+
+ arbitrator. 
+
+MR. HARRIS: I mean, remand is not our 
+
+-- our first request. Our first request is to 
+
+affirm the judgment and -- and just make clear 
+
+that that "existence" language isn't the way to 
+
+go about it. The way to go about it is ask 
+
+whether the parties intended the delegation 
+
+clause to apply to this arbitrability dispute. 
+
+And as -- I mean, I could give you a 
+
+long, economic, strategic answer --
+
+JUSTICE GORSUCH:  Well, I'm kind of --
+
+MR. HARRIS: -- for why we're --
+
+JUSTICE GORSUCH:  -- kind of curious, 
+
+I admit.  I mean, this is about a sweepstakes, 
+
+you know, entry.  And how much money is at 
+
+stake? And why are we litigating all the way to 
+
+the Supreme Court of the United States up and 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+               
+ 
+               
+ 
+                 
+ 
+                  
+ 
+                  
+ 
+                 
+ 
+                
+ 
+                
+ 
+             
+ 
+                
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+ 
+                
+  
+
+1 
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10  
+
+11 
+
+12  
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+46 
+
+Official 
+
+down and up and down over where this goes when,
+
+ frankly, I would have thought you had a really 
+
+good shot of getting an arbitrator to say this
+
+ belongs in court.
+
+ MR. HARRIS: I would agree, but -- but
+
+ that wasn't -- that wasn't the -- we don't want 
+
+to take this to an arbitrator. And they don't 
+
+-- they don't care where it goes. We care where
+
+ it goes.  But they don't care where the -- they 
+
+don't care who decides arbitrability.  They just 
+
+care where the case ends up. 
+
+We've already won the issue in court 
+
+of where the case ends up, so we don't want it 
+
+to go to an arbitrator now to review the Ninth 
+
+Circuit's arbitrability decision. 
+
+I'm just answering the question of why 
+
+are we here. 
+
+(Laughter.) 
+
+JUSTICE KAGAN:  I mean, because you 
+
+think an arbitrator will be less likely to send 
+
+it to court?  Is that the reason why you're 
+
+here? 
+
+MR. HARRIS: Well, we -- what we have 
+
+right now is a hundred percent certainty.  And 
+
+if an arbitrator is reviewing it, it's less than 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+              
+ 
+                 
+ 
+              
+ 
+                           
+ 
+                  
+ 
+                 
+ 
+                 
+ 
+               
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6 
+
+7 
+
+8   
+
+9   
+
+10  
+
+11    
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+47
+
+Official 
+
+a hundred percent certainty.
+
+ JUSTICE BARRETT:  How much money are 
+
+you seeking in your complaint for this
+
+ sweepstakes entry thing? 
+
+MR. HARRIS: So it -- I mean, at the 
+
+time we filed, we didn't know. At the time we 
+
+filed, all we knew is that entrants were
+
+ manipulated into being -- into paying $100 per
+
+ person or more to -- to enter the sweepstakes. 
+
+We are left to estimate, you know, how 
+
+-- how many people were affected by that. 
+
+JUSTICE KAVANAUGH:  It's a class 
+
+action, putative, right? 
+
+MR. HARRIS: Putative. 
+
+JUSTICE BARRETT:  Putative? 
+
+JUSTICE KAVANAUGH:  Yeah.  That's --
+
+that's the answer, isn't it? 
+
+MR. HARRIS: Yes, Your Honor.  That's 
+
+essentially the answer. 
+
+CHIEF JUSTICE ROBERTS: Thank --
+
+counsel, if you have --
+
+Justice Thomas? 
+
+Anyone on that end?  Anything further? 
+
+Thank you, counsel. 
+
+MR. HARRIS: Thank you, Your Honor. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+              
+ 
+                           
+ 
+              
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                
+ 
+               
+ 
+             
+ 
+                
+ 
+              
+ 
+             
+ 
+                
+ 
+                
+ 
+              
+ 
+               
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+               
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7 
+
+8 
+
+9 
+
+10 
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+48
+
+Official 
+
+CHIEF JUSTICE ROBERTS: Ms. Ellsworth?
+
+        REBUTTAL ARGUMENT OF JESSICA L. ELLSWORTH
+
+ ON BEHALF OF THE PETITIONER
+
+ MS. ELLSWORTH:  I think, as Justice
+
+ Sotomayor's question made clear, this case needs
+
+ to be remanded.  The Respondents and the 
+
+Petitioners are in agreement on that.  We're 
+
+here because the Ninth Circuit failed to apply 
+
+the FAA's federal severability framework and, as 
+
+a result, failed to do the state law analysis as 
+
+applied to the delegation clause that it was 
+
+required to do.  The Ninth Circuit never asked 
+
+whether the later contract specifically overrode 
+
+the delegation clause under ordinary state law 
+
+principles. 
+
+And, Justice Jackson, I think some of 
+
+your questions were getting at how a delegation 
+
+clause could actually be overridden in a later 
+
+contract.  And I just want to respond to that 
+
+briefly because I think it could be expressed as 
+
+it was in one of your hypotheticals.  It 
+
+could -- a later contract could wipe out 
+
+arbitration entirely from the parties' business 
+
+relationship, and then someone could come into 
+
+court and say that that has, under state law 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                  
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+               
+ 
+             
+ 
+                
+ 
+              
+ 
+               
+ 
+              
+ 
+                
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7 
+
+8 
+
+9  
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16 
+
+17  
+
+18  
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25 
+
+49 
+
+Official 
+
+principles, also wiped out the delegation
+
+ clause.  There could be a merger agreement -- a
+
+ merger clause.  There are a number of ways in
+
+ which it could happen.  The fact is that none of
+
+ them happened here.
+
+ Everyone agrees the Ninth Circuit 
+
+didn't decide if the second contract displaced 
+
+the delegation clause and, instead, just made a 
+
+ruling on arbitrability.  As I think my friend's 
+
+argument shows, and it's important for this 
+
+Court on remand to make clear, lower courts 
+
+cannot collapse the who decides question and the 
+
+Section 2 analysis for a delegation clause with 
+
+the later arbitrability question. 
+
+Justice Gorsuch, in response to your 
+
+question about what an arbitrator would say 
+
+here, one other thing to note is that the only 
+
+Ninth Circuit case on point specifically finds 
+
+that a forum selection clause does not displace 
+
+a delegation clause.  That's the Mohamed case. 
+
+It's one of the many reasons that we think these 
+
+operate on different levels. 
+
+Just like in the Prima Paint case, 
+
+where fraud in the inducement could operate 
+
+differently at the level of the contract and at 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+              
+ 
+                 
+ 
+              
+ 
+                
+ 
+                 
+ 
+               
+ 
+                 
+ 
+               
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+
+1 
+
+2   
+
+3 
+
+4   
+
+5   
+
+6 
+
+7   
+
+8 
+
+9   
+
+10 
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+50 
+
+Official 
+
+the level of the arbitration agreement; in
+
+ Rent-A-Center, where unconscionability could 
+
+apply differently at the contract level, the
+
+ arbitration agreement level, and the delegation
+
+ clause level; so too here the forum selection 
+
+clause could apply differently, and it's
+
+ important that the Court address it at the 
+
+specific who decides layer.
+
+ For all of these reasons, we think the 
+
+Court should reverse and remand. Thank you very 
+
+much. 
+
+CHIEF JUSTICE ROBERTS: Thank you, 
+
+counsel. 
+
+The case is submitted. 
+
+(Whereupon, at 12:19 p.m., the case 
+
+was submitted.) 
+
+Heritage Reporting Corporation 
+
+
+
+Official 
+
+51
+
+$ 22:15 28:22 29:5,11,16,20, 
+
+23 30:3,4,10,11,20 31:6 35: 
+
+appropriate [1] 19:1 
+
+arbitrability [36] 3:23 4:10, 
+
+based [2] 14:21 23:3 
+
+basic [1] 23:3 
+
+characterizing [2] 4:1,10 
+
+CHIEF [17] 3:3,9 15:4 16: 
+$100 [1] 47:8 11,15 38:17 39:21 40:11, 19 7:11 18:18 20:9,22 22: basically [2] 9:20 10:4 19,22 17:11,14 18:1 19:8 
+
+1 18 42:4 46:5 1 29:18 30:2 32:13,14 33: becomes [2] 20:3 26:4 23:3 27:5 31:9,22 32:4 47: 
+
+1 [2] 23:10 25:2 
+agreed [8] 3:14 4:20 9:15 5,12 34:13 37:4,6,20,21 38: begged [1] 21:12 20 48:1 50:12 
+
+10 [1] 28:15 
+17:22 19:11 20:17 23:14 6 41:15,20,24 42:8,8 43:2, beginning [2] 9:14 23:15 choice [1] 10:1 
+
+11:36 [2] 1:15 3:2 
+35:13 18 44:7,10,15,20 45:16 46: behalf [8] 1:19,21 2:4,7,10 Circuit [25] 3:25 8:11 11:25 
+
+12 [1] 20:18 
+agreement [56] 4:17 5:10, 10,15 49:9,14 3:8 32:3 48:3 12:4,8,25 13:25 15:24 26: 
+
+12:19 [1] 50:15 
+18,23 6:7,13,24 7:3 8:14 9: 
+
+15 10:22 11:13,20,23 14: 
+
+arbitrable [1] 14:23 
+
+arbitrate [9] 3:14 4:6,12 17: 
+
+belong [3] 20:13,14 36:5 
+
+belongs [1] 46:4 
+
+5 32:22 33:2 36:9,11,14 
+
+37:19 38:1 40:7 41:8 42: 
+2 16 15:9,13,14,16 16:4 17:5, 13 32:25 33:7 34:10,16 35: below [3] 3:22 5:3 12:3 14 44:3 45:6 48:8,12 49:6, 
+
+2 [6] 11:2 16:13 23:11 25:5, 13 20:2 22:11,17,18,19 25: 14 best [1] 38:20 18 
+
+25 49:13 20 26:18 27:18 28:12 32: arbitrated [4] 5:1,5 11:17 better [1] 44:15 Circuit's [9] 12:15,19 32: 
+
+2021 [1] 42:6 24 33:1,8 34:5,7,9,12,18, 35:13 between [8] 5:10 8:22 11: 17 36:17 39:22 40:5,10,20 
+
+2024 [1] 1:11 19,21 35:24 36:10 37:7 38: arbitrating [1] 18:6 23 17:6 23:20 25:16 29:24 46:15 
+
+23-3 [1] 3:4 25 39:10 41:5 44:1,2,23 Arbitration [49] 3:11,12,17 39:11 cited [1] 32:22 
+
+28 [1] 1:11 45:2,7 48:7 49:2 50:1,4 4:17 5:17 6:7,11,24 7:2,8 beyond [1] 12:22 claim [1] 17:19 
+
+3 agreement's [2] 28:17 42: 
+
+16 
+
+9:7,15 10:21 11:13,20 14: 
+
+16 15:14,17 17:5,20,24 19: 
+
+big [1] 17:3 
+
+bit [2] 10:9 13:12 
+
+claims [12] 3:17 4:7,12,19, 
+
+24 5:1 6:8 7:7 9:17 17:23 
+3 [2] 2:4 16:13 agreements [6] 3:12 26: 10 20:2,5,14 22:11 23:5,6, blur [1] 4:22 19:21 20:5 
+32 [1] 2:7 19 38:15,20 39:14 42:4 8 24:18,21,25 25:20 26:18, both [7] 12:14,18,20 30:4 class [1] 47:12 
+
+4 Agreements' [1] 12:10 20 27:15 28:11,12,17 30:2 36:7,16 40:10 clause [65] 3:18,21 4:4 5: 
+
+4 [1] 16:13 
+agrees [2] 20:19 49:6 34:18,21 40:25 41:5,23 42: bound [1] 33:3 17 6:2 7:25 9:2,8,10,11,16 
+
+48 [1] 2:10 
+ahead [3] 7:15,15,16 
+
+AL [1] 1:6 
+
+15 48:23 50:1,4 
+
+arbitrator [43] 3:16 4:20 6: 
+
+brief [7] 11:22,25 12:6,7 20: 
+
+18 34:11 39:21 
+
+10:23 11:12,19 12:2 14:11, 
+
+21,25 15:14 17:1,4,18 18: 
+5 ALITO [6] 20:16 21:2,5,11, 16 8:2 11:16 14:15 15:15 briefing [1] 15:21 12,14,20 19:4,19 21:8,21 
+
+58 [1] 12:5 18 31:12 17:9 19:12,15 20:12,21 21: briefly [1] 48:20 22:13 24:1 25:23,24 26:7, 
+
+9 
+already [4] 37:3,3 38:7 46: 
+
+12 
+
+9 23:10 25:9 26:15,18 27: 
+
+1,13,20,25 28:20,21,23 29: 
+
+broad [2] 44:14 45:3 
+
+broadly [1] 11:13 
+
+10 27:10 29:6 30:5,13,16, 
+
+22,25 38:18 40:25 41:2,19 
+9 [2] 11:22,24 Alternatively [1] 40:6 19 30:14 34:14 35:11,16 business [3] 18:17 33:25 42:16 43:1,2 44:6,9,14,19 
+
+A ambiguity [1] 7:5 36:5,22 37:11,23 39:2 41: 48:23 45:16 48:11,14,18 49:2,3,8, 
+
+a.m [2] 1:15 3:2 
+analysis [9] 12:15,19 26:5 
+
+39:16 40:20,22 41:6 48:10 
+
+7 45:3,9 46:3,7,14,20,25 
+
+49:16 
+C 13,19,20 50:5,6 
+
+clauses [3] 4:9 12:11 14: 
+abandon [1] 32:6 
+
+49:13 arbitrators [1] 19:5 California [1] 1:20 14 
+able [1] 24:23 
+
+another [1] 8:10 argue [3] 10:19 22:10 33: came [4] 1:13 3:22 21:20 clear [11] 8:8 16:15 18:16 
+above-entitled [1] 1:13 
+
+answer [27] 3:23 8:1,4 11: 14 43:24 19:18 28:21 29:12 36:10 
+absent [1] 17:22 
+
+17 15:20,21 16:2,23 17:15, argued [4] 5:13 6:5 28:18 cannot [2] 14:20 49:12 39:3 45:12 48:5 49:11 
+absolutely [6] 19:25 21:2, 
+
+16,17,25 18:2 20:22 21:6 41:3 capable [1] 33:17 client [1] 26:23 
+9 22:24 30:23 34:24 
+
+27:24 32:7,11 34:3 35:3 argument [18] 1:14 2:2,5,8 care [8] 32:12,13 35:23 46: closer [1] 18:24 
+abstract [2] 24:13,16 
+
+36:4,21 37:11 45:8,18 47: 3:4,7 4:16 7:4,20 11:3 21: 8,8,9,10,11 COINBASE [13] 1:3 3:4,14, 
+accept [1] 27:19 
+
+17,19 20,23 26:14 32:2 35:24 44: carefully [1] 40:23 15 19:20,21,23 20:1,19 35: 
+accepted [1] 16:1 
+
+answered [2] 16:20 41:18 23 48:2 49:10 carve [1] 20:4 2 39:22 41:3 45:5 
+according [1] 3:13 
+
+answering [2] 18:17 46:16 argument's [1] 36:25 carved [1] 6:7 collapse [1] 49:12 
+accurately [3] 33:17,23 39: 
+
+answers [4] 5:18 8:1,3 22: arguments [1] 31:2 carveout [3] 20:6 22:20 28: come [4] 5:20 9:6 14:2 48: 
+23 
+
+24 aside [2] 18:2 22:14 17 24 
+achieve [1] 10:4 
+
+antecedent [2] 5:6 38:4 assert [2] 4:24 6:8 Case [33] 3:4 4:9,23 8:4,16, comes [1] 6:25 
+Act [1] 3:11 
+
+anyway [1] 27:2 asserted [1] 4:18 23 9:13 12:8 13:23 16:10 commercial [1] 14:3 
+action [1] 47:13 
+
+appeals [3] 4:5 15:25 22:8 asserting [1] 4:2 17:21 18:19 19:3,18 21:7 common [1] 29:4 
+actually [10] 6:24 7:7 8:18 
+
+APPEARANCES [1] 1:17 assess [1] 20:20 24:4 27:17 32:21,23,23 35: compel [2] 24:24 28:11 
+17:20 23:17 38:11 41:9 42: 
+
+applicability [1] 43:6 astray [1] 13:25 22 36:3 40:7 43:20,21 46: complaint [1] 47:3 
+3 43:12 48:18 
+
+applicable [3] 4:17 41:19 authority [1] 17:12 11,13 48:5 49:18,20,23 50: completely [1] 9:21 
+add [1] 13:11 
+
+44:7 available [1] 19:7 14,15 concede [2] 20:23 34:21 
+address [5] 18:23 41:14 
+
+applicants [1] 28:7 avenue [1] 19:1 cert [2] 15:10,11 conceded [1] 45:1 
+43:25 44:16 50:7 
+
+applied [3] 10:25 16:11 48: avoid [1] 33:11 Certainly [3] 5:25 6:15 44: concern [1] 21:24 
+addressed [5] 6:16 42:22 
+
+11 away [2] 43:20,20 22 concerning [1] 17:7 
+43:8,10,11 
+
+addresses [3] 9:4 11:3 21: 
+applies [5] 14:6 16:16 28:7 
+
+30:13 35:1 
+B 
+
+certainty [2] 46:24 47:1 
+
+challenge [3] 4:1 9:8 26:2 
+conflate [2] 5:15 7:22 
+
+confusing [1] 22:16 
+23 
+
+apply [12] 12:4 33:4,15 34: back [9] 6:12 10:14 19:6 challenged [1] 37:5 confusion [6] 5:9,12,15 6: 
+addressing [1] 41:17 
+
+2 38:18 41:10 43:16,17 45: 27:6 37:16,23 38:1 40:11 challenges [2] 10:17 14:9 18 7:6,22
+admit [1] 45:22 
+
+16 48:8 50:3,6 43:14 chance [1] 38:6 connected [1] 18:11 
+affected [1] 47:11 
+
+applying [1] 31:1 background [1] 23:6 change [2] 31:17,20 consent [3] 20:11,21 34:16 
+affirm [1] 45:12 
+
+appreciate [3] 26:14 27:12, BARRETT [12] 28:25 29:3, changes [4] 14:22 15:3,7 consider [1] 12:9 
+ago [2] 18:16 36:6 
+
+12 11,16,22 30:8,18 31:3,6,23 39:16 consistently [2] 10:25 16: 
+agree [25] 4:14 12:14,18,20 
+
+approach [1] 4:8 47:2,15 changing [1] 17:23 12 
+
+Heritage Reporting Corporation 
+Sheet 1 $100 - consistently 
+
+
+
+Official 
+
+52
+
+constitutes [1] 15:8 deal [1] 36:8 40:15 49:19 ESQUIRE [2] 1:18,20 frankly [1] 46:2 
+
+consumer [1] 14:4 debate [1] 40:16 displaced [2] 12:2 49:7 essentially [1] 47:19 fraud [1] 49:24 
+
+contained [1] 39:10 decide [8] 4:21 11:25 15: dispute [28] 4:10 14:17 17: estimate [1] 47:10 friend [1] 35:9 
+
+context [2] 34:17,19 15 17:11 20:21 35:17 39:6 19 19:25 20:13,14 29:17, ET [1] 1:6 friend's [1] 49:9 
+
+contract [58] 4:2,2,6,12,18 49:7 24 30:1,7,12 33:7,10,11 34: evade [1] 3:22 frivolous [1] 27:14 
+
+6:6 8:2,3,9,11 9:1,2,9,21, decided [7] 15:24 25:7,9 10,13 37:6,23 41:4,20,25 even [5] 10:3 18:18 26:17 frivolously [1] 19:3 
+
+22 10:4 12:12 14:7,8,22 26:17 27:20 32:14 42:14 42:2,2 43:3 44:7,11,15 45: 27:16 42:25 front [2] 11:16 33:20 
+
+15:16 16:25 17:5 18:10 19: decides [31] 5:4,18 6:20 7: 16 Everyone [1] 49:6 fully [2] 26:13 27:11 
+
+13 22:24,25 23:9,11,24 24: 13,18 8:1,2,5 9:12 11:4 15: dispute-specific [2] 34:17 everything [2] 35:1 45:4 fundamental [1] 19:9 
+
+4,10,20 25:2,5,11,23 26:11 22 16:3 21:3,7,18,24 22:1, 41:23 evidence [1] 29:13 further [1] 47:23 
+
+28:6,9 33:6 34:6 35:12,16, 25 23:1,1,9,11,13 24:11 26: disputes [12] 3:14,16 9:23 exact [1] 10:13 furthermore [1] 35:22 
+
+20,21 38:10,13,24 39:5 40: 10,15,19 32:13 46:10 49: 14:15,22 19:19 20:10 26: exactly [1] 28:19 future [1] 41:10 
+
+15 41:11 48:13,19,22 49:7, 12 50:8 25 34:23 35:2 39:24 44:20 example [1] 17:21 G 
+25 50:3 deciding [1] 22:4 disputing [1] 3:19 exclude [1] 4:18 
+
+contracting [1] 39:15 decision [6] 18:16 28:23 distinct [1] 4:22 excuse [1] 43:16 garden-variety [1] 7:11 
+
+contracts [11] 4:14 7:24 8: 29:12,15 43:6 46:15 distinction [1] 8:22 existence [10] 30:21 32:17, gateway [1] 7:12 
+
+7,15 14:2 16:7 18:23 23: deeper [1] 6:23 district [1] 22:8 20 33:11 36:11 39:25 40: gave [2] 43:20,20 
+
+17 25:6 30:1,10 defend [1] 4:13 doctrinal [1] 17:16 19 43:13,15 45:13 gets [6] 6:17 28:23 32:14 
+
+contractual [3] 33:19,24 definitely [1] 39:8 doing [2] 25:2 34:15 exists [2] 14:16 43:15 33:19 35:11 37:1 
+
+39:23 del [1] 11:14 done [6] 11:8 12:16 13:5 explain [1] 14:13 getting [2] 46:3 48:17 
+
+controlled [1] 40:21 delegate [2] 3:15 34:13 26:9 29:1 39:20 explanation [1] 13:12 give [1] 45:17 
+
+controls [4] 8:9,15 25:11 delegated [4] 4:3 17:12 39: doubt [1] 35:16 express [1] 6:11 Goldman [2] 32:21,22 
+
+40:16 4 44:11 down [4] 17:6 43:14 46:1,1 expressed [1] 48:20 GORSUCH [22] 26:12 27:8, 
+
+controversies [3] 6:3 22:4 delegation [88] 3:18,21 4: drafting [1] 6:10 extent [1] 22:19 11,23 28:2 29:2 31:15 34: 
+
+26:8 
+
+controversy [2] 22:6 42:7 
+
+4,9 5:17 7:25 8:4,8 9:2,3,4, 
+
+8,10,11,16,25 10:2,23 11: 
+
+drawn [1] 16:12 
+
+draws [1] 11:1 
+F 
+
+20,25 35:6 36:13,16,20,24 
+
+37:8,18,24 38:2 44:21 45: 
+
+convincing [1] 29:13 
+
+correct [8] 4:8 21:17 25:15 
+
+12,15,19 12:2,10 14:10,13, 
+
+20,25 15:14,17 17:1,4,18 
+E 
+
+FAA [3] 11:2 26:1 43:8 
+
+FAA's [2] 12:4 48:9 
+
+19,21 49:15 
+
+Gorsuch's [2] 32:7 38:9 
+
+40:4,10 41:15,21 42:23 18:12,14,20 19:4,19 20:6,8 earlier [4] 14:24 23:20,25 fact [2] 10:16 49:4 got [2] 21:25 22:1 
+
+corresponding [1] 22:12 21:8,21 22:10,13,17 24:1,2, 34:5 facts [1] 8:19 Granite [2] 34:16 41:22 
+
+couldn't [1] 6:9 7 25:23,24 26:10 27:9 29: economic [2] 39:14 45:18 failed [2] 48:8,10 grant [2] 15:10 20:25 
+
+Counsel [8] 26:12 28:25 6,18,25 30:5,12,16,22,24 effect [8] 4:15 9:16,17 10:3 fall [1] 14:25 granted [2] 15:11 21:2 
+
+31:10,25 34:20 47:21,24 34:19 37:7,20 38:14,17,25 21:9,13,14 44:18 far [1] 18:21 great [1] 33:14 
+
+50:13 39:7 40:24 41:2,14,18,19 efficient [1] 20:8 favor [3] 33:4,12 43:17 ground [1] 29:5 
+
+COURT [73] 1:1,14 3:10 4: 42:16 43:1,25 44:6,9,14,16, efficiently [1] 20:12 favorable [1] 18:5 groundless [1] 18:20 
+
+5 5:4 8:5,17 9:6,23 10:2, 19 45:15 48:11,14,17 49:1, effort [1] 27:14 February [1] 1:11 groups [1] 39:15 
+
+13,25 12:2,7 14:1,8,19,20 8,13,20 50:4 either [1] 6:10 Federal [12] 3:11 15:8 16:5, guess [5] 7:20 26:22 35:8 
+
+15:15,22 16:1,3,3,11 18:14 delegation-specific [1] ELLSWORTH [58] 1:18 2: 9 33:5,9,21,22,22 37:21 43: 37:15 38:23 
+
+19:2,6 20:13,19 21:20 22: 43:7 3,9 3:6,7,9 5:11,22,25 6: 11 48:9 guidance [1] 14:1 
+
+4,8,8,9 23:9,12,16 24:11 depending [1] 18:3 14 7:1,10 8:20 10:6,9,12 few [1] 18:16 guide [1] 16:3 
+
+25:8 26:19,25 27:2,6 28: depends [1] 16:24 11:9 12:17 13:2,7,10,16,21 fighting [3] 26:23 27:17 32: H 
+13 29:7 30:25 32:5,12,16 
+
+34:2 35:15,25 36:1,5 37:3, 
+
+4,13,17,22 39:4,5 40:4,5,6 
+
+41:11 45:25 46:4,12,21 48: 
+
+25 49:11 50:7,10 
+
+Court's [2] 5:7 14:21 
+
+courts [10] 3:12,21 4:8 5:3 
+
+18:17 29:12,14 37:22 42: 
+
+12 49:11 
+
+cover [5] 9:17 30:6 43:4 44: 
+
+10,14 
+
+covered [1] 20:1 
+
+covers [3] 14:17 17:1 45:4 
+
+create [2] 7:5 16:9 
+
+creating [2] 15:7 16:5 
+
+cry [1] 18:21 
+
+curious [2] 26:22 45:21 
+
+D 
+D.C [2] 1:10,18 
+
+DAVID [4] 1:6,20 2:6 32:2 
+
+day [3] 26:24 32:15 33:16 
+
+daylight [1] 25:16 
+
+describe [1] 19:14 
+
+Despite [1] 3:18 
+
+determination [1] 40:14 
+
+Diego [1] 1:20 
+
+difference [2] 5:9 23:20 
+
+different [12] 5:15 8:7,7 9: 
+
+5 10:18 17:7 24:3 35:20 
+
+38:24 39:9 41:12 49:22 
+
+differently [3] 49:25 50:3,6 
+
+direct [2] 14:14 35:11 
+
+directed [2] 9:9 21:21 
+
+direction [1] 35:17 
+
+directly [5] 5:18 11:1 14:9 
+
+16:12 41:14 
+
+disagree [4] 24:8 28:22 29: 
+
+21 42:5 
+
+disagreement [4] 5:20,24 
+
+6:1 12:21 
+
+disavowed [1] 36:17 
+
+discern [1] 33:23 
+
+discerning [1] 33:18 
+
+disconnected [1] 18:24 
+
+displace [5] 20:20 26:3,9 
+
+16:8 17:10,14 18:13 19:17 
+
+21:1,6,16,19 23:19,23 24:7, 
+
+13,19,23 25:3,13,22 27:3,9, 
+
+22,24 28:4 29:8,14,20 30:3, 
+
+15,23 31:4,8,20 48:1,2,4 
+
+end [7] 11:15 26:24 27:6 32: 
+
+15 33:16 41:6 47:23 
+
+ends [2] 46:11,13 
+
+enforce [3] 3:12 14:20 25: 
+
+20 
+
+enforceability [1] 14:10 
+
+enforceable [1] 26:1 
+
+enforced [1] 30:17 
+
+enforcing [1] 3:21 
+
+enough [1] 44:14 
+
+enter [3] 15:13 19:23 47:9 
+
+entered [1] 17:6 
+
+enterprise [1] 17:3 
+
+entertain [1] 14:9 
+
+entirely [1] 48:23 
+
+entrants [1] 47:7 
+
+entry [2] 45:23 47:4 
+
+ESQ [3] 2:3,6,9 
+
+8 
+
+figure [2] 12:25 25:14 
+
+filed [2] 47:6,7 
+
+finally [1] 37:21 
+
+finds [1] 49:18 
+
+finish [1] 30:10 
+
+first [14] 4:23 7:25 8:2 9:8 
+
+12:25 14:5 25:23 26:10 28: 
+
+24 36:9 45:2,7,11,11 
+
+focus [1] 43:13 
+
+follow [3] 7:19 16:6,6 
+
+following [1] 7:19 
+
+force [2] 11:19 14:24 
+
+forgot [1] 42:21 
+
+formation [6] 4:2,3 33:10 
+
+39:5,25 40:19 
+
+formed [3] 4:6,11,15 
+
+formulated [1] 30:6 
+
+forum [6] 6:1 9:22 26:6 42: 
+
+2 49:19 50:5 
+
+frame [2] 22:21,22 
+
+framed [1] 22:15 
+
+framework [1] 48:9 
+
+happen [1] 49:4 
+
+happened [1] 49:5 
+
+happens [3] 23:7,8 24:12 
+
+happy [1] 28:4 
+
+hard [2] 26:23 32:8 
+
+HARRIS [36] 1:20 2:6 32:1, 
+
+2,4 34:8,23 35:4 36:8,15, 
+
+19,23 37:2,15,19,25 38:5, 
+
+19 39:8,13 40:1,12,18 42: 
+
+11,17,23 43:22 44:4 45:10, 
+
+20 46:5,23 47:5,14,18,25 
+
+heading [2] 41:1,1 
+
+headings [1] 40:24 
+
+hear [1] 3:3 
+
+heavily [1] 34:11 
+
+Henry [6] 18:15,15,25,25 
+
+28:21 41:16 
+
+Honor [20] 5:11 6:14,19 7:1, 
+
+6 12:18 13:7,16 17:10 18: 
+
+13 19:17 21:16 27:3,22 30: 
+
+24 31:20 40:2 43:22 47:18, 
+
+25 
+
+Heritage Reporting Corporation 
+Sheet 2 constitutes - Honor 
+
+
+
+Official 
+
+53
+
+Honor's [1] 18:22 judges [1] 33:20 line [1] 17:7 22:11 other [14] 5:6 11:10 18:12 
+
+however [1] 19:13 judgment [2] 12:3 45:12 litigate [3] 33:1 35:24 37: narrowing [1] 22:12 19:7 25:8 26:17 35:10 39: 
+
+huge [2] 15:2,7 June [1] 42:6 12 narrows [1] 22:20 1,2 40:9,9,15,17 49:17 
+
+hundred [2] 46:24 47:1 jurisdiction [3] 28:10,13, litigating [1] 45:24 nature [1] 11:12 otherwise [1] 4:16 
+
+hypothetical [7] 7:24 8:22 15 litigation [2] 15:25 18:8 nearly [1] 3:19 out [8] 6:7,25 12:25 19:13 
+
+9:1 18:22 23:21,25 38:9 JUSTICE [122] 3:3,9 5:8,19, little [5] 6:23 10:9 13:11 22: necessarily [1] 44:5 20:4 25:14 48:22 49:1 
+
+hypotheticals [1] 48:21 24 6:9,22 7:9,14,16,17 9: 16 26:22 need [2] 32:16,19 over [5] 19:11,15 45:1,1 46: 
+
+I 18 10:8,11 11:5,7,21 12:23 
+
+13:4,9,13,18 15:2,4,6 16:8, 
+
+located [1] 11:22 
+
+long [1] 45:18 
+
+needs [1] 48:5 
+
+never [3] 4:3 42:22 48:12 
+
+1 
+
+overridden [1] 48:18 
+identified [3] 9:1 10:14 24: 18,19,20,22 17:11,14 18:1 longer [1] 43:15 new [1] 33:9 overrode [1] 48:13 
+1 19:8 20:15,16 21:2,5,11,18 look [4] 24:16 40:23 42:24 next [1] 3:4 overrule [1] 32:17 
+
+ignore [1] 4:9 
+
+implicitly [2] 23:1,12 
+22:14 23:4,19,22 24:6,8,15, 
+
+22 25:1,4,13,21 26:12 27:5, 
+
+44:13 
+
+looked [1] 44:8 
+
+Ninth [34] 3:25 8:10 11:25 
+
+12:4,8,14,18,25 13:24 15: 
+P 
+
+important [9] 8:24 11:11 8,11,23 28:2,25 29:2,3,4, looking [6] 5:13 30:9,9 33: 24 26:5 32:17,22 33:2 36: p.m [1] 50:15 
+
+13:3,24 14:13 19:16 25:14 11,16,22 30:8,18 31:3,6,9, 2 43:1,2 9,11,14,17 37:19,25 39:22 PAGE [4] 2:2 11:22,24 20: 
+
+49:10 50:7 11,12,13,14,15,16,17,21, lost [1] 38:7 40:4,7,10,19 41:8 42:14 18 
+
+impossible [1] 33:21 22,22,24 32:4,7 34:4,20,25 lower [1] 49:11 44:3 45:6 46:14 48:8,12 pains [1] 33:14 
+
+improperly [1] 19:4 
+
+INC [1] 1:3 
+35:6 36:13,16,20,24 37:8, 
+
+18,24 38:2,8,9,22 39:12,19 
+M 49:6,18 
+
+nitty-gritty [1] 27:16 
+
+Paint [2] 10:15 49:23 
+
+paragraph [1] 28:15 
+
+incorporating [1] 6:13 40:3,13 42:10,13,19 43:19, made [5] 18:16 21:20 33:9 non-preempted [2] 12:11 part [7] 19:16 24:24 36:9 
+
+inducement [1] 49:24 23 44:21 45:19,21 46:19 48:5 49:8 33:15 39:1 40:1,19,21 
+
+infinite [1] 33:25 47:2,12,15,16,20,22 48:1,4, mail-in [1] 28:7 none [1] 49:4 partially [1] 12:10 
+
+infrequently [1] 14:3 16 49:15 50:12 mailed [1] 19:24 note [1] 49:17 participate [1] 28:7 
+
+instance [2] 13:1 28:24 Justices' [1] 44:12 manipulated [1] 47:8 nothing [3] 6:20 24:5,10 particular [6] 9:10 14:17 
+
+instead [4] 3:20,23 19:25 
+
+49:8 K 
+many [2] 47:11 49:21 
+
+matter [4] 1:13 19:5 33:6, 
+nuance [2] 10:12,13 
+
+number [5] 23:10,11 28:5 
+
+17:4 18:7 20:5 44:10 
+
+particularly [1] 39:24 
+
+instruct [1] 12:3 Kagan [5] 31:14 42:10,13, 19 33:25 49:3 parties [17] 3:19 4:6,11,20 
+
+intend [1] 8:13 19 46:19 matters [1] 38:11 8:13 15:13 17:6 18:3 19: 
+
+intended [6] 41:10,19 42: KAVANAUGH [16] 7:16 11: mean [11] 16:24 17:1 18:3, O 10 20:13 21:19 26:14 39:3, 
+
+11 44:10,17 45:15 5,21 12:23 13:4,9,13,18 31: 5 20:22 37:15 45:10,17,22 occur [1] 10:17 11,16 41:12 45:15 
+
+intent [2] 33:7 39:16 16,17,21 39:19 40:3,13 47: 46:19 47:5 occurred [1] 32:9 parties' [5] 20:21 33:18,24 
+
+intentions [2] 33:18,24 12,16 means [2] 14:8 24:11 occurs [2] 10:21,22 39:23 48:23 
+
+intents [1] 39:7 Kavanaugh's [1] 29:4 meant [1] 43:4 offered [1] 31:4 parts [2] 38:24 39:6 
+
+internal [1] 18:9 keep [2] 11:5 27:14 merger [2] 49:2,3 official [19] 5:10 6:2,12,21 party [3] 9:6 17:18 18:14 
+
+interpretation [2] 12:12 kind [3] 19:15 45:19,21 merits [6] 4:24,25 5:4 22:2 7:3,5 12:1,9 17:23 20:4,20 passed [1] 36:2 
+
+39:18 L 26:16 34:10 21:14 28:10 42:3,5,14,25 paying [1] 47:8 
+
+interpreting [1] 16:7 mess [1] 33:19 44:17,18 people [2] 25:5 47:11 
+
+invalidation [1] 22:10 label [1] 41:24 might [2] 18:24 26:14 Okay [10] 10:8,11 13:9,20 per [1] 47:8 
+
+invalidity [1] 10:20 language [9] 6:6,21 32:18, minute [1] 41:9 29:16 31:3,21,21,25 35:7 percent [2] 46:24 47:1 
+
+inverse [1] 35:9 20 36:12 41:10 43:13 44: modifies [3] 34:5 44:24 45: old [1] 33:4 person [2] 18:6 47:9 
+
+invocation [1] 18:19 13 45:13 7 one [33] 4:1,19,23 8:12,24 personal [1] 28:14 
+
+invoke [2] 18:3 24:24 last [1] 32:9 modify [1] 12:10 10:22 18:12 23:10,12,24 Petitioner [7] 1:4,19 2:4, 
+
+invoked [1] 27:7 later [10] 4:18 9:11 14:21 modifying [1] 44:19 24:11 25:6,15 26:17 28:5 10 3:8 25:17 48:3 
+
+invokes [2] 17:18 18:14 15:16 34:5 38:14 48:13,18, Mohamed [1] 49:20 29:7 33:21 35:9,12,15 37: Petitioners [1] 48:7 
+
+invoking [3] 19:4 25:2,5 22 49:14 money [2] 45:23 47:2 14 38:10,13,14,24 39:1,6,7 pick [1] 23:4 
+
+involve [1] 40:15 Laughter [4] 13:6,15 31:19 most [2] 33:8,8 41:11,21 48:21 49:17,21 picking [2] 23:10,12 
+
+irrevocable [1] 26:1 46:18 motion [2] 24:24 28:11 only [19] 5:2,14 7:21 11:2,9, place [1] 26:17 
+
+Isn't [7] 5:8 8:8,18 9:3 25: law [21] 9:19,25 15:20,22 move [2] 19:5 41:25 9 14:9 17:18 24:14 32:9, places [1] 25:16 
+
+10 45:13 47:17 16:3 23:3 24:9,17 26:2,9 Ms [53] 3:6,9 5:11,22,25 6: 19 33:17 35:19 37:5 40:1, plan [1] 32:16 
+
+isolated [2] 35:5,7 33:5,6,13 34:1 40:16 43: 14 7:1,10 8:20 10:6,9,12 12,18 41:11 49:17 planned [1] 32:6 
+
+isolation [1] 38:21 11,12,16 48:10,14,25 11:9 12:17 13:2,7,10,16,21 operable [2] 23:17 39:7 please [2] 3:10 32:5 
+
+issue [7] 3:20 4:4,12 6:20 laws [3] 12:12 33:15,17 16:8 17:10,14 18:13 19:17 operate [2] 49:22,24 point [14] 8:9,13 11:10,22 
+
+8:23 17:7 46:12 layer [1] 50:8 21:1,6,16,19 23:19,23 24:7, operates [1] 28:16 14:18 19:9 25:15,18,19 27: 
+
+itself [2] 10:15 14:11 layers [1] 5:16 13,19,23 25:3,13,22 27:3,9, operating [1] 23:6 4 29:4 35:10 44:13 49:18 
+
+J 
+left [1] 47:10 
+
+legal [1] 4:22 
+22,24 28:4 29:8,14,20 30:3, 
+
+15,23 31:4,8,20 48:1,4 
+
+operation [5] 9:19,24 23:2 
+
+24:9 25:25 
+
+pointed [1] 22:3 
+
+pointing [1] 26:6 
+JACKSON [23] 7:14,17 9: less [2] 46:20,25 much [4] 14:6 45:23 47:2 operative [1] 34:22 points [1] 28:19 
+18 10:8,11 11:7 20:15 22: level [10] 5:12 9:12 10:21, 50:11 opinion [4] 32:22 36:18 39: posit [1] 7:23 
+14 23:19,22 24:6,8,15,22 23 21:24 49:25 50:1,3,4,5 must [3] 11:12 19:10 41:6 22 40:24 position [2] 30:15 34:11 
+25:1,4,13,21 31:24 38:8,22 levels [2] 10:18 49:22 mutual [1] 33:7 oral [5] 1:14 2:2,5 3:7 32:2 possibility [1] 11:24 
+39:12 48:16 
+
+JESSICA [5] 1:18 2:3,9 3:7 
+
+liability [1] 32:15 
+
+likely [1] 46:20 N ordinary [1] 48:14 
+
+original [1] 42:15 
+
+possible [2] 11:22 35:13 
+
+postcard [1] 19:24 
+48:2 limit [1] 18:9 narrow [2] 15:11,12 originally [1] 30:6 power [1] 18:17 
+
+JR [3] 1:20 2:6 32:2 limits [1] 31:2 narrowed [3] 4:17 15:16 originated [1] 32:21 practical [6] 17:15,17,25 
+
+Heritage Reporting Corporation 
+Sheet 3 Honor's - practical 
+
+
+
+Official 
+
+54
+
+26:13 27:4,15 REBUTTAL [2] 2:8 48:2 ROBERTS [12] 3:3 15:4 16: separate [3] 39:14,14,15 still [3] 17:8 34:21 36:3 
+
+preempted [1] 43:7 recent [1] 33:8 19,22 17:11 18:1 19:8 31: services [6] 3:15 19:20,22, stop [3] 13:8,11,22 
+
+preexisting [1] 32:24 recommend [1] 13:25 9,22 47:20 48:1 50:12 23 20:1 35:2 stopped [1] 42:23 
+
+presented [1] 8:19 red [2] 12:6,7 Rock [2] 34:16 41:22 set [5] 15:8 20:5,8 22:14 41: straightforward [1] 25:25 
+
+presumption [3] 33:4,12 references [1] 39:25 route [2] 27:19 35:17 12 strategic [2] 32:11 45:18 
+
+43:17 referencing [1] 6:19 routed [1] 37:1 settings [2] 14:4,4 streamlined [1] 20:8 
+
+pretty [2] 19:16 39:3 referring [1] 6:12 routing [2] 35:25 36:1 severability [8] 10:24 12:4 strong [1] 36:25 
+
+Prima [2] 10:15 49:23 reflect [1] 39:23 rule [6] 16:11,16 23:6 33:9, 14:5 16:10,16 29:9 31:1 struggle [3] 35:21,22 36:6 
+
+principle [6] 10:24 14:6,12 refuse [1] 14:20 22 43:15 48:9 struggling [1] 44:22 
+
+19:10 29:10 31:1 regard [1] 18:4 rules [28] 5:10,21 6:2,12,21, she's [1] 17:12 subject [4] 3:17 7:7 17:20, 
+
+principles [4] 8:8 13:24 48: regarding [4] 6:3 22:4,6 25 7:3,5 12:1,5,9 15:8 16: Shoot [1] 33:3 24 
+
+15 49:1 42:7 5,10 17:23 20:4,20 21:15 short [1] 15:21 submitted [2] 50:14,16 
+
+problem [2] 5:8 9:13 regularly [1] 14:14 28:10 33:22,22 39:17 42:3, shot [1] 46:3 subsequent [4] 16:25 22: 
+
+proceed [1] 18:7 regurgitated [1] 36:12 6,15,25 44:17,18 shouldn't [4] 11:18 13:19 18,19 32:25 
+
+proceedings [1] 45:6 relationship [1] 48:24 ruling [1] 49:9 16:2,5 substance [1] 42:2 
+
+process [1] 20:9 relationships [1] 45:4 running [1] 25:6 showing [1] 21:23 successive [2] 14:2,6 
+
+promotion [4] 6:4 22:5,6 relevant [1] 15:19 S shows [1] 49:10 sufficiently [1] 18:11 
+
+26:8 rely [1] 36:11 side [2] 35:10 40:9 suggests [2] 25:6,8 
+
+promptly [1] 18:8 remaining [1] 25:16 Sachs [2] 32:21,23 sides [4] 30:4 36:7,17 40: superseded [3] 8:11 9:10 
+
+provide [1] 14:1 remains [6] 9:15,16 21:8, safer [1] 44:15 11 44:2 
+
+provides [1] 19:1 13,14 26:1 same [8] 9:20 10:5 12:13 sidestepping [1] 4:4 superseding [2] 15:9 16:4 
+
+provision [5] 6:11 9:5 22:3 remand [11] 11:23 12:8,24 17:6 21:23 26:16 39:11 40: silence [1] 15:18 supersession [1] 10:20 
+
+28:6 38:14 31:18 40:6,6 43:24 45:5, 8 silent [5] 9:3,21 15:17 16: supplant [1] 42:15 
+
+pure [2] 20:16,17 10 49:11 50:10 San [1] 1:20 25 23:5 Suppose [2] 7:24 16:23 
+
+purpose [1] 20:7 remanded [3] 12:16,20 48: sanction [1] 27:14 similar [1] 32:23 supposed [2] 25:7,9 
+
+put [2] 18:1 42:21 6 sanctions [1] 19:6 simply [3] 6:10 16:24 34:6 SUPREME [7] 1:1,14 16:1 
+
+putative [3] 47:13,14,15 remanding [3] 13:23 14: saw [1] 4:5 single [4] 14:7 26:18 35:21 32:16 36:1 37:13 45:25 
+
+Q 19 16:15 
+
+removing [1] 28:12 
+
+saying [14] 8:11 12:13 13: 
+
+22 19:14 23:4 25:4 26:25 
+39:10 
+
+situation [10] 8:6,15,18 10: 
+
+SUSKI [2] 1:6 3:5 
+
+sweepstakes [14] 19:23 
+question [65] 3:23 4:11,19 Rent-A-Center [2] 10:15 29:22 38:23 39:3,4 43:3, 1 14:2 17:8 23:15 25:10, 26:25 28:8 34:24 38:16 40: 
+5:2,5 6:18 7:11,13,18 8:1, 50:2 24 44:2 12 33:3 14 42:6,7,9 44:1,8 45:22 
+4,8,12 11:2,4 14:24 15:12, reply [3] 11:21,24 20:18 says [11] 6:2 9:22 15:22 18: situations [1] 33:25 47:4,9 
+12,19 16:2 18:18 20:3,17, request [2] 45:11,11 10 24:4,10 35:1,6,7 41:11 skips [1] 19:15 sweepstakes' [1] 12:1 
+23,24,25 21:4,7,12,13 22:5, 
+
+18,25 23:2,7,16 25:11 26:4, 
+require [1] 21:22 
+
+required [1] 48:12 
+
+45:2 
+
+scenario [3] 14:7,8 18:21 
+solved [1] 6:10 
+
+somehow [3] 6:7 20:4 21: 
+T 
+
+13,15 27:15 29:5,8,18 30:2, requires [1] 3:11 scenarios [1] 18:24 22 talked [1] 10:16 
+
+19,20 32:8 35:8,19 37:8 reserved [1] 30:25 Schein [7] 18:15,25,25 27: someone [2] 19:3 48:24 talks [2] 22:3 26:7 
+
+38:4 39:9 40:9 41:14,18, resisting [1] 9:7 13 28:21 35:10 41:16 sometimes [2] 11:16,18 terms [6] 3:13 18:16 24:3 
+
+22 42:22,24 44:16 46:16 resolve [2] 14:15 31:1 scope [13] 4:16 14:22 15:1 somewhat [1] 32:23 35:5,7 39:10 
+
+48:5 49:12,14,16 resolved [2] 37:21 44:25 19:14 28:17 34:6,9,12 41: somewhere [1] 17:6 text [2] 11:1 16:13 
+
+questioning [1] 7:20 resolving [3] 16:10 20:9 4,10 42:4,5 45:3 sorry [4] 15:6 16:21 29:20 themselves [2] 3:24 18:18 
+
+questions [9] 4:23 5:7,16 26:7 scopes [1] 34:8 30:19 there's [12] 6:20 10:19 16: 
+
+6:15 7:22 31:7 34:3 45:2 respect [1] 38:11 second [18] 4:25 6:6 8:3 9: sort [4] 10:20,20 24:3 36: 4,25 17:5 20:6 22:12 30: 
+
+48:17 respond [1] 48:19 2,21,22 10:4 14:12 23:24 12 11,12 32:11 35:16 43:12 
+
+quick [1] 37:11 Respondent [2] 11:23 13: 24:4 27:18 28:9 35:19 38: sorts [2] 14:3 40:16 therefore [1] 41:5 
+
+quickly [3] 19:5 20:12 30: 14 6 40:25 44:23 45:7 49:7 SOTOMAYOR [8] 15:2,6 they've [2] 16:18 38:7 
+
+11 Respondents [18] 1:7,21 Section [3] 11:1 25:25 49: 16:8,18,20 31:13 43:19,23 thinking [1] 33:3 
+
+quite [1] 36:25 2:7 3:13 4:13,22,24 5:13 6: 13 Sotomayor's [1] 48:5 thinks [1] 17:19 
+
+R 5 9:14 17:22 19:22 22:9 Sections [1] 16:13 source [3] 5:19,22,25 third [3] 5:2,5 14:18 
+
+rather [1] 45:8 
+
+rationales [1] 3:22 
+
+reach [3] 11:12,20 42:25 
+
+reaching [1] 41:15 
+
+reading [1] 38:20 
+
+real [3] 17:19 33:7 35:23 
+
+really [8] 8:12 10:14 18:23 
+
+19:3 28:15 36:19,25 46:2 
+
+reason [5] 18:7 32:12,20 
+
+34:15 46:21 
+
+reasoning [2] 4:14 40:10 
+
+reasonings [1] 40:5 
+
+reasons [4] 13:11 28:1 49: 
+
+21 50:9 
+
+25:17 28:18 30:7 32:3 48: 
+
+6 
+
+Respondents' [3] 4:1 7:4 
+
+11:3 
+
+response [5] 12:5,5 14:24 
+
+27:5 49:15 
+
+result [1] 48:10 
+
+results [2] 5:9,13 
+
+resurrect [1] 37:6 
+
+return [1] 29:3 
+
+reverse [1] 50:10 
+
+review [4] 20:18,25 21:3 
+
+46:14 
+
+reviewing [1] 46:25 
+
+rise [1] 14:25 
+
+See [6] 12:5 22:9 35:21,23 
+
+36:7 44:23 
+
+seek [1] 25:20 
+
+seeking [1] 47:3 
+
+seem [1] 27:19 
+
+seems [3] 19:12 20:22 36: 
+
+16 
+
+selection [5] 6:2 9:22 26:7 
+
+49:19 50:5 
+
+self-interest [1] 18:4 
+
+send [8] 26:14 27:1 29:25 
+
+30:1,13 35:15 40:11 46:20 
+
+sends [2] 37:22 38:1 
+
+sense [1] 20:7 
+
+sentence [1] 42:21 
+
+speaks [1] 28:14 
+
+specific [5] 3:17 9:7 32:25 
+
+33:8 50:8 
+
+specifically [5] 9:4 21:21 
+
+23:25 48:13 49:18 
+
+spent [1] 3:19 
+
+spotting [1] 27:21 
+
+stake [1] 45:24 
+
+start [1] 22:16 
+
+starting [3] 25:15,18,19 
+
+State [15] 12:12 15:20,22 
+
+16:3,6 26:2,9 33:13,15 34: 
+
+1 43:10,16 48:10,14,25 
+
+STATES [5] 1:1,15 36:2 37: 
+
+13 45:25 
+
+THOMAS [9] 5:8,19,24 6:9, 
+
+22 7:9 31:11 34:4 47:22 
+
+thoroughly [1] 12:9 
+
+though [3] 10:3 31:7 37:9 
+
+three [6] 3:19 4:22 13:24 
+
+15:25 31:7 33:22 
+
+threshold [5] 3:16,20 6:17 
+
+7:12 22:5 
+
+thrown [1] 33:19 
+
+today [1] 23:18 
+
+together [2] 5:14 30:1 
+
+tools [1] 19:7 
+
+totally [2] 17:7 18:24 
+
+Traditional [2] 34:1 39:17 
+
+transactions [1] 39:15 
+
+Heritage Reporting Corporation 
+Sheet 4 practical - transactions 
+
+
+
+Official 
+
+55
+
+trial [1] 37:17 
+
+tried [2] 27:4 34:11 
+
+true [3] 33:18 34:17,19 
+
+try [3] 7:4 32:7 37:14 
+
+turn [2] 11:19 19:11 
+
+two [20] 5:6,14 7:24 8:7,7, 
+
+14 15:25 18:23 25:5 30:1, 
+
+9,9 33:22 34:8 39:9,11,13, 
+
+14,15 40:24 
+
+type [1] 33:19 
+
+types [2] 39:9 44:20 
+
+U 
+ultimately [1] 44:25 
+
+unanimously [1] 18:15 
+
+unclear [1] 30:19 
+
+unconscionability [1] 50: 
+
+2 
+
+under [21] 10:24 12:11,23 
+
+18:12 25:24 26:9 27:13 29: 
+
+9 33:5,8,13 34:16 39:17,17 
+
+41:3,16,22 43:10,11 48:14, 
+
+25 
+
+undermine [1] 31:5 
+
+undermined [1] 21:22 
+
+underneath [1] 38:15 
+
+understand [2] 9:18 11:11 
+
+understood [2] 23:2,23 
+
+undisputedly [1] 19:18 
+
+UNITED [5] 1:1,15 36:2 37: 
+
+13 45:25 
+
+unless [2] 26:2 37:22 
+
+unmistakable [1] 19:19 
+
+unrelated [1] 34:24 
+
+up [13] 3:22 11:16 14:2 19: 
+
+15 20:8 26:24 27:6 30:11 
+
+33:9 45:25 46:1,11,13 
+
+user [7] 6:13 12:10 36:9 38: 
+
+15,20 42:4 44:1 
+
+using [1] 6:6 
+
+V 
+vacate [3] 12:3 43:24 45:5 
+
+valid [4] 26:1 29:6 30:12,16 
+
+validity [4] 10:17 14:10 30: 
+
+21,24 
+
+versus [1] 3:4 
+
+view [4] 14:21 18:5 40:20 
+
+44:5 
+
+W 
+Wait [1] 41:8 
+
+wanted [1] 13:19 
+
+Washington [2] 1:10,18 
+
+way [19] 5:14 7:21 8:10 10: 
+
+14 19:13 22:9,15,21,22 24: 
+
+16 28:8,18 37:5,12 43:16 
+
+44:16 45:13,14,24 
+
+ways [2] 19:5 49:3 
+
+Wednesday [1] 1:11 
+
+week [1] 32:10 
+
+weird [1] 32:17 
+
+welcome [2] 5:7 34:2 
+
+whatever [3] 22:20 38:16 
+
+40:25 
+
+Whereupon [1] 50:15 
+
+whether [34] 3:16 4:5,11, 
+
+25 5:4 6:18 7:21 9:9 11:2 
+
+12:1,9 14:15,16 15:15,18 
+
+16:4 17:12 20:20 21:14 23: 
+
+7 26:19 29:6,9,17,24 30:12 
+
+40:14 41:9 42:14 43:25 44: 
+
+6 45:7,15 48:13 
+
+who's [1] 35:25 
+
+whole [2] 15:7 38:18 
+
+wholly [1] 18:20 
+
+whom [1] 44:25 
+
+will [5] 11:17,18 26:20 29: 
+
+25 46:20 
+
+win [2] 37:10 38:6 
+
+wind [1] 26:24 
+
+winning [1] 37:7 
+
+wipe [1] 48:22 
+
+wiped [1] 49:1 
+
+wished [1] 19:24 
+
+within [2] 26:17 32:9 
+
+won [3] 37:3,3 46:12 
+
+words [1] 10:3 
+
+world [1] 22:16 
+
+written [1] 20:2 
+
+Y 
+years [4] 3:19 15:25 36:2,5 
+
+Heritage Reporting Corporation 
+Sheet 5 trial - years 
+
+
+
+

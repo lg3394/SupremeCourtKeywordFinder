@@ -1,0 +1,14829 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+  
+ 
+
+  
+ 
+
+ 
+ 
+
+ 
+  
+
+ 
+ 
+
+        
+ 
+                  
+ 
+
+ 
+ 
+
+ 
+ 
+                  
+ 
+                   
+ 
+
+   
+ 
+                  
+ 
+                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+
+- - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - -
+
+SUPREME COURT 
+OF THE UNITED STATES 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+MACQUARIE INFRASTRUCTURE          ) 
+
+CORPORATION, ET AL.,              ) 
+
+Petitioners,  ) 
+
+v. ) No. 22-1165 
+
+MOAB PARTNERS, L.P., ET AL.,  ) 
+
+Respondents.  ) 
+
+Pages: 1 through 71 
+
+Place: Washington, D.C. 
+
+Date: January 16, 2024 
+
+HERITAGE REPORTING CORPORATION 
+Official Reporters 
+
+1220 L Street, N.W., Suite 206 
+Washington, D.C.  20005 
+
+(202) 628-4888 
+www.hrccourtreporters.com 
+
+www.hrccourtreporters.com
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+ 
+                                                                   
+ 
+ 
+                
+ 
+                                
+ 
+              
+ 
+              
+ 
+                               
+ 
+                               
+ 
+               
+ 
+                               
+ 
+                                
+ 
+             
+ 
+                    
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10
+
+11              
+
+12              
+
+13
+
+14  
+
+15  
+
+16  
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+- - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - -
+
+1
+
+Official 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+ MACQUARIE INFRASTRUCTURE  )
+
+ CORPORATION, ET AL.,             )
+
+ Petitioners,  )
+
+ v. ) No. 22-1165
+
+ MOAB PARTNERS, L.P., ET AL.,  )
+
+ Respondents.  ) 
+
+  Washington, D.C.
+
+ Tuesday, January 16, 2024 
+
+The above-entitled matter came on for 
+
+oral argument before the Supreme Court of the 
+
+United States at 10:03 a.m. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+              
+ 
+                 
+ 
+              
+ 
+              
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8   
+
+9   
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+2 
+
+ APPEARANCES: 
+
+LINDA T. COBERLY, ESQUIRE, Chicago, Illinois; on
+
+ behalf of the Petitioners.
+
+ DAVID C. FREDERICK, ESQUIRE, Washington, D.C.; on
+
+ behalf of Respondent Moab Partners, L.P. 
+
+EPHRAIM McDOWELL, Assistant to the Solicitor General,
+
+     Department of Justice, Washington, D.C.; for the
+
+ United States, as amicus curiae, supporting the
+
+     Respondent. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                               
+ 
+                 
+ 
+              
+ 
+                          
+ 
+              
+ 
+              
+ 
+               
+ 
+                         
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+             
+ 
+             
+ 
+                         
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+3 
+
+Official 
+
+C O N T E N T S
+
+ ORAL ARGUMENT OF:             PAGE:
+
+ LINDA T. COBERLY, ESQ.
+
+ On behalf of the Petitioners 4
+
+ ORAL ARGUMENT OF:
+
+ DAVID C. FREDERICK, ESQ.
+
+ On behalf of Respondent
+
+ Moab Partners, L.P.          26
+
+ ORAL ARGUMENT OF: 
+
+EPHRAIM McDOWELL, ESQ. 
+
+For the United States, as amicus 
+
+curiae, supporting the Respondent  48 
+
+REBUTTAL ARGUMENT OF: 
+
+LINDA T. COBERLY, ESQ. 
+
+On behalf of the Petitioners 66 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                               
+ 
+                                                
+ 
+              
+ 
+                 
+ 
+              
+ 
+              
+ 
+              
+ 
+                          
+ 
+                          
+ 
+              
+ 
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+               
+ 
+              
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11 
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+4
+
+Official 
+
+P R O C E E D I N G S
+
+ (10:03 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear 
+
+argument first this morning in Case 22-1165,
+
+ Macquarie Infrastructure Corporation versus
+
+ Moab.
+
+ Ms. Coberly.
+
+ ORAL ARGUMENT OF LINDA T. COBERLY
+
+ ON BEHALF OF THE PETITIONERS 
+
+MS. COBERLY: Thank you, Mr. Chief 
+
+Justice, and may it please the Court: 
+
+Like many cases, this case should be 
+
+resolved by the text, and, here, the text is in 
+
+Rule 10b-5 as adopted by the Congress in the 
+
+PSLRA. That text makes clear that an omission 
+
+is actionable in just one circumstance, when the 
+
+omitted fact is material and necessary to make a 
+
+statement not misleading. 
+
+Today, you're going to hear arguments 
+
+for omission liability in a different 
+
+circumstance, when the omitted fact is material 
+
+and required to be stated by Item 303. None of 
+
+those arguments is rooted in the text. 
+
+The text doesn't permit eliding the 
+
+statement requirement by treating the entire 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                 
+ 
+                  
+ 
+               
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+  
+
+1 
+
+2 
+
+3   
+
+4   
+
+5   
+
+6 
+
+7 
+
+8 
+
+9   
+
+10 
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+5 
+
+Official 
+
+management narrative as misleading if one thing 
+
+is left out. The PSLRA shows that Congress had
+
+ something far more specific in mind by the word
+
+ "statement."
+
+ The text also doesn't permit recasting 
+
+a claim about what a 10-K does or doesn't say as 
+
+a claim involving a fraudulent scheme or act. 
+
+Whenever this Court has recognized liability
+
+ under Rule 10b-5(a) or (c), the case has 
+
+involved something more or different than speech 
+
+alone. 
+
+And this is all in the context of the 
+
+judicially implied private right of action, 
+
+which this Court is loath to expand.  No 
+
+circuit, either before or after the PSLRA, has 
+
+approached 10b-5 liability in the ways that Moab 
+
+and the government are seeking here. 
+
+Now, to be clear, no one is seeking 
+
+immunity.  The SEC has extensive powers to 
+
+penalize an omission that violates Item 303. 
+
+But, without the element of a misleading 
+
+statement, an omission can't be the subject of a 
+
+private class action. 
+
+I'm happy to take the Court's 
+
+questions. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+               
+ 
+               
+ 
+              
+ 
+                
+ 
+                 
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+                
+ 
+                
+ 
+               
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+              
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15 
+
+16 
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+6
+
+Official 
+
+JUSTICE THOMAS:  Can a -- a compliance
+
+ certification statement be made misleading by an
+
+ omission?
+
+ MS. COBERLY: I would say no, Your 
+
+Honor, for a couple of reasons.
+
+ So, first of all, the government isn't 
+
+arguing that a compliance statement itself is a
+
+ misleading statement.  The government's argument 
+
+is that a compliance statement makes the 
+
+narrative as a whole the misleading statement. 
+
+As for the compliance certification 
+
+itself, though, Your Honor, that statement 
+
+wouldn't be actionable under the federal 
+
+securities laws because, first of all, it would 
+
+be a statement of opinion, and, secondly, to the 
+
+extent that it is relating to an item of future 
+
+import, it would be protected by the 
+
+forward-looking -- the bar on claims against 
+
+forward-looking statements by the safe harbor. 
+
+JUSTICE SOTOMAYOR:  Are there any 
+
+specific arguments with respect to 906? I think 
+
+that question was related to 906 and the 
+
+certification there. 
+
+MS. COBERLY: They're -- the -- Moab 
+
+is making an argument based on 906, Your Honor. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                 
+ 
+               
+ 
+                 
+ 
+                
+ 
+               
+ 
+                
+ 
+                 
+ 
+              
+ 
+               
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+              
+  
+
+1 
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10 
+
+11  
+
+12  
+
+13  
+
+14  
+
+15 
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+7 
+
+Official 
+
+I'll note that the Second Circuit did not rely
+
+ on 906, a 906 certification.  The 906 
+
+certification wasn't mentioned in the complaint,
+
+ in the briefs below, or -- or in the brief in
+
+ opposition.  So we don't think it's really --
+
+JUSTICE SOTOMAYOR:  And that sort of 
+
+certification is not a part of the 303 filing,
+
+ is it?
+
+ MS. COBERLY: It is not.  It is a 
+
+separate document from the securities filings 
+
+themselves.  And, of course, the requirement for 
+
+a 906 certification does not appear in the 
+
+securities laws.  It appears in the criminal 
+
+code. And this Court is loath to interpret a 
+
+civil remedy from something in the criminal code 
+
+unless Congress specifically stated so. 
+
+JUSTICE SOTOMAYOR:  So, in this case, 
+
+we don't need to reach that issue? 
+
+MS. COBERLY: I think that's correct, 
+
+Your Honor. 
+
+CHIEF JUSTICE ROBERTS:  Counsel, I --
+
+the distinction you draw between sort of 
+
+half-truths and omissions strikes me as one that 
+
+might be hard to apply in practice. 
+
+Let's say you have a statement that, 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+              
+ 
+                          
+ 
+              
+ 
+                
+ 
+               
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+             
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5   
+
+6 
+
+7 
+
+8   
+
+9   
+
+10  
+
+11 
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+8
+
+Official 
+
+you know, our -- our sales are going to rise 
+
+because of the new processors we're going to 
+
+bring online, but what you don't say is that our
+
+ sales are going to fall because EPA is going to
+
+ issue new regulations.  You know what --
+
+something like along those lines that you know. 
+
+And they're going to limit further the use of
+
+ No. 6 oil. 
+
+Now is -- is that an omission case 
+
+because, you -- you know, there's a difference 
+
+between new processors increasing sales and EPA 
+
+regulation lowering it, or is it a half-truth 
+
+situation because the first part says our sales 
+
+will rise? 
+
+MS. COBERLY: Well, Your Honor, that's 
+
+a kind of question that district courts answer 
+
+every day in securities cases.  In every 
+
+instance where a plaintiff identifies a 
+
+statement and identifies it as a half-truth, the 
+
+court is then tasked with answering a lot of 
+
+questions about that statement.  Does it match 
+
+the omitted fact?  Is it close enough in topic 
+
+given the context of -- of the -- of the 
+
+statements? 
+
+CHIEF JUSTICE ROBERTS:  Well, what's 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                   
+ 
+ 
+                 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+                
+ 
+                 
+ 
+                
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+                
+ 
+                
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+                
+ 
+               
+  
+
+1 
+
+2   
+
+3 
+
+4 
+
+5   
+
+6   
+
+7   
+
+8   
+
+9 
+
+10 
+
+11 
+
+12  
+
+13  
+
+14  
+
+15 
+
+16 
+
+17  
+
+18 
+
+19 
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+9 
+
+Official 
+
+the answer in the hypothetical that I --
+
+MS. COBERLY: I think the answer to 
+
+that question, Your Honor, would be no, and 
+
+that's because the statement needs to be
+
+ something like in kind in both subject matter
+
+ and specificity.  And so the classic example
+
+ that this Court has discussed in Escobar is
+
+ taken from Justice Cardozo in Junius 
+
+Construction, and that's two streets intersect 
+
+and if a third also exists but is omitted, then 
+
+the statement about the two streets might be 
+
+misleading by omission. 
+
+JUSTICE KAGAN:  Well, where do you get 
+
+that from the text?  I mean, I understand how 
+
+you get your principal argument from the text. 
+
+But, there, I understood you to be saying that 
+
+there are limits on the ways in which an 
+
+omission can make statements in the MD&A or in 
+
+the broader form misleading, and I don't see 
+
+anything like that in the text. 
+
+MS. COBERLY: Well, what the text 
+
+tells us, Your Honor, is -- is the -- the text 
+
+makes it unlawful to omit to state a material 
+
+fact necessary in order to -- to make the 
+
+statements made, in the light of the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+               
+ 
+                  
+ 
+                 
+ 
+               
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+              
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+               
+ 
+             
+ 
+                
+ 
+             
+ 
+               
+ 
+                
+ 
+             
+ 
+                
+  
+
+1   
+
+2   
+
+3 
+
+4 
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+10
+
+Official 
+
+ circumstances under which they were made, not
+
+ misleading.  And courts have interpreted that 
+
+text to require a similarity in like -- in both 
+
+subject matter and specificity between the
+
+ statement rendered misleading and the omitted
+
+ fact, and that's how courts have typically --
+
+JUSTICE KAGAN:  Well, I mean, I -- I 
+
+-- I guess this is along the same lines as the
+
+ Chief Justice's question.  If you have a set of 
+
+paragraphs or a set of sentences, what have you, 
+
+which paints a very rosy picture of the 
+
+prospects of a company, and then it turns out 
+
+that you've omitted the thing that is actually 
+
+going to crater the company next month, that 
+
+rosy picture seems to be rendered misleading. 
+
+But I understood your answer to the 
+
+Chief Justice to say that you did not agree with 
+
+that. Am I -- is that right? 
+
+MS. COBERLY: So I think the first 
+
+question is if there is a statement that the 
+
+complaint identifies --
+
+JUSTICE KAGAN:  And when -- when you 
+
+say "if there is a statement," I mean, it's --
+
+it's actually framed in the plural in the text, 
+
+so it's "statements."  Is -- are -- are you 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+              
+ 
+               
+ 
+               
+ 
+                 
+ 
+                  
+ 
+              
+ 
+               
+ 
+                
+ 
+                
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+                 
+ 
+                
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7 
+
+8   
+
+9   
+
+10 
+
+11 
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21 
+
+22 
+
+23  
+
+24  
+
+25  
+
+11 
+
+Official 
+
+saying that there has to be one discrete
+
+ statement?  And where -- where does that come
+
+ from?
+
+ MS. COBERLY: The -- it comes from the
+
+ PSLRA, Your Honor.  So the PSLRA requires that 
+
+each statement must be specifically identified 
+
+in the complaint. So the PSLRA took that plural
+
+ language, the plural language in Rule 10b-5, and
+
+ it described what -- what is the pleading 
+
+requirement for that statement in the context of 
+
+a claim based on an omission that makes 
+
+statements made misleading, and what it said is 
+
+the complaint shall specify each statement 
+
+alleged to have been misleading. 
+
+JUSTICE KAGAN:  So --
+
+MS. COBERLY: So --
+
+JUSTICE KAGAN:  -- again, go back to 
+
+my hypothetical, and it's like -- it's a big 
+
+paragraph that just says this company has a 
+
+bright future ahead of it for the following 19 
+
+reasons, and then it doesn't tell you the thing 
+
+that's going to crater the company next week. 
+
+How does your analysis apply to that? 
+
+MS. COBERLY: I think the analysis 
+
+would change.  The result would be the same, and 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                  
+ 
+                 
+ 
+                 
+ 
+               
+ 
+               
+ 
+              
+ 
+                
+ 
+                
+ 
+                 
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+                
+ 
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+  
+
+1 
+
+2 
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19 
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+12 
+
+Official 
+
+let me explain why. I think, in that instance, 
+
+there might very well be a statement that is the 
+
+-- that satisfies the statement element of the
+
+ omission claim, it -- provided that it was
+
+ identified in the complaint.
+
+ But this is why the specificity is so
+
+ important.  Once that specific statement, that 
+
+-- that paragraph with the rosy future and so 
+
+on, is identified in the complaint, then the 
+
+defendant has the opportunity to move to dismiss 
+
+the case. 
+
+It might, for example, in that 
+
+instance invoke a -- invoke the safe harbor for 
+
+forward-looking statements.  It might also 
+
+invoke this Court's ruling in Omnicare, which 
+
+identifies statements of opinion as being 
+
+different from statements of fact. 
+
+Now, of course, a statement of opinion 
+
+can be misleading, but that requires a very 
+
+special kind of omitted fact that the Court was 
+
+very clear about in the Omnicare decision. 
+
+So the importance of the specific 
+
+statement is tied in part to the PSLRA's 
+
+requirements, which are very important here, 
+
+especially because that's the moment when 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+              
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+               
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+                 
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+  
+
+1 
+
+2   
+
+3   
+
+4 
+
+5 
+
+6 
+
+7   
+
+8 
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22 
+
+23  
+
+24  
+
+25  
+
+13 
+
+Official 
+
+Congress finally weighed in on the judicially
+
+ implied private right of action.
+
+ But the statement requirement is also 
+
+important because of all the things that flow 
+
+from it, all of the other elements and 
+
+safeguards that use the statement as their
+
+ predicate.  And to have, as -- as the government 
+
+argues, the statement be the entire narrative, 
+
+which, here, was pages and pages and pages on 
+
+many different topics with respect to multiple 
+
+different subsidiaries of a holding company, 
+
+that kind of statement isn't what the -- the 
+
+Congress had in mind when it used the word 
+
+"statement" in the PSLRA. 
+
+JUSTICE BARRETT:  Ms. Coberly, can I 
+
+ask you what I think is a -- a variation on this 
+
+theme? Is the rule that you're asking for 
+
+pretty narrow? 
+
+Because the Chief and Justice Kagan 
+
+are pointing out that it can sometimes be 
+
+difficult to tell when an omission causes a 
+
+statement or statements in the disclosure to be 
+
+misleading.  So Professor Grundfest suggests 
+
+that most omission cases can pretty easily be 
+
+repleaded as misleading statement cases. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+               
+ 
+               
+ 
+                  
+ 
+                
+ 
+               
+ 
+                 
+ 
+              
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+               
+ 
+              
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5   
+
+6 
+
+7  
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14 
+
+15  
+
+16  
+
+17 
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+14
+
+Official 
+
+Do you agree that that's going to be 
+
+true of some significant portion of these, 
+
+meaning that the rule that you're asking for is
+
+ fairly narrow?
+
+ MS. COBERLY: It -- yes, I do agree 
+
+with that, Your Honor. And so, first of all, I 
+
+think it's important to remember how we got
+
+ here. The Second Circuit held that a violation 
+
+of Item 303 is actionable independent of whether 
+
+there's a misleading statement.  And -- and we 
+
+think that rule is incorrect and needs to be 
+
+vacated. 
+
+Now, as far as what the -- the status 
+
+quo will be going forward, and it is what the 
+
+law is in every other circuit right now, a 
+
+plaintiff must identify a specific statement. 
+
+If that happens, then, of course, the statement 
+
+requirement is satisfied and we move on to the 
+
+other elements. 
+
+So all we're seeking here is respect 
+
+for the text of 10(b) that -- which says that an 
+
+omission is actionable only when necessary to --
+
+when the omitted fact is necessary to make the 
+
+other statements made not misleading.  And so 
+
+we're -- we're simply asking for what Congress 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+              
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+                 
+ 
+              
+ 
+               
+ 
+                
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+               
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8 
+
+9   
+
+10  
+
+11 
+
+12  
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+15 
+
+Official 
+
+asked for, which is that the complaint identify
+
+ a misleading statement.
+
+ JUSTICE JACKSON:  Is there anything --
+
+JUSTICE SOTOMAYOR:  Are you hoping --
+
+I -- I'm sorry.  I thought the Second Circuit in
+
+ the alternative had held that there were
+
+ half-truths here, and so why are we here if 
+
+you're going to lose anyway when you go down --
+
+back down? 
+
+MS. COBERLY: Well, respectfully, we 
+
+don't think we're going to lose when we go back 
+
+down, but --
+
+JUSTICE SOTOMAYOR:  I know you won --
+
+I know you won on this issue on the district 
+
+court. 
+
+MS. COBERLY: Indeed.  So the specific 
+
+half-truths that the Second Circuit identified 
+
+don't have to do with the Item 303 omission.  So 
+
+the -- the paragraphs in the complaint that 
+
+described the Item 303 omission simply referred 
+
+to Item 303 and did not tie that failure to 
+
+comply with any specific statement. 
+
+The two statements --
+
+JUSTICE SOTOMAYOR:  Was -- was this 
+
+fought about below on the Second -- in the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                  
+ 
+               
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+                
+ 
+                 
+ 
+              
+ 
+             
+ 
+                
+ 
+              
+ 
+                  
+ 
+              
+ 
+              
+ 
+               
+ 
+                
+ 
+                  
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5 
+
+6 
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18 
+
+19
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+16
+
+Official 
+
+Second Circuit?  So did you make these -- this
+
+ argument in the Second Circuit?
+
+ I mean, obviously, we can just, if we 
+
+were to rule in your favor, not to suggest we 
+
+are, but just to say that, we would vacate and 
+
+remand and let the Second Circuit apply the
+
+ correct rule, correct?
+
+ MS. COBERLY: Yes.  But the -- the two 
+
+statements, there were two very specific 
+
+statements that the court found had been 
+
+adequately pleaded as half-truths, and both of 
+
+those statements, first of all, were in oral 
+
+discussions.  They were not in pleadings.  They 
+
+were not in filings with the SEC. So Item 303 
+
+didn't apply to them at all. 
+
+They were statements made orally by 
+
+management in conferences with investors, and 
+
+the court held that both of those statements 
+
+were rendered misleading by -- and this is how 
+
+the -- Moab had argued it -- by the omission of 
+
+specific facts relating to the base of 
+
+customers. 
+
+So they're very -- they're statements 
+
+about factually who are our customers, and the 
+
+allegation was that those statements were 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+                  
+ 
+              
+ 
+                 
+ 
+              
+ 
+                
+ 
+              
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+ 
+                 
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+                
+ 
+              
+ 
+                       
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+  
+
+1 
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10 
+
+11 
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19 
+
+20  
+
+21    
+
+22  
+
+23  
+
+24  
+
+25  
+
+17 
+
+Official 
+
+misleading because there was information about
+
+ those customers, factual information, that had 
+
+been omitted. So that's the very narrow
+
+ omission claim, half-truth claim, that the
+
+ Second Circuit allowed to proceed.
+
+ And that claim, by the way, is
+
+ proceeding today in the district court.  The
+
+ claim that's before the Court today is about --
+
+is a much broader claim.  It's a claim that --
+
+that the holding company should have disclosed 
+
+not just the existence of IMO 2020, not the fact 
+
+that it -- the alleged fact that it didn't 
+
+comply with Item 303, but very specifically the 
+
+idea, the prediction, that IMO 2020 would have a 
+
+very significant negative impact on the 
+
+performance of one of the subsidiaries and that 
+
+that impact would cause the holding company to 
+
+cut its dividends, which is ultimately the news 
+
+that the plaintiffs allege led to the decrease 
+
+in the stock price. 
+
+JUSTICE SOTOMAYOR:  Thank you, 
+
+counsel. 
+
+JUSTICE JACKSON:  And I suppose that 
+
+you can argue, you -- you know, with many 
+
+different parts of that argument.  You -- you --
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+                       
+ 
+                
+ 
+               
+ 
+                
+ 
+             
+ 
+                
+ 
+               
+ 
+              
+ 
+                
+ 
+               
+ 
+                
+ 
+              
+ 
+               
+ 
+             
+  
+
+1 
+
+2 
+
+3 
+
+4 
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12     
+
+13 
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+18 
+
+Official 
+
+you're going to claim that they're wrong about 
+
+the way in which the omission had an impact, but 
+
+I guess they're also arguing that you're seeking 
+
+blanket immunity for omissions in the Item 303
+
+ context.
+
+ Are you?
+
+ MS. COBERLY: We are not, Your Honor.
+
+ And --
+
+JUSTICE JACKSON:  So you -- so you 
+
+agree that Item 303 omissions could give rise to 
+
+the kind of liability that they say exists here? 
+
+MS. COBERLY: No.  No. And I want to 
+
+draw a distinction between immunity and 10b-5. 
+
+So we think that in -- a failure to comply with 
+
+Item 303 is not actionable unless it's tied to a 
+
+specific misleading statement that's plead --
+
+pleaded in the complaint, in which case the Item 
+
+303 requirement is not doing very much work. 
+
+JUSTICE JACKSON:  But can that -- can 
+
+that statement be of the nature that the SG 
+
+points out?  So you have a list, you know, the 
+
+company does comply partially, it -- it talks 
+
+about various trends, et cetera, but it leaves 
+
+out a few that seem to be pretty consequential 
+
+if investors knew about them. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                
+ 
+                 
+ 
+               
+ 
+                 
+ 
+              
+ 
+              
+ 
+             
+ 
+                 
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+             
+ 
+                 
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5 
+
+6   
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+19
+
+Official 
+
+Is that the kind of scenario that you 
+
+say could possibly give rise to liability here 
+
+but it just wasn't pled in this situation?
+
+ MS. COBERLY: Well, in -- first of 
+
+all, in that instance, I'm not sure Item 303 is
+
+ doing very much work.  So we already have the 
+
+classic example, again, from Justice Cardozo
+
+ in -- in Junius Construction of the two roads 
+
+and the one road. 
+
+So the analogy here would be, if the 
+
+complaint had identified a specific statement of 
+
+certain forward-looking trends that were going 
+
+to have an impact and it left out this 
+
+forward-looking trend that was going to have an 
+
+impact, the plaintiff might be able to plead the 
+
+statement requirement by identifying that 
+
+specific statement. 
+
+Now that didn't happen here, but --
+
+but that was a -- that would be a -- a pleading 
+
+that might satisfy --
+
+JUSTICE KAVANAUGH:  On -- on the --
+
+MS. COBERLY: -- the statement 
+
+requirement. 
+
+JUSTICE KAVANAUGH:  -- immunity word, 
+
+I thought your response would be that the SEC --
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                
+ 
+               
+ 
+                 
+ 
+              
+ 
+                
+ 
+                
+ 
+               
+ 
+             
+ 
+                   
+ 
+              
+ 
+             
+ 
+                  
+ 
+                
+ 
+               
+ 
+                
+ 
+               
+ 
+             
+ 
+              
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15
+
+16  
+
+17  
+
+18  
+
+19 
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+20
+
+Official 
+
+MS. COBERLY: We do.
+
+ JUSTICE KAVANAUGH:  -- has authority
+
+ to enforce omissions in 303.
+
+ MS. COBERLY: That is my response. 
+
+With respect to the question about immunity for
+
+ 10(b) liability, we're -- even there, we're not
+
+ seeking immunity exactly.  We're simply saying
+
+ that you have to identify a misleading statement 
+
+and it has to be something that's like in kind. 
+
+But Your Honor is quite right that the 
+
+SEC has ample authority to -- to pursue and 
+
+penalize failures to violate or failures to 
+
+comply with that --
+
+JUSTICE JACKSON:  Right.  But just 
+
+to -- just to be clear, I guess I'm -- I'm just 
+
+trying to understand, are you making the 
+
+argument that there's something about the nature 
+
+of an Item 303 disclosure that it can't give 
+
+rise to liability or there are circumstances 
+
+that you can envision like the one perhaps you 
+
+identified where it might, but they didn't 
+
+allege that in this case? 
+
+MS. COBERLY: We are not asking this 
+
+Court to make a ruling based on the nature of 
+
+Item 303 representations.  What we're asking the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                
+ 
+               
+ 
+               
+ 
+                
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13              
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21    
+
+22 
+
+23  
+
+24  
+
+25    
+
+21 
+
+Official 
+
+Court to do is respect the text of Rule
+
+ 10b-5(b).
+
+ If a -- if a plaintiff identifies a
+
+ specific misleading statement in a -- an Item
+
+ 303 disclosure, that happens to be in an Item
+
+ 302 -- 3 disclosure, which means, by the way, it 
+
+happens to be anywhere in the MD&A of the public
+
+ filing, then the plaintiff could plead that 
+
+specific statement as a misleading statement for 
+
+purposes of the --
+
+JUSTICE KAGAN:  But just to --
+
+CHIEF JUSTICE ROBERTS: I was --
+
+JUSTICE KAGAN:  -- make sure I --
+
+CHIEF JUSTICE ROBERTS: I was just 
+
+going to say, I thought you argued that the 
+
+private actions could not be brought under 
+
+Section 303 alone even though the Commission 
+
+might be able to take actions? 
+
+MS. COBERLY: We do argue that, Your 
+
+Honor, but -- but the -- the problem here is to 
+
+-- to identify -- what the Second Circuit held 
+
+was that a violation of Item 303, standing 
+
+alone, is actionable under Rule 10b-5(b) whether 
+
+or not there was a misleading statement.  And so 
+
+-- what -- what we're asking for is for the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+              
+ 
+               
+ 
+                
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                
+ 
+               
+ 
+                
+ 
+                
+ 
+                
+ 
+                
+ 
+              
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+  
+
+1 
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7 
+
+8 
+
+9   
+
+10 
+
+11  
+
+12 
+
+13 
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+22 
+
+Official 
+
+Court to require the misleading statement.
+
+ The statement has to be identified and 
+
+it has to be something specific to comply with
+
+ the PSLRA pleading requirements, and then the
+
+ defendant will go through the process, and the
+
+ court, of evaluating whether that kind of 
+
+statement is the sort of thing on which 
+
+securities liability can rest.
+
+ JUSTICE KAGAN:  And just to make sure 
+
+I understand your answer to Justice Jackson's 
+
+hypothetical, if, in the MD&A, the -- the 
+
+company says there are three trends that you 
+
+should know about, you, the investor, should 
+
+know about, when you think about our future 
+
+sales, and it lists three trends, but it doesn't 
+
+list a fourth that's actually much more 
+
+consequential than those three and cuts in the 
+
+opposite direction, has the -- has -- has -- has 
+
+that satisfied the requirement? 
+
+MS. COBERLY: I think that would 
+
+satisfy the requirement of the misleading 
+
+statement. 
+
+JUSTICE KAGAN:  Yeah. 
+
+MS. COBERLY: It remains -- that then 
+
+there are other pleading requirements as well --
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                
+ 
+                  
+ 
+             
+ 
+              
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+                  
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+               
+ 
+              
+ 
+                
+ 
+              
+  
+
+1   
+
+2   
+
+3 
+
+4 
+
+5 
+
+6 
+
+7   
+
+8   
+
+9  
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24 
+
+25  
+
+23
+
+Official 
+
+JUSTICE KAGAN:  Sure.
+
+ MS. COBERLY: -- including potentially 
+
+the application of the safe harbor, because I 
+
+actually think that statement that Your Honor is 
+
+positing probably is a forward-looking statement 
+
+that would be protected from liability under the
+
+ statutory safe harbor.
+
+ JUSTICE KAGAN:  But, in terms of the 
+
+issue that we're deciding today --
+
+MS. COBERLY: Right. 
+
+JUSTICE KAGAN:  -- it would pass that? 
+
+MS. COBERLY: I think it likely would 
+
+pass that, Your Honor.  And that's why it's so 
+
+important that the statement be specific and 
+
+identified. 
+
+There's actually -- the -- the -- the 
+
+safe harbor provision itself contains an 
+
+important textual clue as well.  It discusses 
+
+statements as being something contained in the 
+
+filings, contained in, in fact, specifically 
+
+contained in the Management's Discussion and 
+
+Analysis, which, of course, is a lengthy 
+
+narrative.  Based on that understanding of what 
+
+a statement is, it's not appropriate to suggest, 
+
+as the government does, that the statements made 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                  
+ 
+               
+ 
+                 
+ 
+                 
+ 
+               
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+ 
+                
+ 
+             
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+                
+ 
+               
+ 
+              
+ 
+             
+  
+
+1 
+
+2   
+
+3 
+
+4 
+
+5 
+
+6   
+
+7 
+
+8 
+
+9   
+
+10  
+
+11 
+
+12 
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22 
+
+23  
+
+24  
+
+25  
+
+24 
+
+Official 
+
+could be in general the entire MD&A.
+
+ And one of the reasons it's important 
+
+for the PSLRA, I think, to identify something 
+
+more specific is because the MD&A is long and 
+
+complex and covers many different subjects. I
+
+ mean, our client, for example, was a holding 
+
+company that had four different major 
+
+subsidiaries engaged in different businesses.
+
+ It was affected by many regulations.  It, in 
+
+fact, disclosed in its MD&A the possibility that 
+
+regulations that impact the commodities stored 
+
+by this subsidiary could impact the outcome, the 
+
+financial results, of the holding company.  That 
+
+was actually disclosed at a higher level of 
+
+generality.  That did not become misleading 
+
+simply because it did not provide a specific 
+
+example that included this alleged regulation. 
+
+And we -- we want companies to 
+
+disclose what's required under Item 303.  We 
+
+want them to provide that information.  But, if 
+
+we have a rule that says anytime you say 
+
+anything you can be held liable for what you 
+
+don't say, that would have exactly the opposite 
+
+result of the requirement. 
+
+JUSTICE BARRETT:  Ms. Coberly, what 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+               
+ 
+                  
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+                
+ 
+               
+ 
+             
+ 
+               
+ 
+              
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+25
+
+Official 
+
+ about 10b-5(a) and(c)? Would a 303 omission be 
+
+actionable under either of those subsections, 
+
+and are you asking us to say anything about
+
+ that?
+
+ MS. COBERLY: We are not asking the
+
+ Court to say anything about that necessarily
+
+ because the Second Circuit didn't.  So we did
+
+ not brief that issue as if it was before the 
+
+Court. The Second Circuit did not rely on that. 
+
+But what I can say, Your Honor, is 
+
+that every time this Court has recognized 
+
+liability under (a) and (c), it has found 
+
+something in addition to speech alone.  And if 
+
+it were the case that you could -- this in our 
+
+case is a quintessential (b) case, right?  It's 
+
+about what a 10-K or a 10-Q does or doesn't say. 
+
+And if that case could be recast as a 
+
+scheme case or an act case and avoid the 
+
+specific requirements of (b), no one would ever 
+
+bring a claim under (b).  And, presumably, there 
+
+would be some decision by some court of appeals 
+
+somewhere that held that a misrepresentation or 
+
+omission in a 10-K or a 10-Q can be asserted 
+
+under (a) and (c).  And no court, including the 
+
+Second Circuit, has ever reached that result as 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+               
+ 
+               
+ 
+               
+ 
+              
+ 
+                     
+ 
+             
+ 
+             
+ 
+                
+ 
+                      
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+                
+ 
+              
+ 
+                
+ 
+               
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10      
+
+11  
+
+12  
+
+13 
+
+14     
+
+15  
+
+16  
+
+17 
+
+18  
+
+19 
+
+20 
+
+21  
+
+22 
+
+23  
+
+24 
+
+25  
+
+26
+
+Official 
+
+far as we are aware.
+
+ CHIEF JUSTICE ROBERTS: Thank you,
+
+ counsel.
+
+ Justice Thomas?
+
+ Justice Gorsuch, anything further?
+
+ All right. Justice Barrett?
+
+ Okay. Thank you, counsel.
+
+ MS. COBERLY: Thank you.
+
+ CHIEF JUSTICE ROBERTS: Mr. Frederick. 
+
+ORAL ARGUMENT OF DAVID C. FREDERICK 
+
+ON BEHALF OF RESPONDENT MOAB PARTNERS, L.P. 
+
+MR. FREDERICK:  Thank you, Mr. Chief 
+
+Justice, and may it please the Court: 
+
+This case involves a classic 10b-5(b) 
+
+misleading half-truth.  Petitioners disclosed a 
+
+few known trends that would affect their bottom 
+
+line but omitted the IMO 2020 uncertainty that 
+
+would decimate 40 percent of their revenue. 
+
+Just as disclosing two roads near a property 
+
+when a third one actually bisects it is a 
+
+classic fraudulent half-truth, so is a partial 
+
+Item 303 disclosure that omits required material 
+
+information.  A reasonable investor would expect 
+
+the description of known trends to be complete 
+
+and would be misled by such a material omission. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+              
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+ 
+                
+ 
+              
+ 
+                
+ 
+              
+ 
+               
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8 
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21 
+
+22  
+
+23 
+
+24  
+
+25  
+
+27
+
+Official 
+
+If accepted, Petitioners' argument
+
+ would create a roadmap for fraud.  Petitioners
+
+ knew they were about to lose a substantial part
+
+ of their business but kept their stock price
+
+ artificially inflated by deliberately 
+
+withholding information about their readiness to
+
+ comply with an important rule change.  When the 
+
+truth emerged, their stock price fell by more 
+
+than 40 percent in one day. 
+
+Congress enshrined a private right of 
+
+action to redress this kind of half-truth.  Now 
+
+Petitioners concede that an omission can be a 
+
+half-truth when there is a statement on the same 
+
+subject.  But Item 303 defines the relevant 
+
+subject, any known trends or uncertainties that 
+
+are reasonably likely to significantly affect 
+
+revenues or income. 
+
+So, if a company, as, Mr. Chief 
+
+Justice, your hypothetical pointed out, 
+
+discloses that sales are going to go up by some 
+
+customers, but suppose that the supplier of 
+
+parts is about to go into bankruptcy, both of 
+
+those statements go to the same subject under 
+
+Item 303.  But an omission of one, the 
+
+bankruptcy of the supplier, would materially 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+             
+ 
+               
+ 
+             
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+28
+
+Official 
+
+affect the bottom line.  For the reason that 
+
+they don't give you a standard for determining 
+
+the same subject, it has to be tied to Item 303.
+
+ I welcome the Court's questions.
+
+ JUSTICE THOMAS:  But, even if you
+
+ lose, doesn't the SEC have authority over the
+
+ omission?
+
+ MR. FREDERICK:  Not under 10b-5(b)
+
+ under their theory.  The SEC would only have 
+
+administrative authority through their Corporate 
+
+Finance Department, but they wouldn't have the 
+
+authority to bring a fraud claim that would seek 
+
+other potential remedies.  And the SEC has made 
+
+quite clear that its enforcement staff is meager 
+
+compared to the resources and opportunities for 
+
+institutional investors like the ones that I 
+
+represent to be able to bring private actions. 
+
+JUSTICE THOMAS:  And so which 
+
+omissions would not be misleading? 
+
+MR. FREDERICK:  Well, omission --
+
+JUSTICE THOMAS:  If pure omissions are 
+
+misleading -- it seems as though you're saying 
+
+the mere fact that it is an omission makes it 
+
+misleading.  Can you -- is there a limit to 
+
+that? 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                
+ 
+                 
+ 
+                 
+ 
+               
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+                    
+ 
+              
+ 
+               
+ 
+              
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+                
+ 
+                
+ 
+               
+  
+
+1   
+
+2   
+
+3 
+
+4 
+
+5   
+
+6   
+
+7 
+
+8 
+
+9   
+
+10  
+
+11  
+
+12 
+
+13  
+
+14       
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+29
+
+Official 
+
+MR. FREDERICK:  Yes, there is, Justice
+
+ Thomas.  And what the Second Circuit did below 
+
+was it went through, essentially, a decision 
+
+tree whether there was a violation of Item 303.
+
+ It asked first, is there a known trend?  Would
+
+ it have -- reasonably affect the bottom line? 
+
+If the answer to that is no, then any omission 
+
+that would not concern a known trend wouldn't be
+
+ required for disclosure.  And if there was an 
+
+uncertainty about that, then the managers are 
+
+asked whether or not disclosing that event would 
+
+be reasonably likely to occur, which is a lower 
+
+standard still. 
+
+The Second Circuit provided those kind 
+
+of prophylactic protections through the decision 
+
+tree that it undertook to determine whether or 
+
+not an omission in these particular contexts 
+
+would be important, and it determined -- and 
+
+this isn't challenged on appeal -- that it was 
+
+objectively unreasonable for the company not to 
+
+put in their Item 303 disclosure the facts that 
+
+would be necessary to determine the company's 
+
+readiness to deal with the IMO 2020 rule change, 
+
+which is going to decimate the 6 oil market. 
+
+And so, for that reason, it seems very 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+                 
+ 
+             
+ 
+             
+ 
+             
+ 
+               
+ 
+              
+ 
+                
+ 
+               
+ 
+             
+ 
+                 
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+                 
+  
+
+1   
+
+2 
+
+3 
+
+4 
+
+5   
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15 
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+30
+
+Official 
+
+clear to us that when the managers are assessing 
+
+what needs to be in the Item 303 disclosure, 
+
+omitting something that would be so material, as 
+
+was the case here, would be independently
+
+ actionable.
+
+ And I would point out that the
+
+ underlying Second Circuit case that's really on
+
+ appeal here is called Stratte-McClure.  That was 
+
+the precedent on which the per curiam panel 
+
+below relied. 
+
+Stratte-McClure said that omissions 
+
+that were of such materiality would lead the 
+
+financial statements to be misleading.  We think 
+
+what it meant by that was the MD&A part.  And 
+
+the comment is made, well, the MD&A is many 
+
+pages. Well, the statement in a Supreme Court 
+
+brief can be many, many pages.  And so the fact 
+
+that we're not talking about one sentence, but 
+
+we're talking about a statement, is relevant for 
+
+determining what material information reasonable 
+
+investors would want to have. 
+
+JUSTICE JACKSON:  Can I just --
+
+CHIEF JUSTICE ROBERTS:  Counsel --
+
+JUSTICE JACKSON:  Go ahead. 
+
+CHIEF JUSTICE ROBERTS: -- you -- you 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+              
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+              
+ 
+               
+ 
+                    
+ 
+             
+ 
+                
+ 
+                
+ 
+               
+ 
+                
+ 
+               
+ 
+             
+ 
+               
+ 
+               
+ 
+              
+ 
+                 
+ 
+               
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+31 
+
+Official 
+
+began by saying this was a classic half-truth.
+
+ MR. FREDERICK:  Yes.
+
+ CHIEF JUSTICE ROBERTS: Are -- are you 
+
+-- is one -- the way that the dispute was
+
+ presented at least in some parts is a
+
+ distinction between half-truths and -- and pure
+
+ omissions.
+
+ Are you giving up on that distinction, 
+
+or you don't buy it? I mean, you -- you do not 
+
+buy that distinction at all? 
+
+MR. FREDERICK:  I think their -- what 
+
+they define "pure omission" to be is a violation 
+
+of a disclosure rule.  And if you look at a 
+
+disclosure violation, you have to look at what 
+
+was disclosed compared to what wasn't disclosed. 
+
+And that's the classic half-truth that 
+
+your very first hypothetical, Mr. Chief Justice, 
+
+brought to light.  And we think, here, where the 
+
+company is talking about some of the material 
+
+trends that would affect their bottom line but 
+
+not the trend that's going to affect nearly half 
+
+of their business, is clearly a material trend 
+
+and a material omission that renders the 
+
+statements that they've made elsewhere in the 
+
+Item 303 disclosure to be misleading. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                
+ 
+               
+ 
+               
+ 
+              
+ 
+                
+ 
+                 
+ 
+               
+ 
+                 
+ 
+             
+ 
+                
+ 
+                
+ 
+               
+ 
+             
+ 
+                
+ 
+              
+ 
+              
+ 
+               
+ 
+             
+ 
+                
+ 
+               
+ 
+               
+ 
+             
+ 
+              
+ 
+               
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6  
+
+7 
+
+8   
+
+9 
+
+10  
+
+11 
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+32
+
+Official 
+
+JUSTICE BARRETT:  And you would --
+
+JUSTICE KAVANAUGH:  But isn't --
+
+JUSTICE BARRETT:  -- have to identify
+
+ those specific statements?
+
+ MR. FREDERICK:  Well, there are two 
+
+answers, Justice Barrett, and I want to be clear 
+
+for the record what our position is.
+
+ We agree with the SG that the 
+
+categorical matter, the statement, is the MD&A. 
+
+So that is an adequate statement if referenced 
+
+in the complaint, which we have on paragraphs 
+
+277 and 278 of our complaint. 
+
+If, however, the Court were to 
+
+conclude that more particularized statements 
+
+within the MD&A needed to be identified, we've 
+
+also done that in the complaint in the preceding 
+
+six or seven paragraphs. 
+
+And so whichever way the Court rules, 
+
+if it accepts the Solicitor General's more 
+
+categorical approach or if it takes the more 
+
+nuanced approach that we have also offered as an 
+
+alternative, we think that you get to the same 
+
+place. 
+
+JUSTICE KAGAN:  But, if I understand 
+
+you correctly, Mr. Frederick -- and this is 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+               
+ 
+                 
+ 
+              
+ 
+                 
+ 
+                 
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+               
+ 
+               
+ 
+             
+ 
+               
+ 
+             
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5 
+
+6 
+
+7   
+
+8   
+
+9   
+
+10 
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+33
+
+Official 
+
+really just repeating the Chief Justice's
+
+ question -- you have put off the table, you're 
+
+not defending the Second Circuit's position,
+
+ which is that there's no statement, however 
+
+capaciously or narrowly defined, there's no 
+
+statement that needs to be alleged becomes
+
+ misleading because of the omission?
+
+ MR. FREDERICK:  That's not correct,
+
+ Justice Kagan.  What the Stratte-McClure Court 
+
+said and held was that the omissions rendered 
+
+the financial statement misleading.  And so the 
+
+Second Circuit has viewed the categorical 
+
+position that the government does as the correct 
+
+ruling on the statement. 
+
+JUSTICE KAGAN:  Well, let -- let's 
+
+just imagine that the Second Circuit said 
+
+something else, which is that any omission 
+
+counts without having to show that it rendered 
+
+any other statement -- misleading. 
+
+You would reject that? 
+
+MR. FREDERICK:  I -- I -- I don't 
+
+think that anybody -- that any court has ever 
+
+held that.  We're not arguing that.  The Second 
+
+Circuit didn't hold that.  It would be purely 
+
+hypothetical. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+              
+ 
+                 
+ 
+                 
+ 
+              
+ 
+               
+ 
+              
+ 
+               
+ 
+                 
+ 
+                           
+ 
+              
+ 
+               
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3 
+
+4 
+
+5   
+
+6   
+
+7   
+
+8   
+
+9 
+
+10
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19 
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25    --
+
+34
+
+Official 
+
+JUSTICE KAGAN:  So what everybody is
+
+ arguing about is just sort of how narrow or how 
+
+capacious we should understand the requirement 
+
+that there needs to be another statement that's
+
+ rendered misleading?
+
+ MR. FREDERICK:  I think that's
+
+ basically right in terms of framing the
+
+ battlefield here, Justice Kagan, and that's why 
+
+the subject is what is so important. 
+
+They're willing to concede that there 
+
+can be half-truths when there are omissions on 
+
+the same subject, but they never really make 
+
+clear what is the subject in the context of a 
+
+public filing by a public company to a public 
+
+agency charged with administering particular 
+
+rules designed to protect investors. 
+
+JUSTICE KAVANAUGH:  Can -- can we just 
+
+say that a -- an omission alone is not good 
+
+enough, you have to identify a statement as 
+
+well, and send it back? 
+
+MR. FREDERICK:  I don't think that's 
+
+going to help anyone, Justice Kavanaugh, 
+
+frankly, for this reason. 
+
+JUSTICE KAVANAUGH:  It'll help us, but 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+                  
+ 
+               
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                
+ 
+              
+ 
+             
+ 
+                
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+                
+ 
+                
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+              
+ 
+               
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5 
+
+6 
+
+7   
+
+8   
+
+9   
+
+10  
+
+11 
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19 
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+35
+
+Official 
+
+(Laughter.)
+
+ MR. FREDERICK:  I -- and I appreciate 
+
+my role is to help you, Justice Kavanaugh. But,
+
+ in furtherance of helping the bar, let me urge 
+
+you to say that the omission has to be tied to 
+
+the particular statements at issue, which are,
+
+ here, the MD&A, the management discussion.  That
+
+ has to be the subject in which you evaluate
+
+ omissions and statements. 
+
+It's the only administrable rule where 
+
+you look at what is required under the Item 303 
+
+rule and you determine whether the company 
+
+complied with the form --
+
+JUSTICE KAVANAUGH:  Well, to say the 
+
+MD&A as a whole is misleading really kind of 
+
+waters down the -- the statement requirement. 
+
+At least that's the argument on the other side. 
+
+MR. FREDERICK:  It is. And that's why 
+
+we made the backup argument that if charged with 
+
+looking at particular statements in the MD&A, we 
+
+pleaded that, we can do that, we can establish 
+
+that. 
+
+But I think, Justice Kavanaugh, what's 
+
+important is that when there are material 
+
+omissions of the type and sky -- size and scope 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                
+ 
+               
+ 
+               
+ 
+                  
+ 
+                  
+ 
+                 
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+               
+ 
+               
+ 
+              
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+                 
+ 
+                
+ 
+               
+  
+
+1 
+
+2 
+
+3   
+
+4 
+
+5   
+
+6   
+
+7   
+
+8 
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24 
+
+25  
+
+36 
+
+Official 
+
+here, it's really important to have a tool to be 
+
+able to say, we're not going to flyspeck every
+
+ sentence and the placement of every comma.  This 
+
+company didn't disclose what was going to happen
+
+ to 40 percent of their business.
+
+ JUSTICE GORSUCH:  Well, Mr. Frederick,
+
+ if -- if there's such agreement that a 
+
+statement's required and, in fact, you -- you 
+
+seem to be okay with your -- your friend, Ms. 
+
+Coberly's, suggestion that it has to be a 
+
+specific statement in a specific context, why 
+
+not send it back for analysis under that 
+
+standard? 
+
+MR. FREDERICK:  Certainly, a -- a 
+
+remand is going to happen anyway because of the 
+
+existence of the other claims. 
+
+JUSTICE GORSUCH:  But would -- would 
+
+that -- would that help the bar? 
+
+MR. FREDERICK:  I don't know that --
+
+JUSTICE GORSUCH:  Would that be 
+
+useful? 
+
+MR. FREDERICK:  Well, what I would 
+
+like to urge the Court is that when a -- an 
+
+omission is evaluated in the context of a 
+
+misleading statement, the test for determining 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+               
+ 
+                  
+ 
+              
+ 
+                
+ 
+                 
+ 
+                
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+                    
+ 
+              
+ 
+               
+ 
+              
+ 
+                
+ 
+             
+ 
+               
+ 
+                
+ 
+                
+ 
+                
+  
+
+1   
+
+2 
+
+3   
+
+4 
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16        
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+37
+
+Official 
+
+it in an Item 303 context is, is it the subject 
+
+covered by the Item 303 requirement?
+
+ JUSTICE GORSUCH:  I understand that's 
+
+your first argument, but you seem to be --
+
+MR. FREDERICK:  No.
+
+ JUSTICE GORSUCH:  -- content with a 
+
+more specific level of analysis too, and your
+
+ friend on the other side suggests that that
+
+ might even be required by the PSLRA. 
+
+MR. FREDERICK:  Well --
+
+JUSTICE GORSUCH:  And if you're 
+
+content with it and she's content with it and 
+
+you say it would be helpful for us to go beyond 
+
+talking about omissions, why shouldn't we go 
+
+ahead and do that? 
+
+MR. FREDERICK: Because I think the 
+
+government's position is the more categorical 
+
+one, which we defend as well, and we believe 
+
+that is correct for multiple reasons.  The PSLRA 
+
+doesn't require individual sentences.  It 
+
+requires statements, statements --
+
+JUSTICE GORSUCH:  But -- but, if lower 
+
+courts have uniformly, Ms. Coberly suggests, 
+
+understood it at -- at a lower level of 
+
+specificity than -- than -- than that, why --
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+                 
+ 
+              
+ 
+                
+ 
+               
+ 
+                 
+ 
+                 
+ 
+               
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+               
+ 
+                
+ 
+                
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5   
+
+6   
+
+7 
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25 
+
+38
+
+Official 
+
+why shouldn't -- if you're asking for help for 
+
+the bar, why wouldn't it be helpful for the bar 
+
+to affirm what lower courts have done in that
+
+ respect?
+
+ MR. FREDERICK:  Well, I think she's
+
+ misstated the law of the Second Circuit, is the 
+
+financial statement, and the MD&A is the 
+
+important narrative discussion in the financial
+
+ statement.  So, to the extent that she's talking 
+
+about other courts, the only other court that's 
+
+addressed the question presented directly is the 
+
+Ninth Circuit, which has held categorically that 
+
+no Item 303 violation can give rise to a 10b-5 
+
+claim. 
+
+JUSTICE GORSUCH:  No, but we're 
+
+talking about 10b-5 generally. We're now moving 
+
+past the 303 issue as I understand it and 
+
+talking about what it takes to plead a 10b-5(b) 
+
+case generally. 
+
+MR. FREDERICK:  Well --
+
+JUSTICE GORSUCH:  And as -- as Ms. 
+
+Coberly suggests at least -- and what I've read 
+
+seems to comport with it -- that the level of 
+
+specificity is lower than -- than -- than just 
+
+saying go look at a long document like a legal 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+                 
+ 
+              
+ 
+               
+ 
+              
+ 
+                 
+ 
+                  
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+                
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13 
+
+14
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23  
+
+24 
+
+25 
+
+39
+
+Official 
+
+brief.
+
+ MR. FREDERICK:  Well, Justice Gorsuch,
+
+ I don't -- I -- I don't want to fight your
+
+ instinct to ratify --
+
+JUSTICE GORSUCH:  Oh, go ahead and
+
+ fight it.
+
+ (Laughter.)
+
+ JUSTICE GORSUCH:  But, if you're 
+
+looking for guidance and that's correct and 
+
+useful guidance and --
+
+MR. FREDERICK:  The -- the problem --
+
+JUSTICE GORSUCH:  -- I mean, or do you 
+
+want us just to go ahead and answer the --
+
+the -- the narrow question presented about 
+
+omissions?  I -- I'm -- I'm just --
+
+MR. FREDERICK:  I would say that --
+
+JUSTICE GORSUCH:  -- wondering where 
+
+you're at. 
+
+MR. FREDERICK:  -- the problem with 
+
+getting too high a level of specificity is that 
+
+it misses the very hypothetical that the Chief 
+
+started the argument with, where the company 
+
+oversells the fact that 30 percent of its 
+
+revenue come from a customer that, say, doubles 
+
+its order, but it doesn't talk about the parts 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+              
+ 
+              
+ 
+               
+ 
+                
+ 
+                  
+ 
+                 
+ 
+               
+ 
+                 
+ 
+                
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+                
+ 
+                
+ 
+                
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25 
+
+40
+
+Official 
+
+ supplier that's about to go into bankruptcy that
+
+ would affect 30 percent.
+
+ When --
+
+JUSTICE GORSUCH:  That -- that might
+
+ be a -- a specific.  I mean, we're going to have 
+
+to argue about that, but that's, I -- I think, 
+
+what lower courts do all the time and say is
+
+ that specific enough.  Is that more like the 
+
+crossroads example that you both have used, or 
+
+is it too far flung to qualify as a statement on 
+
+that subject matter? 
+
+MR. FREDERICK:  And that's why the 
+
+Item 303 framework is a better one than a 
+
+free-floating same-subject test, which is the 
+
+other side's offer. 
+
+JUSTICE GORSUCH:  But do you concede 
+
+that elsewhere in securities law it is more 
+
+specific than that under 10b-5(b) and that --
+
+that courts do require a more specific level of 
+
+granularity than just say it's somewhere in a --
+
+required somewhere in a regulation? 
+
+MR. FREDERICK:  Yes, but that is 
+
+usually in the context of earnings calls, press 
+
+releases, voluntary statements in which the 
+
+company is not required to make disclosures. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+               
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                  
+ 
+                  
+ 
+                
+ 
+             
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+                
+ 
+                
+ 
+               
+ 
+             
+ 
+                
+ 
+                
+ 
+               
+ 
+             
+ 
+              
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17 
+
+18  
+
+19  
+
+20 
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+41
+
+Official 
+
+JUSTICE JACKSON:  But I guess --
+
+MR. FREDERICK:  And --
+
+JUSTICE JACKSON:  Sorry.  I guess 
+
+that's my problem, Mr. Frederick, because I'm --
+
+to the extent that the government's general 
+
+categorical view reduces to whenever the company 
+
+is required to make statements, not doing so 
+
+renders the report misleading, I -- I guess I 
+
+don't understand how that's any different than 
+
+just saying pure omissions in a context in which 
+
+there's a regulation that requires you to 
+
+disclose count. 
+
+It seems to me it -- it -- it -- it 
+
+writes out of the statute something about the 
+
+statement being rendered misleading to interpret 
+
+that to mean anytime you are required to 
+
+disclose certain information in a statement and 
+
+it isn't there you have a misleading statement. 
+
+MR. FREDERICK:  But, Justice Jackson, 
+
+the part of the statute that they don't really 
+
+want to talk about is the part that says "in the 
+
+light of the circumstances in -- under which 
+
+they were made."  The circumstances here are the 
+
+regulation requiring disclosure on specific 
+
+topics. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+              
+ 
+                
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+               
+ 
+             
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+                
+ 
+                
+ 
+               
+ 
+             
+ 
+               
+ 
+               
+ 
+                
+ 
+             
+ 
+                
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6 
+
+7   
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16            
+
+17 
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25 
+
+42
+
+Official 
+
+JUSTICE JACKSON:  No, I understand
+
+ that. But the Chief Justice asked the very
+
+ question that I was going to ask, which is what
+
+ is the difference between a pure omission in a
+
+ world in which you're required to make a 
+
+disclosure and an omission that renders a
+
+ statement misleading?  And if you do it at a 
+
+certain level of generality, I see that there is
+
+ no difference between those two. 
+
+MR. FREDERICK:  And I think there is 
+
+no difference except in the circumstance where 
+
+you simply don't file an MD&A at all.  That is a 
+
+pure omission.  It is as pure as you can be that 
+
+you have violated the rule by simply not 
+
+complying with it. 
+
+Now I'm told that never happens in the 
+
+real world, but that's why this whole pure 
+
+omission thing is a canard for really not 
+
+capturing what is going on in a securities 
+
+action, which are a series of half-truths. 
+
+Here, the difference is that between 
+
+the voluntary scenario where you do have to have 
+
+more specificity about the misleading omissions 
+
+and statements, where you're under a regulatory 
+
+regime that requires certain disclosures and 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+                
+ 
+                 
+ 
+               
+ 
+               
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+                 
+ 
+                
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+              
+  
+
+1 
+
+2 
+
+3   
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13 
+
+14 
+
+15  
+
+16  
+
+17  
+
+18 
+
+19 
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+43 
+
+Official 
+
+certain managers' analyses, you have to follow 
+
+the regulation, and the regulation here calls
+
+ for this disclosure.
+
+ Now, Justice Jackson, to be sure, not 
+
+all of those misleading statements or omissions
+
+ are going to give rise to 10b-5 claims.  You
+
+ have to plead -- plead materiality and --
+
+JUSTICE JACKSON:  But why -- why is
+
+ there a difference in 10(b) and -- and -- and 
+
+Section 11 then?  In other words, how -- how do 
+
+you respond -- it seems to me the Section 11 
+
+argument is what you're saying.  When you're 
+
+required to state something and you don't state 
+
+it, Section 11 says there's liability. 
+
+We have different language in 10b-5. 
+
+So how do you account for that? 
+
+MR. FREDERICK:  Well, 10b-5 is 
+
+intended to be more of a catch-all for a -- a 
+
+provision in which the SEC was intending to 
+
+capture by rule all conceivable forms of fraud. 
+
+Section 11 is a very specific rule capturing 
+
+just the disclosures made in offering documents 
+
+because, once a stock is put on the market 
+
+through an offering document, the offering 
+
+document, all four corners, are supposed to help 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+              
+ 
+                 
+ 
+                 
+ 
+               
+ 
+              
+ 
+                 
+ 
+                 
+ 
+              
+ 
+             
+ 
+                
+ 
+              
+ 
+              
+ 
+               
+ 
+                
+ 
+                
+ 
+             
+ 
+             
+ 
+               
+ 
+              
+ 
+               
+ 
+                
+ 
+              
+ 
+                
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5   
+
+6   
+
+7   
+
+8 
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17 
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25 
+
+44
+
+Official 
+
+the investor identify the worth of the offering.
+
+ Once the offering is made, the market
+
+ takes over, right?  And so the specificity 
+
+required is necessary because Section 11 is a
+
+ strict liability offense.  It does not involve
+
+ scienter.  Fraud requires scienter.
+
+ And so having more particularity with 
+
+respect to the offering document statements in 
+
+that context makes economic sense, and it makes 
+
+governmental sense in the -- in the regard that 
+
+what you're doing is holding the maker of those 
+
+statements strictly liable for messing up by --
+
+either by misleading in some way or omitting 
+
+something that was stated. 
+
+You don't do that in the fraud context 
+
+because you're looking for broader concepts and 
+
+language in which to enforce, and that's why the 
+
+SEC, when it promulgated Rule 10b-5, looked to a 
+
+different provision that did speak to the 
+
+circumstances in which fraud could be conducted. 
+
+JUSTICE ALITO:  Mr. Frederick, what 
+
+about the question that we agreed to review? 
+
+Now you told us it was a worthless question in 
+
+your brief in opposition.  But, wisely or not, 
+
+we took the case to decide that question. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+                 
+ 
+                  
+ 
+                 
+ 
+                 
+ 
+                  
+ 
+                 
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+             
+ 
+                
+ 
+              
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+  
+
+1   
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+45
+
+Official 
+
+And based on the argument this morning 
+
+and your briefs, I don't really see a 
+
+disagreement between you and Ms. Coberly on the 
+
+narrow question that the Court agreed to take. 
+
+I understand you to say that when there is a 
+
+material omission in the 303, then a -- a number 
+
+of statements in the 303 can be regarded as
+
+ misleading.  And you need to say that, right, to
+
+ get under 10b-5(b)?  Is that correct? 
+
+MR. FREDERICK:  Well, we need that to 
+
+get under 10b-5(b). We do that multiple ways, 
+
+either categorically because the entire MD&A is 
+
+false and misleading or because the individual 
+
+statements within it are false and misleading. 
+
+JUSTICE ALITO:  All right.  I'll 
+
+follow up when --
+
+CHIEF JUSTICE ROBERTS: Why don't you 
+
+go ahead now. 
+
+JUSTICE ALITO:  Well, the question is 
+
+whether a failure to make a disclosure required 
+
+under Item 303 can support a private claim under 
+
+Section 10(b) -- you'll understand that to refer 
+
+to 10b-5(b) -- "even in the absence of an 
+
+otherwise misleading statement." 
+
+And you're not arguing that as I 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                  
+ 
+                
+ 
+                 
+ 
+              
+ 
+               
+ 
+               
+ 
+                  
+ 
+               
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+               
+ 
+                
+  
+
+1 
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10 
+
+11 
+
+12  
+
+13  
+
+14  
+
+15 
+
+16  
+
+17  
+
+18 
+
+19  
+
+20  
+
+21   
+
+22  
+
+23  
+
+24  
+
+25 
+
+46 
+
+Official 
+
+understand it. You're arguing that there are
+
+ misleading statements in the 303 because it --
+
+it fails to state things that should have been
+
+ stated.
+
+ MR. FREDERICK: But the opacity of
+
+ that last phrase that you highlighted, Justice 
+
+Alito, is part of my argument. What is an
+
+ otherwise misleading statement depends on
+
+ context.  The context here are the omissions. 
+
+So you might look at a statement and say: 
+
+That's not misleading, except for the fraud and 
+
+omissions that were material to render that 
+
+particular statement otherwise misleading. 
+
+So we argue on the Question Presented 
+
+the Second Circuit has never decided this on the 
+
+basis of pure omissions.  They decided it in the 
+
+context of misleading financial statements.  And 
+
+the "otherwise misleading" gets the half-truth 
+
+theory into the case. 
+
+CHIEF JUSTICE ROBERTS: Thank you, 
+
+counsel. 
+
+Justice Thomas? 
+
+JUSTICE THOMAS:  Mr. Frederick, am --
+
+am I correct in assuming that the -- you're just 
+
+adding, you're saying it has to be a pure 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+                 
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+ 
+               
+ 
+             
+ 
+             
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+                     
+ 
+             
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12   
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22      
+
+23
+
+24
+
+25
+
+47
+
+Official 
+
+ material omission?
+
+ MR. FREDERICK:  What I'm saying is
+
+ that --
+
+JUSTICE THOMAS:  It seems to me as the 
+
+only adjective you're adding is "material."
+
+ MR. FREDERICK:  "Material" is
+
+ necessary to make a 10b-5 claim --
+
+JUSTICE THOMAS:  Yeah.
+
+ MR. FREDERICK:  -- Justice Thomas. 
+
+And so -- there also has to be scienter. So it 
+
+has to be a pure material omission with scienter 
+
+that also causes the other elements in order to 
+
+give rise to a 10b-5 claim.  We -- we 
+
+acknowledge --
+
+JUSTICE THOMAS:  Yeah. 
+
+MR. FREDERICK:  -- the -- that. 
+
+CHIEF JUSTICE ROBERTS:  Anything 
+
+further? 
+
+Justice Gorsuch?  No? 
+
+Justice Jackson? 
+
+Thank you, counsel. 
+
+Mr. McDowell. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                         
+ 
+                
+ 
+                         
+ 
+               
+ 
+                 
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                  
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+                
+ 
+              
+ 
+                
+ 
+             
+ 
+               
+ 
+             
+ 
+              
+ 
+              
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7 
+
+8 
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15 
+
+16 
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+48
+
+Official 
+
+ ORAL ARGUMENT OF EPHRAIM McDOWELL
+
+ FOR THE UNITED STATES, AS AMICUS CURIAE,
+
+     SUPPORTING THE RESPONDENT
+
+ MR. McDOWELL:  Thank you, Mr. Chief 
+
+Justice, and may it please the Court:
+
+ I want to just pick up on this idea 
+
+that the Petitioners are asking for a tight 
+
+factual connection between the statement and --
+
+and the omission. But that ignores the context 
+
+in which an MD&A is -- is made.  The context is 
+
+Item 303. 
+
+Item 303 requires companies to 
+
+disclose all information in a particular 
+
+category.  And in -- when you have that sort of 
+
+regulation, that's the subject matter in which 
+
+you evaluate the statement and omission. 
+
+So just to take the Cardozo case as an 
+
+example, that -- that case was a voluntary 
+
+disclosure case.  There was no disclosure 
+
+regulation at issue.  And in that circumstance, 
+
+we agree that there will need to be some factual 
+
+connection between the statement and the 
+
+omission. 
+
+But, when you have a regulation like 
+
+you have here, that's the way in which you 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+                   
+ 
+                 
+ 
+              
+ 
+               
+ 
+                
+ 
+                
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+                      
+ 
+             
+ 
+                
+ 
+              
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+                
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+  
+
+1   
+
+2 
+
+3 
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12     
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19    
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+49
+
+Official 
+
+ evaluate the statement and omission.  So just to 
+
+take the facts of that case and -- and vary them 
+
+a bit, suppose there were a regulation in that
+
+ case requiring sellers to disclose to buyers
+
+ everything that could affect the material value
+
+ of the property.  In that circumstance,
+
+ disclosing -- not disclosing a nearby factory
+
+ would be misleading, even though, even in a
+
+ voluntary disclosure case, it might not be 
+
+misleading, and there would need to be a tight 
+
+subject matter connection. 
+
+I welcome the Court's questions. 
+
+JUSTICE THOMAS:  But aren't you too 
+
+saying that as long as it's material, the 
+
+omission is material, that it satisfied 
+
+10b-5(b)? 
+
+MR. McDOWELL:  No, Your Honor.  We're 
+
+saying that it has -- there has to be an Item 3 
+
+-- Item 303 violation, it has to be material 
+
+under this Court's decision in Basic, which is a 
+
+different materiality standard than Item 303 
+
+itself, and then there has to be scienter as 
+
+well. So there are multiple different elements 
+
+beyond just materiality. 
+
+JUSTICE THOMAS:  What I'm trying to 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                  
+ 
+                
+ 
+               
+ 
+                
+ 
+                  
+ 
+                  
+ 
+               
+ 
+                
+ 
+               
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+                 
+ 
+             
+ 
+             
+ 
+               
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5 
+
+6 
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13 
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+50 
+
+Official 
+
+get at is I'm trying to understand what the --
+
+what's the difference between what you're saying
+
+ and what Petitioner is saying.  Petitioner
+
+ seemed to suggest that an additional statement 
+
+is required. You're saying at least from what 
+
+I'm hearing that it has to be material, and I
+
+ take as a grant it's scienter, okay?  But I
+
+ don't see that that adds anything more other
+
+ than it's a -- it's a pure omission that is 
+
+material. 
+
+MR. McDOWELL:  No, Your Honor, because 
+
+we're saying that the statement here is the 
+
+MD&A's narrative discussion and analysis as a 
+
+whole, and when you have an omission that 
+
+satisfies the Item 303 standard, that renders 
+
+that entire narrative misleading because --
+
+JUSTICE THOMAS:  But I don't see how 
+
+you could have an omission if you don't have the 
+
+initial 303 statement. 
+
+MR. McDOWELL:  You do have the initial 
+
+303 statement.  That's the MD&A. The MD&A is 
+
+the statement in response to --
+
+JUSTICE THOMAS:  I -- I understand 
+
+that, but I -- anyway, I understand what you're 
+
+saying.  I don't -- I don't know how you could 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+                 
+ 
+               
+ 
+               
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                   
+ 
+                
+ 
+             
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+                 
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+               
+ 
+               
+ 
+                
+ 
+                
+ 
+              
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5 
+
+6   
+
+7 
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19 
+
+20  
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+51
+
+Official 
+
+even have the omission ab initio if you don't 
+
+have the 303 statement, and it is from that
+
+ statement that we're talking about the omission,
+
+ the omission beyond -- nothing beyond that, a 
+
+material omission from the 303 statement.
+
+ MR. McDOWELL:  Your Honor, that -- our 
+
+position is that if you have a material omission 
+
+from the 303 statement, that would be -- that
+
+ would give -- that could give rise to liability. 
+
+JUSTICE THOMAS:  Yeah. 
+
+MR. McDOWELL:  And the reason for that 
+
+is because reasonable investors will expect the 
+
+MD&A to disclose all known trends or 
+
+uncertainties.  So, when you omit one, then 
+
+you're violating those reasonable investor 
+
+expectations. 
+
+Now there's been some discussion about 
+
+the specificity of the statement required here. 
+
+But, as my colleague suggested, the ordinary 
+
+meaning of "statement" includes a narrative 
+
+discussion and analysis like --
+
+JUSTICE KAVANAUGH:  How can -- how can 
+
+the MD&A as a whole be misleading but not any 
+
+single statement within it? 
+
+MR. McDOWELL:  Your Honor, the MD&A as 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                
+ 
+                
+ 
+               
+ 
+                 
+ 
+                 
+ 
+              
+ 
+               
+ 
+                
+ 
+                 
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+                      
+ 
+             
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5 
+
+6 
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17  
+
+18     
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+52
+
+Official 
+
+a whole is misleading because reasonable --
+
+ investors will assume that it is complete in
+
+ light of Item 303.  There may also be individual
+
+ statements that are specifically misleading, as 
+
+my colleague suggested, but our position is the 
+
+categorical one that the entire MD&A is the
+
+ statement and that's what's been rendered
+
+ misleading by the omission.
+
+ JUSTICE KAVANAUGH:  And won't that 
+
+always mean then that a omission -- an Item 303 
+
+omission qualifies? 
+
+MR. McDOWELL:  No, Your Honor, 
+
+because, first of all, it has to meet the -- the 
+
+standards of Item 303 itself, which requires 
+
+that the trend or uncertainty be currently 
+
+known, reasonably likely to occur, and 
+
+reasonably likely to be material. 
+
+JUSTICE KAVANAUGH:  Right.  But once 
+
+you have that? 
+
+MR. McDOWELL:  Once you have that, 
+
+then you would also have to show materiality 
+
+under Basic, which is oftentimes a higher 
+
+threshold, as well as scienter.  So we're just 
+
+talking about one element of the Rule 10b-5 
+
+claim. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                
+ 
+                 
+ 
+                 
+ 
+                         
+ 
+                
+ 
+                 
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+             
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+                
+ 
+             
+  
+
+1   
+
+2   
+
+3 
+
+4 
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24 
+
+25  
+
+53
+
+Official 
+
+But, yes, as to the misleading
+
+ omission element, our position is that when 
+
+there is an Item 303 violation, that would 
+
+satisfy that one element. 
+
+And just to understand why we think
+
+ the right way to think about the statement is 
+
+the MD&A as a whole, I want to give you an
+
+ example of a slightly more straightforward SEC
+
+ disclosure regulation, which is Item 401. 
+
+That requires companies to list all 
+
+the directors on the board of directors of the 
+
+company.  If a company omits one of those 
+
+directors from the disclosure, that omission 
+
+doesn't render misleading the identification of 
+
+any other individual director, but it does 
+
+render misleading the company's larger statement 
+
+that this is our full board of directors. 
+
+The same analysis applies here.  Item 
+
+303 requires companies to disclose all material 
+
+known trends or uncertainties.  So, if you omit 
+
+one, that doesn't render it -- the 
+
+identification of any other one misleading, but 
+
+it does render misleading the holistic statement 
+
+that these are all the known trends or 
+
+uncertainties affecting the company's financial 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                
+ 
+               
+ 
+                 
+ 
+              
+ 
+              
+ 
+                         
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+               
+ 
+              
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5   
+
+6   
+
+7   
+
+8 
+
+9 
+
+10  
+
+11  
+
+12  
+
+13 
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+54
+
+Official 
+
+ condition.
+
+ JUSTICE JACKSON:  I can see that.  And
+
+ I -- I think Ms. Coberly agreed, but I guess I'm 
+
+trying to figure out the difference between the
+
+ language of 10b-5 with respect to this issue and
+
+ Section 11. 
+
+The government's position it seems to 
+
+me renders those two the same in this context 
+
+because Section 11 says that you may sue when a 
+
+regulated party has "omitted to state a material 
+
+fact required to be stated." 
+
+And in this context, you're saying 
+
+that to the extent that Item 303 requires these 
+
+trends and uncertainties to be stated, if they 
+
+are omitted, we should consider that to count or 
+
+satisfy the additional language in Section 10b-5 
+
+that talks about your -- you needing to have a 
+
+misleading statement. 
+
+MR. McDOWELL:  With respect, Justice 
+
+Jackson, that's not correct because Section 11 
+
+goes on to say "or necessary to make the 
+
+statements therein not misleading."  So Section 
+
+11 speaks to both pure omissions and half-truths 
+
+expressly. 
+
+JUSTICE JACKSON:  Right. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+              
+ 
+                 
+ 
+              
+ 
+                
+ 
+               
+ 
+                  
+ 
+               
+ 
+                 
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+               
+ 
+                 
+ 
+                
+ 
+                
+ 
+              
+ 
+               
+ 
+                
+ 
+             
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6   
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15 
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21 
+
+22  
+
+23  
+
+24 
+
+25  
+
+55
+
+Official 
+
+           MR. McDOWELL:  Subsection --
+
+JUSTICE JACKSON:  And it's different 
+
+than 10(b), which doesn't have that first part,
+
+ correct?
+
+ MR. McDOWELL:  That -- that's correct.
+
+ But -- but 10(b) does have the part that we are 
+
+relying on and they're --
+
+JUSTICE JACKSON:  No, I understand. 
+
+But, to the extent that 11 has two different 
+
+things --
+
+MR. McDOWELL:  Right. 
+
+JUSTICE JACKSON:  -- right, the part I 
+
+read, "required to be stated," and the part that 
+
+is similar to 10b-5, I don't understand your 
+
+collapsing the two, and I feel like your 
+
+argument is doing that. 
+
+MR. McDOWELL:  No, Your Honor. 
+
+They're distinct categories.  So a pure omission 
+
+would occur, for instance, if a company did not 
+
+file an MD&A at all or, in the context of 
+
+Section 11, if they omitted an entire category 
+
+within a registration statement. 
+
+By contrast, a -- a half-truth is when 
+
+you provide some disclosure under a particular 
+
+category but omit other parts of the disclosure 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+              
+ 
+              
+ 
+                 
+ 
+               
+ 
+               
+ 
+               
+ 
+                
+ 
+                 
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+                
+ 
+               
+ 
+                
+ 
+             
+ 
+               
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7   
+
+8   
+
+9   
+
+10 
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16    
+
+17  
+
+18 
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+56 
+
+Official 
+
+and that renders the entire statement within
+
+ that category misleading.  So that's the
+
+ distinction here, and --
+
+JUSTICE JACKSON:  And do you think the 
+
+Second Circuit appreciated that distinction in
+
+ its opinion?  Because I -- I sort of thought
+
+ that they were saying the first.
+
+ MR. McDOWELL:  So, Your Honor, the
+
+ Second Circuit's decision is unpublished.  It 
+
+has fairly limited reasoning. And I read it to 
+
+basically cite and adopt the Second Circuit's 
+
+precedential opinion on this issue, which is 
+
+Stratte-McClure. 
+
+And Stratte-McClure does rely on, as I 
+
+read it, a half-truths theory because it says 
+
+that the -- an Item 303 violation renders the 
+
+financial statement misleading, which I take to 
+
+mean the MD&A, and that's exactly our position. 
+
+So I do think that the actual 
+
+precedent within the Second Circuit does agree 
+
+with our position, and I don't think it would do 
+
+any good to just say -- to just basically say 
+
+vacate and remand and -- and let them take 
+
+another look because Stratte-McClure does decide 
+
+this issue in the way that we think about it. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+               
+ 
+               
+ 
+                 
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+              
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+             
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+                 
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5   
+
+6 
+
+7 
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23  
+
+24 
+
+25  
+
+57
+
+Official 
+
+The other -- the other point I wanted
+
+ to make about the PSLRA's pleading standard is I
+
+ think they're -- the other side is suggesting 
+
+that that pleading standard can substantively
+
+ limit the scope of subsection (b) of Rule 10b-5. 
+
+But that gets the analysis backwards because, if 
+
+you look at the pleading standard and it's at 
+
+page 11 of the addendum to the red brief, the
+
+ pleading standard just tracks the language of 
+
+subsection (b) of Rule 10b-5.  It doesn't 
+
+purport to change or restrict that language. 
+
+So I would read the PSLRA's pleading 
+
+standard in light of the longstanding provision 
+
+of subsection (b) of Rule 10b-5, not the other 
+
+way around. 
+
+JUSTICE GORSUCH:  Counsel --
+
+MR. McDOWELL: So the only question --
+
+JUSTICE GORSUCH:  -- do you agree with 
+
+Ms. Coberly, though, that lower courts have 
+
+understood the PLSRA to require a more specific 
+
+statement identification than you're proposing 
+
+here? 
+
+MR. McDOWELL:  No, Justice Gorsuch, 
+
+not in this context, because this --
+
+JUSTICE GORSUCH:  No.  No, no, no. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+              
+ 
+              
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+               
+ 
+               
+ 
+               
+ 
+              
+ 
+             
+ 
+               
+ 
+               
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+                   
+ 
+                 
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5 
+
+6 
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22         
+
+23 
+
+24  
+
+25  
+
+58
+
+Official 
+
+Put aside the 303 context.  In all other
+
+ contexts --
+
+MR. McDOWELL:  In the --
+
+JUSTICE GORSUCH:  -- as I understand 
+
+it, district courts have understood, lower 
+
+courts have understood generally that the PSLRA 
+
+is more specific, has a more specific nuanced
+
+ requirement than you're proposing.
+
+ MR. McDOWELL:  In -- in the context of 
+
+voluntary disclosures, yes.  And that's --
+
+JUSTICE GORSUCH:  No, I understand 
+
+that --
+
+MR. McDOWELL:  -- that was -- that's 
+
+what I started with. 
+
+JUSTICE GORSUCH:  -- I understand that 
+
+distinction. 
+
+MR. McDOWELL:  Right. 
+
+JUSTICE GORSUCH:  But you agree that, 
+
+outside this context, that's the standard? 
+
+MR. McDOWELL:  Right, but -- yes, I 
+
+agree with that --
+
+JUSTICE GORSUCH: And the government 
+
+doesn't object to that standard in all -- in 
+
+other contexts? 
+
+MR. McDOWELL:  In the voluntary 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+               
+ 
+               
+ 
+               
+ 
+              
+ 
+                
+ 
+              
+ 
+              
+ 
+             
+ 
+               
+ 
+                
+ 
+              
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+  
+
+1   
+
+2   
+
+3   
+
+4   
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19 
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+59
+
+Official 
+
+ disclosure context, we do not.
+
+ JUSTICE GORSUCH:  Right.
+
+ MR. McDOWELL:  But that's -- that
+
+ distinction is critical because, when you have a
+
+ reg --
+
+JUSTICE GORSUCH:  No, I -- I --
+
+MR. McDOWELL:  Yes.
+
+ JUSTICE GORSUCH:  -- I do understand
+
+ that. I just wanted to clarify. Thank you. 
+
+MR. McDOWELL:  Yes. So -- and 
+
+that distinct -- that distinction is critical 
+
+because, when you have a regulation like this 
+
+calling for all information in a particular 
+
+category, the omission of information in that 
+
+category will necessarily be misleading. 
+
+And just to take a step back and put 
+
+the MD&A in context, it's part of a Form 10-K. 
+
+And a Form 10-K document really is like a 
+
+Question & Answer document with discrete 
+
+categories, and as with any Q&A document, you 
+
+can only understand an answer in light of the 
+
+question being asked. 
+
+So just to -- to take it into a 
+
+different context, suppose a company's CEO were 
+
+on a phone call with an investor and the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+              
+ 
+                 
+ 
+               
+ 
+                  
+ 
+                 
+ 
+                 
+ 
+                
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+                 
+ 
+             
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+                 
+  
+
+1 
+
+2   
+
+3   
+
+4   
+
+5 
+
+6   
+
+7 
+
+8   
+
+9 
+
+10 
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17 
+
+18 
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25 
+
+60 
+
+Official 
+
+investor says, what are all the big trends
+
+ coming up for the next year -- may I complete
+
+ the sentence?
+
+ CHIEF JUSTICE ROBERTS: You may 
+
+complete the sentence, yes.
+
+ MR. McDOWELL:  The investor asks, what 
+
+are all the big trends coming up for the next
+
+ year? If the -- if the CEO responded by listing 
+
+five positive trends but omitting a negative 
+
+trend, I think we would all understand that to 
+
+be misleading in the context of the question. 
+
+CHIEF JUSTICE ROBERTS: Thank you, 
+
+counsel. 
+
+Sort of looking at things from the 
+
+30,000-foot level, I -- I thought we had, if we 
+
+haven't said it categorically and expressly, 
+
+indicated that we don't want to get any further 
+
+into the business of implying private rights of 
+
+action.  And, here, it seems to me that at -- at 
+
+least as presented, this is a question of 
+
+whether or not we extend the existing private 
+
+right of action to cover 303 omissions.  I'm 
+
+talking about the private actions of course. 
+
+Why isn't that something that should 
+
+cause us to be reluctant to extend the -- the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+              
+ 
+                     
+ 
+                
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+              
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6 
+
+7   
+
+8   
+
+9   
+
+10        
+
+11 
+
+12  
+
+13  
+
+14 
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21 
+
+22  
+
+23  
+
+24  
+
+25  
+
+61
+
+Official 
+
+right of action?
+
+ MR. McDOWELL:  Mr. Chief Justice, I 
+
+actually think that this issue is exactly like
+
+ the issue you've -- your opinion faces -- faced
+
+ in Halliburton.  In Halliburton, the -- there 
+
+was an established element of reliance, and the
+
+ Court said that you can point to a different way
+
+ of satisfying an established element after the
+
+ PSLRA. 
+
+CHIEF JUSTICE ROBERTS: Oh -- well, 
+
+but, I mean, it was the same principle that was 
+
+being applied.  Here, it's a different expansion 
+
+under 303, an entirely different thing that we 
+
+hadn't mentioned in any of our prior implied 
+
+right of action jurisprudence. 
+
+MR. McDOWELL:  With respect --
+
+CHIEF JUSTICE ROBERTS: A substantive 
+
+addition rather than applying the same rule in a 
+
+different context. 
+
+MR. McDOWELL:  So I would make two 
+
+points about that, Mr. Chief Justice. 
+
+First, we are not relying on a new 
+
+theory.  We're relying on the half-truth theory, 
+
+which has existed since 1942 when the SEC passed 
+
+Rule 10b-5. We're just saying that this fits 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+                 
+ 
+              
+ 
+                
+ 
+                 
+ 
+                  
+ 
+                 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+             
+ 
+               
+ 
+               
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6 
+
+7 
+
+8 
+
+9 
+
+10  
+
+11 
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+62
+
+Official 
+
+within the half-truth theory, just like in --
+
+just like you said in Halliburton the basic 
+
+presumption of reliance fits within the
+
+ long-settled element of reliance.
+
+ The other thing I would say about this 
+
+is I think Petitioners are over-reading this 
+
+Court's decisions in Stoneridge and Janus. We 
+
+read those decisions to reject attempts to 
+
+expand the class of defendants who can be liable 
+
+under Rule 10b-5 after the PSLRA. We don't read 
+
+them to say that you can't simply plead an -- an 
+
+old type of securities claim in a slightly new 
+
+way. 
+
+CHIEF JUSTICE ROBERTS: Thank you. 
+
+MR. McDOWELL:  And so that's the 
+
+distinction. 
+
+CHIEF JUSTICE ROBERTS:  Justice 
+
+Thomas? 
+
+Justice Alito? 
+
+JUSTICE ALITO:  Well, let me ask you 
+
+the same question I asked -- I asked Mr. 
+
+Frederick.  What's your answer to the question 
+
+on which we granted review?  You changed the 
+
+question.  What's the question -- what's the 
+
+answer to the question we agreed to review? 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+               
+ 
+                  
+ 
+                 
+ 
+              
+ 
+                 
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+              
+ 
+             
+ 
+                
+ 
+                
+ 
+                
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5   
+
+6 
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16 
+
+17 
+
+18 
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+63
+
+Official 
+
+MR. McDOWELL:  The answer is that an 
+
+Item 303 violation can form the basis for a Rule
+
+ 10b-5 claim.  And Ms. Coberly I don't take to be
+
+ saying that.
+
+ JUSTICE ALITO:  Well, that wasn't the 
+
+question we granted review on. Even in the 
+
+absence of an otherwise misleading statement.
+
+ MR. McDOWELL:  Right.  And I read 
+
+"otherwise misleading" to be misleading in 
+
+its -- in its own -- on it -- by its own terms. 
+
+We are saying that it doesn't have to be 
+
+misleading on its own terms, but when you put it 
+
+in the context of Item 303 disclosures, that's 
+
+what makes it misleading. 
+
+JUSTICE ALITO:  Well, don't you have 
+
+to identify a statement or a number of 
+
+statements, even if it's every single statement 
+
+in the 303, that is otherwise misleading to 
+
+bring -- to bring it within 10b-5(b)? 
+
+MR. McDOWELL:  You do have to identify 
+
+a statement, and we would say that the MD&A's 
+
+narrative is the relevant statement.  And 
+
+there's nothing atypical about reading 
+
+statements --
+
+JUSTICE ALITO:  Fine. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+               
+ 
+              
+ 
+                 
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+               
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+              
+ 
+               
+ 
+              
+ 
+              
+ 
+             
+ 
+                
+ 
+                
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6 
+
+7 
+
+8 
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+64
+
+Official 
+
+MR. McDOWELL:  -- that way.
+
+ JUSTICE ALITO:  Then there's an 
+
+otherwise misleading statement, which is part of
+
+ the question.
+
+ MR. McDOWELL:  Well, with respect, 
+
+Justice Alito, I don't think it gets you very 
+
+far to answer the question that way because, as 
+
+I mentioned earlier, the Second Circuit has
+
+ already adopted our position on -- on the 
+
+half-truths --
+
+JUSTICE ALITO:  Yeah.  Well, do you 
+
+think the requirement to -- to identify the 
+
+Question Presented means, particularly with 
+
+respect to an amicus, the question that you 
+
+would like us to address to provide guidance to 
+
+the bar or to advance your interests?  Do you 
+
+think that's what the requirement is? 
+
+MR. McDOWELL:  No, Your Honor.  We 
+
+answered the Question Presented by saying an 
+
+Item 303 violation can give rise to a Rule 10b-5 
+
+claim, and we presented two alternative theories 
+
+for that.  One is the half-truth theory under 
+
+subsection (b), and one is the omission theory 
+
+under subsections (a) and (c). 
+
+CHIEF JUSTICE ROBERTS:  Justice 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+              
+ 
+              
+ 
+                 
+ 
+              
+ 
+               
+ 
+                  
+ 
+              
+ 
+              
+ 
+               
+ 
+             
+ 
+               
+ 
+             
+ 
+             
+ 
+              
+ 
+               
+ 
+             
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+                
+ 
+                
+ 
+             
+ 
+                
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5   
+
+6   
+
+7 
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22 
+
+23  
+
+24  
+
+25 
+
+65
+
+Official 
+
+ Sotomayor?
+
+ Justice Kavanaugh?
+
+ JUSTICE KAVANAUGH:  Quick question. 
+
+The Commission enforces Item 303, correct?
+
+ MR. McDOWELL:  That's right.
+
+ JUSTICE KAVANAUGH:  And Mr. Frederick 
+
+referred to that as meager. Do you have a
+
+ response to that?
+
+ (Laughter.) 
+
+MR. McDOWELL:  So -- so I think -- so 
+
+I do have a response to that.  I do think that 
+
+the SEC's resources in this area are -- are 
+
+limited.  This Court has repeatedly said that 
+
+private litigation under Rule 10b-5 is an 
+
+essential supplement to SEC enforcement actions. 
+
+And that applies with full force here. 
+
+The SEC has a few hundred employees 
+
+that are tasked with reviewing tens of thousands 
+
+of forms from registered companies each year, 
+
+and it's simply not realistic to think that 
+
+those employees will be able to routinely 
+
+detect, investigate, and penalize the many 
+
+disclosure violations that are taking place. 
+
+JUSTICE KAVANAUGH:  Wouldn't someone 
+
+provide information to the SEC staff when they 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+                   
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+              
+ 
+                 
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+               
+ 
+             
+ 
+               
+ 
+              
+ 
+              
+ 
+             
+  
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6 
+
+7 
+
+8   
+
+9 
+
+10  
+
+11  
+
+12 
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20              
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+66
+
+Official 
+
+ think something was amiss?
+
+ MR. McDOWELL:  I -- I don't know that 
+
+they would. I mean, I think that's -- that's a
+
+ bit speculative to think that.  But I -- it may 
+
+-- perhaps in some cases.  But I would say also 
+
+that the difference here is between enforcing it 
+
+pursuant to Section 13 as opposed to Rule 10b-5,
+
+ and there are greater penalties that the SEC can 
+
+seek when they go under Rule 10b-5.  And when 
+
+there is an intentionally deceptive disclosure 
+
+violation, I think it makes good sense to allow 
+
+the SEC to pursue those additional penalties. 
+
+JUSTICE KAVANAUGH:  Thank you. 
+
+CHIEF JUSTICE ROBERTS:  Justice 
+
+Barrett? 
+
+Justice Jackson? 
+
+Thank you, counsel. 
+
+Rebuttal? 
+
+REBUTTAL ARGUMENT OF LINDA T. COBERLY
+
+ ON BEHALF OF THE PETITIONERS 
+
+MS. COBERLY: Your Honor, I thought it 
+
+was revealing that counsel is persisting in the 
+
+argument that any failure to comply with Item 
+
+303 is actionable because it makes the entire 
+
+MD&A misleading.  Every company has to file 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+                 
+ 
+              
+ 
+              
+ 
+                 
+ 
+                 
+ 
+                  
+ 
+                 
+ 
+                
+ 
+              
+ 
+              
+ 
+                
+ 
+                
+ 
+             
+ 
+               
+ 
+                
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+                   
+ 
+             
+ 
+             
+ 
+                
+ 
+               
+  
+
+1   
+
+2 
+
+3   
+
+4   
+
+5 
+
+6 
+
+7 
+
+8 
+
+9   
+
+10  
+
+11  
+
+12 
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19 
+
+20  
+
+21
+
+22  
+
+23  
+
+24  
+
+25  
+
+67
+
+Official 
+
+ 10-Ks and 10-Qs, every company, and every 
+
+company has to comply with Item 303 and provide
+
+ an MD&A.
+
+ Item 303 refers to the MD&A as a 
+
+whole, and its function and purpose is to allow 
+
+investors to see the company from the 
+
+perspective of management. So the rule that you 
+
+heard from both Moab and the government is
+
+ tantamount to a rule that we don't have to -- a 
+
+plaintiff doesn't have to identify a specific 
+
+statement, a specific misleading statement, 
+
+within the financial statements or the MD&A as 
+
+long as that information was required to be 
+
+disclosed by Item 303. 
+
+That is functionally the pure omission 
+
+theory that the Second Circuit adopted and that 
+
+we object to.  It's also tantamount to a 
+
+requirement to -- to a definition of omission 
+
+that includes the words "required to be stated," 
+
+which appears in Section 11 but conspicuously 
+
+not in Section -- in Rule 10b-5(b). 
+
+The Commission had as its model for 
+
+Rule 10b-5(b) both Section 11 and Section 
+
+17(a)(2), and it didn't choose to follow the 
+
+omission definition in Section -- in Section 11, 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+               
+ 
+               
+ 
+                 
+ 
+                 
+ 
+                
+ 
+               
+ 
+               
+ 
+                
+ 
+              
+ 
+             
+ 
+              
+ 
+             
+ 
+                 
+ 
+             
+ 
+                
+ 
+                
+ 
+               
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+               
+  
+
+1 
+
+2   
+
+3   
+
+4 
+
+5 
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16 
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22 
+
+23  
+
+24  
+
+25  
+
+68 
+
+Official 
+
+and I think we need to attribute some
+
+ consequence to that.
+
+ Further, counsel referred to a 
+
+hypothetical that said, if you're required to 
+
+list all of your executives and you list most of
+
+ them, but you leave one out, that could be a
+
+ misleading statement.  I agree, and that's the
+
+ statement that should be pleaded in the
+
+ complaint, the paragraph, the sentence that 
+
+lists in -- that provides an incomplete list of 
+
+the executives. 
+
+The fact that something was required 
+
+to be disclosed actually doesn't add very much 
+
+to the analysis there.  It -- the -- the 
+
+statement would be misleading on its face 
+
+whether or not there was a requirement to 
+
+disclose.  So we think that actually supports 
+
+the notion that a specific statement needs to be 
+
+identified. 
+
+Now counsel for Moab argue that they 
+
+did identify specific statements, and that's 
+
+very interesting because the brief in opposition 
+
+doesn't mention them.  Neither did the 
+
+paragraphs in the complaint that purported to 
+
+state this theory based on Item 303.  Now I 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                 
+ 
+                
+ 
+                 
+ 
+                 
+ 
+               
+ 
+              
+ 
+                 
+ 
+               
+ 
+                
+ 
+             
+ 
+              
+ 
+              
+ 
+                
+ 
+               
+ 
+                 
+ 
+               
+ 
+                
+ 
+              
+ 
+               
+ 
+                
+ 
+              
+ 
+             
+ 
+              
+ 
+               
+ 
+                
+  
+
+1   
+
+2   
+
+3 
+
+4 
+
+5   
+
+6   
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12    
+
+13 
+
+14  
+
+15  
+
+16  
+
+17 
+
+18  
+
+19  
+
+20 
+
+21  
+
+22  
+
+23  
+
+24  
+
+25 
+
+69
+
+Official 
+
+assume that's because they were relying on the
+
+ Second Circuit's rule in Stratte-McClure that 
+
+said that you don't have to identify specific 
+
+misleading statements when you are pleading
+
+ something that is a violation of Item 303.
+
+ And if you look at those paragraphs in
+
+ the complaint, paragraphs 277 and 278, they do
+
+ not refer to any specific misleading statement,
+
+ any paragraph or sentence where a list was given 
+
+that was incomplete, for example. 
+
+In order for that kind of analysis to 
+
+-- analogy to apply here, there would need to be 
+
+a list that was incomplete, and the plaintiff 
+
+would need to identify it and point to it and 
+
+say that's why -- say why the statement is 
+
+misleading.  And then we would have the 
+
+opportunity to address that statement in a 
+
+motion to dismiss. 
+
+Now the theory that you heard counsel 
+
+for Moab articulate here is actually in some 
+
+ways the theory that they pleaded in their 
+
+complaint and that they lost in the district 
+
+court and in the Second Circuit. Their 
+
+complaint went through very specific statements, 
+
+listing them, and it was not only in the 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+              
+ 
+               
+ 
+                         
+ 
+                 
+ 
+                 
+ 
+                 
+ 
+               
+ 
+                
+ 
+                 
+ 
+              
+ 
+                 
+ 
+                
+ 
+                
+ 
+              
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+ 
+              
+ 
+             
+ 
+               
+ 
+             
+ 
+              
+ 
+                
+ 
+             
+  
+
+1   
+
+2   
+
+3   
+
+4 
+
+5 
+
+6 
+
+7   
+
+8   
+
+9 
+
+10  
+
+11          
+
+12 
+
+13 
+
+14  
+
+15  
+
+16  
+
+17  
+
+18  
+
+19  
+
+20  
+
+21  
+
+22  
+
+23  
+
+24  
+
+25  
+
+70
+
+Official 
+
+ voluntary statements, as counsel for the
+
+ government referenced. 
+
+The plaintiff in this case followed 
+
+the common practice in district courts across 
+
+the nation, which is to list the specific parts 
+
+of not only the transcripts of calls but the
+
+ 10-Qs and the 10-Ks.  It went on for pages and
+
+ pages. And they said here's a specific 
+
+statement in the Ks and Qs, and here's why we 
+
+think it's misleading. 
+
+The district court looked at those 
+
+statements and it concluded that no claim had 
+
+been stated, and that's because many of the 
+
+statements were forward-looking, some of them 
+
+were statements of opinion, others in context 
+
+were not misleading by omission. The district 
+
+court dismissed the case based on those specific 
+
+statements. 
+
+The Second Circuit did not revive it, 
+
+with the exception of the two specific 
+
+statements that Justice Sotomayor pointed out, 
+
+which the court found to be pleaded allegedly 
+
+misleading because of a very specific factual 
+
+omission about the content of the base of 
+
+customers. 
+
+Heritage Reporting Corporation 
+
+
+
+  
+ 
+
+ 
+
+  
+
+ 
+                                                                  
+ 
+ 
+                          
+ 
+               
+ 
+                 
+ 
+               
+ 
+               
+ 
+                  
+ 
+              
+ 
+              
+ 
+              
+ 
+              
+ 
+             
+ 
+             
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+
+1   
+
+2   
+
+3 
+
+4   
+
+5   
+
+6 
+
+7   
+
+8   
+
+9   
+
+10  
+
+11  
+
+12  
+
+13  
+
+14  
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+71 
+
+Official 
+
+So that claim is proceeding. The
+
+ claim the -- the Second Circuit allowed to 
+
+proceed is a far broader claim that allows a --
+
+a -- a case to proceed based simply on the
+
+ notion that there's an omission of something 
+
+required by Item 303. And we think the Court
+
+ needs to vacate.
+
+ CHIEF JUSTICE ROBERTS: Thank you,
+
+ counsel. 
+
+MS. COBERLY: Thank you. 
+
+CHIEF JUSTICE ROBERTS: The case is 
+
+submitted. 
+
+(Whereupon, at 11:09 a.m., the case 
+
+was submitted.) 
+
+Heritage Reporting Corporation 
+
+
+
+Official 
+
+72
+
+1 
+10(b [6] 14:21 20:6 43:9 45: 
+
+22 55:3,6 
+
+10-K [5] 5:6 25:16,23 59:17, 
+
+18 
+
+10-Ks [2] 67:1 70:7 
+
+10-Q [2] 25:16,23 
+
+10-Qs [2] 67:1 70:7 
+
+10:03 [2] 1:16 4:2 
+
+10b-5 [26] 4:14 5:16 11:8 
+
+18:13 38:13,16 43:6,15,17 
+
+44:18 47:7,13 52:24 54:5, 
+
+16 55:14 57:5,10,14 61:25 
+
+62:10 63:3 64:20 65:14 66: 
+
+7,9 
+
+10b-5(a [2] 5:9 25:1 
+
+10b-5(b [13] 21:2,23 26:14 
+
+28:8 38:18 40:18 45:9,11, 
+
+23 49:16 63:19 67:21,23 
+
+11 [15] 43:10,11,14,21 44:4 
+
+54:6,9,20,23 55:9,21 57:8 
+
+67:20,23,25 
+
+11:09 [1] 71:13 
+
+13 [1] 66:7 
+
+16 [1] 1:12 
+
+17(a)(2 [1] 67:24 
+
+19 [1] 11:20 
+
+1942 [1] 61:24 
+
+2 
+2020 [4] 17:11,14 26:17 29: 
+
+23 
+
+2024 [1] 1:12 
+
+22-1165 [1] 4:4 
+
+26 [1] 3:8 
+
+277 [2] 32:12 69:7 
+
+278 [2] 32:12 69:7 
+
+3 
+3 [2] 21:6 49:18 
+
+30 [2] 39:23 40:2 
+
+30,000-foot [1] 60:15 
+
+302 [1] 21:6 
+
+303 [72] 4:22 5:20 7:7 14:9 
+
+15:18,20,21 16:14 17:13 
+
+18:4,10,15,18 19:5 20:3,18, 
+
+25 21:5,17,22 24:19 25:1 
+
+26:22 27:14,24 28:3 29:4, 
+
+21 30:2 31:25 35:11 37:1, 
+
+2 38:13,17 40:13 45:6,7,21 
+
+46:2 48:11,12 49:19,21 50: 
+
+15,19,21 51:2,5,8 52:3,10, 
+
+14 53:3,19 54:13 56:16 58: 
+
+1 60:22 61:13 63:2,13,18 
+
+64:20 65:4 66:24 67:2,4, 
+
+14 68:25 69:5 71:6 
+
+4 
+4 [1] 3:4 
+
+40 [3] 26:18 27:9 36:5 
+
+401 [1] 53:9 
+
+48 [1] 3:12 
+
+6 
+
+6 [2] 8:8 29:24 
+
+66 [1] 3:15 
+
+9 
+906 [7] 6:21,22,25 7:2,2,2, 
+
+12 
+
+A 
+a.m [3] 1:16 4:2 71:13 
+
+ab [1] 51:1 
+
+able [5] 19:15 21:18 28:17 
+
+36:2 65:21 
+
+above-entitled [1] 1:14 
+
+absence [2] 45:23 63:7 
+
+accepted [1] 27:1 
+
+accepts [1] 32:19 
+
+account [1] 43:16 
+
+acknowledge [1] 47:14 
+
+across [1] 70:4 
+
+act [2] 5:7 25:18 
+
+action [9] 5:13,23 13:2 27: 
+
+11 42:20 60:19,22 61:1,15 
+
+actionable [9] 4:16 6:13 
+
+14:9,22 18:15 21:23 25:2 
+
+30:5 66:24 
+
+actions [5] 21:16,18 28:17 
+
+60:23 65:15 
+
+actual [1] 56:19 
+
+actually [11] 10:13,24 22: 
+
+16 23:4,16 24:14 26:20 61: 
+
+3 68:13,17 69:20 
+
+add [1] 68:13 
+
+addendum [1] 57:8 
+
+adding [2] 46:25 47:5 
+
+addition [2] 25:13 61:18 
+
+additional [3] 50:4 54:16 
+
+66:12 
+
+address [2] 64:15 69:17 
+
+addressed [1] 38:11 
+
+adds [1] 50:8 
+
+adequate [1] 32:10 
+
+adequately [1] 16:11 
+
+adjective [1] 47:5 
+
+administering [1] 34:15 
+
+administrable [1] 35:10 
+
+administrative [1] 28:10 
+
+adopt [1] 56:11 
+
+adopted [3] 4:14 64:9 67: 
+
+16 
+
+advance [1] 64:16 
+
+affect [8] 26:16 27:16 28:1 
+
+29:6 31:20,21 40:2 49:5 
+
+affected [1] 24:9 
+
+affecting [1] 53:25 
+
+affirm [1] 38:3 
+
+agency [1] 34:15 
+
+agree [11] 10:17 14:1,5 18: 
+
+10 32:8 48:21 56:20 57:18 
+
+58:18,21 68:7 
+
+agreed [4] 44:22 45:4 54:3 
+
+62:25 
+
+agreement [1] 36:7 
+
+ahead [6] 11:20 30:24 37: 
+
+15 39:5,13 45:18 
+
+AL [2] 1:4,7 
+
+ALITO [12] 44:21 45:15,19 
+
+46:7 62:19,20 63:5,15,25 
+
+64:2,6,11 
+
+allegation [1] 16:25 
+
+allege [2] 17:19 20:22 
+
+alleged [4] 11:14 17:12 24: 
+
+17 33:6 
+
+allegedly [1] 70:22 
+
+allow [2] 66:11 67:5 
+
+allowed [2] 17:5 71:2 
+
+allows [1] 71:3 
+
+alone [5] 5:11 21:17,23 25: 
+
+13 34:18 
+
+already [2] 19:6 64:9 
+
+alternative [3] 15:6 32:22 
+
+64:21 
+
+amicus [4] 2:8 3:11 48:2 
+
+64:14 
+
+amiss [1] 66:1 
+
+ample [1] 20:11 
+
+analogy [2] 19:10 69:12 
+
+analyses [1] 43:1 
+
+analysis [11] 11:23,24 23: 
+
+22 36:12 37:7 50:13 51:21 
+
+53:18 57:6 68:14 69:11 
+
+and(c [1] 25:1 
+
+another [2] 34:4 56:24 
+
+answer [13] 8:16 9:1,2 10: 
+
+16 22:10 29:7 39:13 59:19, 
+
+21 62:22,25 63:1 64:7 
+
+answered [1] 64:19 
+
+answering [1] 8:20 
+
+answers [1] 32:6 
+
+anybody [1] 33:22 
+
+anytime [2] 24:21 41:16 
+
+anyway [3] 15:8 36:15 50: 
+
+24 
+
+appeal [2] 29:19 30:8 
+
+appeals [1] 25:21 
+
+appear [1] 7:12 
+
+APPEARANCES [1] 2:1 
+
+appears [2] 7:13 67:20 
+
+application [1] 23:3 
+
+applied [1] 61:12 
+
+applies [2] 53:18 65:16 
+
+apply [5] 7:24 11:23 16:6, 
+
+15 69:12 
+
+applying [1] 61:18 
+
+appreciate [1] 35:2 
+
+appreciated [1] 56:5 
+
+approach [2] 32:20,21 
+
+approached [1] 5:16 
+
+appropriate [1] 23:24 
+
+area [1] 65:12 
+
+aren't [1] 49:13 
+
+argue [5] 17:24 21:19 40:6 
+
+46:14 68:20 
+
+argued [2] 16:20 21:15 
+
+argues [1] 13:8 
+
+arguing [6] 6:7 18:3 33:23 
+
+34:2 45:25 46:1 
+
+argument [26] 1:15 3:2,5,9, 
+
+13 4:4,8 6:8,25 9:15 16:2 
+
+17:25 20:17 26:10 27:1 35: 
+
+17,19 37:4 39:22 43:12 45: 
+
+1 46:7 48:1 55:16 66:19, 
+
+23 
+
+arguments [3] 4:19,23 6: 
+
+21 
+
+around [1] 57:15 
+
+articulate [1] 69:20 
+
+artificially [1] 27:5 
+
+aside [1] 58:1 
+
+asks [1] 60:6 
+
+asserted [1] 25:23 
+
+assessing [1] 30:1 
+
+Assistant [1] 2:6 
+
+assume [2] 52:2 69:1 
+
+assuming [1] 46:24 
+
+attempts [1] 62:8 
+
+attribute [1] 68:1 
+
+atypical [1] 63:23 
+
+authority [5] 20:2,11 28:6, 
+
+10,12 
+
+avoid [1] 25:18 
+
+aware [1] 26:1 
+
+B 
+back [6] 11:17 15:9,11 34: 
+
+20 36:12 59:16 
+
+backup [1] 35:19 
+
+backwards [1] 57:6 
+
+bankruptcy [3] 27:22,25 
+
+40:1 
+
+bar [6] 6:18 35:4 36:18 38: 
+
+2,2 64:16 
+
+BARRETT [7] 13:15 24:25 
+
+26:6 32:1,3,6 66:15 
+
+base [2] 16:21 70:24 
+
+based [8] 6:25 11:11 20:24 
+
+23:23 45:1 68:25 70:17 71: 
+
+4 
+
+Basic [3] 49:20 52:22 62:2 
+
+basically [3] 34:7 56:11,22 
+
+basis [2] 46:16 63:2 
+
+battlefield [1] 34:8 
+
+become [1] 24:15 
+
+becomes [1] 33:6 
+
+began [1] 31:1 
+
+behalf [8] 2:3,5 3:4,7,15 4: 
+
+9 26:11 66:20 
+
+believe [1] 37:18 
+
+below [4] 7:4 15:25 29:2 
+
+30:10 
+
+better [1] 40:13 
+
+between [14] 7:22 8:11 10: 
+
+4 18:13 31:6 42:4,9,21 45: 
+
+3 48:8,22 50:2 54:4 66:6 
+
+beyond [4] 37:13 49:24 51: 
+
+4,4 
+
+big [3] 11:18 60:1,7 
+
+bisects [1] 26:20 
+
+bit [2] 49:3 66:4 
+
+blanket [1] 18:4 
+
+board [2] 53:11,17 
+
+both [9] 9:5 10:3 16:11,18 
+
+27:22 40:9 54:23 67:8,23 
+
+bottom [4] 26:16 28:1 29:6 
+
+31:20 
+
+brief [7] 7:4 25:8 30:17 39: 
+
+1 44:24 57:8 68:22 
+
+briefs [2] 7:4 45:2 
+
+bright [1] 11:20 
+
+bring [6] 8:3 25:20 28:12, 
+
+17 63:19,19 
+
+broader [4] 9:19 17:9 44: 
+
+16 71:3 
+
+brought [2] 21:16 31:18 
+
+business [4] 27:4 31:22 
+
+36:5 60:18 
+
+businesses [1] 24:8 
+
+buy [2] 31:9,10 
+
+buyers [1] 49:4 
+
+C 
+call [1] 59:25 
+
+called [1] 30:8 
+
+calling [1] 59:13 
+
+calls [3] 40:23 43:2 70:6 
+
+came [1] 1:14 
+
+canard [1] 42:18 
+
+capacious [1] 34:3 
+
+capaciously [1] 33:5 
+
+capture [1] 43:20 
+
+capturing [2] 42:19 43:21 
+
+Cardozo [3] 9:8 19:7 48:17 
+
+Case [31] 4:4,12 5:9 7:17 8: 
+
+9 12:11 18:17 20:22 25:14, 
+
+15,15,17,18,18 26:14 30:4, 
+
+7 38:19 44:25 46:19 48:17, 
+
+18,19 49:2,4,9 70:3,17 71: 
+
+4,11,13 
+
+cases [5] 4:12 8:17 13:24, 
+
+25 66:5 
+
+catch-all [1] 43:18 
+
+categorical [6] 32:9,20 33: 
+
+12 37:17 41:6 52:6 
+
+categorically [3] 38:12 45: 
+
+12 60:16 
+
+categories [2] 55:18 59:20 
+
+category [6] 48:14 55:21, 
+
+25 56:2 59:14,15 
+
+cause [2] 17:17 60:25 
+
+causes [2] 13:21 47:12 
+
+CEO [2] 59:24 60:8 
+
+certain [5] 19:12 41:17 42: 
+
+8,25 43:1 
+
+Certainly [1] 36:14 
+
+certification [7] 6:2,11,23 
+
+7:2,3,7,12 
+
+cetera [1] 18:23 
+
+challenged [1] 29:19 
+
+change [4] 11:25 27:7 29: 
+
+23 57:11 
+
+changed [1] 62:23 
+
+charged [2] 34:15 35:19 
+
+Chicago [1] 2:2 
+
+CHIEF [36] 4:3,10 7:21 8: 
+
+25 10:9,17 13:19 21:12,14 
+
+26:2,9,12 27:18 30:23,25 
+
+31:3,17 33:1 39:21 42:2 
+
+Heritage Reporting Corporation 
+Sheet 1 10(b - CHIEF 
+
+
+
+Official 
+
+73
+
+45:17 46:20 47:17 48:4 60: 55:19 66:25 67:1,2,6 counts [1] 33:18 12 easily [1] 13:24 
+
+4,12 61:2,10,17,21 62:14, company's [4] 29:22 53: couple [1] 6:5 determined [1] 29:18 economic [1] 44:9 
+
+17 64:25 66:14 71:8,11 16,25 59:24 course [5] 7:11 12:18 14: determining [3] 28:2 30: either [4] 5:15 25:2 44:13 
+
+choose [1] 67:24 compared [2] 28:15 31:15 17 23:22 60:23 20 36:25 45:12 
+
+circuit [30] 5:15 7:1 14:8, complaint [18] 7:3 10:21 COURT [40] 1:1,15 4:11 5: difference [9] 8:10 42:4,9, element [8] 5:21 12:3 52: 
+
+15 15:5,17 16:1,2,6 17:5 11:7,13 12:5,9 15:1,19 18: 8,14 7:14 8:20 9:7 12:20 11,21 43:9 50:2 54:4 66:6 24 53:2,4 61:6,8 62:4 
+
+21:21 25:7,9,25 29:2,14 17 19:11 32:11,12,16 68:9, 15:15 16:10,18 17:7,8 20: different [21] 4:20 5:10 12: elements [4] 13:5 14:19 
+
+30:7 33:12,16,24 38:6,12 24 69:7,22,24 24 21:1 22:1,6 25:6,9,11, 17 13:10,11 17:25 24:5,7,8 47:12 49:23 
+
+46:15 56:5,20 64:8 67:16 complete [4] 26:24 52:2 21,24 26:13 30:16 32:13, 41:9 43:15 44:19 49:21,23 eliding [1] 4:24 
+
+69:23 70:19 71:2 60:2,5 18 33:9,22 36:23 38:10 45: 55:2,9 59:24 61:7,12,13,19 elsewhere [2] 31:24 40:17 
+
+Circuit's [4] 33:3 56:9,11 complex [1] 24:5 4 48:5 61:7 65:13 69:23 difficult [1] 13:21 emerged [1] 27:8 
+
+69:2 compliance [4] 6:1,7,9,11 70:11,17,22 71:6 direction [1] 22:18 employees [2] 65:17,21 
+
+circumstance [5] 4:16,21 complied [1] 35:13 Court's [6] 5:24 12:15 28:4 directly [1] 38:11 enforce [2] 20:3 44:17 
+
+42:11 48:20 49:6 comply [9] 15:22 17:13 18: 49:12,20 62:7 director [1] 53:15 enforcement [2] 28:14 65: 
+
+circumstances [5] 10:1 14,22 20:13 22:3 27:7 66: courts [12] 8:16 10:2,6 37: directors [4] 53:11,11,13, 15 
+
+20:19 41:22,23 44:20 23 67:2 23 38:3,10 40:7,19 57:19 17 enforces [1] 65:4 
+
+cite [1] 56:11 complying [1] 42:15 58:5,6 70:4 disagreement [1] 45:3 enforcing [1] 66:6 
+
+civil [1] 7:15 comport [1] 38:23 cover [1] 60:22 disclose [9] 24:19 36:4 41: engaged [1] 24:8 
+
+claim [25] 5:6,7 11:11 12:4 concede [3] 27:12 34:10 covered [1] 37:2 12,17 48:13 49:4 51:13 53: enough [3] 8:22 34:19 40: 
+
+17:4,4,6,8,9,9 18:1 25:20 40:16 covers [1] 24:5 19 68:17 8 
+
+28:12 38:14 45:21 47:7,13 conceivable [1] 43:20 crater [2] 10:14 11:22 disclosed [8] 17:10 24:10, enshrined [1] 27:10 
+
+52:25 62:12 63:3 64:21 70: concepts [1] 44:16 create [1] 27:2 14 26:15 31:15,15 67:14 entire [9] 4:25 13:8 24:1 45: 
+
+12 71:1,2,3 concern [1] 29:8 criminal [2] 7:13,15 68:13 12 50:16 52:6 55:21 56:1 
+
+claims [3] 6:18 36:16 43:6 conclude [1] 32:14 critical [2] 59:4,11 discloses [1] 27:20 66:24 
+
+clarify [1] 59:9 concluded [1] 70:12 crossroads [1] 40:9 disclosing [4] 26:19 29:11 entirely [1] 61:13 
+
+class [2] 5:23 62:9 condition [1] 54:1 curiae [3] 2:8 3:12 48:2 49:7,7 envision [1] 20:20 
+
+classic [6] 9:6 19:7 26:14, conducted [1] 44:20 curiam [1] 30:9 disclosure [25] 13:22 20: EPA [2] 8:4,11 
+
+21 31:1,16 conferences [1] 16:17 currently [1] 52:15 18 21:5,6 26:22 29:9,21 EPHRAIM [3] 2:6 3:10 48: 
+
+clear [8] 4:15 5:18 12:21 Congress [7] 4:14 5:2 7: customer [1] 39:24 30:2 31:13,14,25 41:24 42: 1 
+
+20:15 28:14 30:1 32:6 34: 16 13:1,13 14:25 27:10 customers [5] 16:22,24 17: 6 43:3 45:20 48:19,19 49: Escobar [1] 9:7 
+
+13 connection [3] 48:8,22 49: 2 27:21 70:25 9 53:9,13 55:24,25 59:1 especially [1] 12:25 
+
+clearly [1] 31:22 11 cut [1] 17:18 65:23 66:10 ESQ [4] 3:3,6,10,14 
+
+client [1] 24:6 consequence [1] 68:2 cuts [1] 22:17 disclosures [5] 40:25 42: ESQUIRE [2] 2:2,4 
+
+close [1] 8:22 consequential [2] 18:24 D 25 43:22 58:10 63:13 essential [1] 65:15 
+
+clue [1] 23:18 22:17 discrete [2] 11:1 59:19 essentially [1] 29:3 
+
+COBERLY [47] 2:2 3:3,14 consider [1] 54:15 D.C [3] 1:11 2:4,7 discussed [1] 9:7 establish [1] 35:21 
+
+4:7,8,10 6:4,24 7:9,19 8: conspicuously [1] 67:20 DAVID [3] 2:4 3:6 26:10 discusses [1] 23:18 established [2] 61:6,8 
+
+15 9:2,21 10:19 11:4,16,24 Construction [2] 9:9 19:8 day [2] 8:17 27:9 Discussion [6] 23:21 35:7 ET [3] 1:4,7 18:23 
+
+13:15 14:5 15:10,16 16:8 contained [3] 23:19,20,21 deal [1] 29:23 38:8 50:13 51:17,21 evaluate [3] 35:8 48:16 49: 
+
+18:7,12 19:4,22 20:1,4,23 contains [1] 23:17 deceptive [1] 66:10 discussions [1] 16:13 1 
+
+21:19 22:20,24 23:2,10,12 content [4] 37:6,12,12 70: decide [2] 44:25 56:24 dismiss [2] 12:10 69:18 evaluated [1] 36:24 
+
+24:25 25:5 26:8 37:23 38: 24 decided [2] 46:15,16 dismissed [1] 70:17 evaluating [1] 22:6 
+
+22 45:3 54:3 57:19 63:3 context [31] 5:12 8:23 11: deciding [1] 23:9 dispute [1] 31:4 even [10] 20:6 21:17 28:5 
+
+66:19,21 71:10 10 18:5 34:13 36:11,24 37: decimate [2] 26:18 29:24 distinct [2] 55:18 59:11 37:9 45:23 49:8,8 51:1 63: 
+
+Coberly's [1] 36:10 1 40:23 41:10 44:9,15 46: decision [6] 12:21 25:21 distinction [11] 7:22 18:13 6,17 
+
+code [2] 7:14,15 9,9,17 48:9,10 54:8,12 55: 29:3,15 49:20 56:9 31:6,8,10 56:3,5 58:16 59: event [1] 29:11 
+
+collapsing [1] 55:15 20 57:24 58:1,9,19 59:1,17, decisions [2] 62:7,8 4,11 62:16 everybody [1] 34:1 
+
+colleague [2] 51:19 52:5 24 60:11 61:19 63:13 70: decrease [1] 17:19 district [8] 8:16 15:14 17:7 everything [1] 49:5 
+
+come [2] 11:2 39:24 15 defend [1] 37:18 58:5 69:22 70:4,11,16 exactly [4] 20:7 24:23 56: 
+
+comes [1] 11:4 contexts [3] 29:17 58:2,24 defendant [2] 12:10 22:5 dividends [1] 17:18 18 61:3 
+
+coming [2] 60:2,7 contrast [1] 55:23 defendants [1] 62:9 document [8] 7:10 38:25 example [9] 9:6 12:12 19:7 
+
+comma [1] 36:3 corners [1] 43:25 defending [1] 33:3 43:24,25 44:8 59:18,19,20 24:6,17 40:9 48:18 53:8 
+
+comment [1] 30:15 Corporate [1] 28:10 define [1] 31:12 documents [1] 43:22 69:10 
+
+Commission [3] 21:17 65: CORPORATION [2] 1:4 4: defined [1] 33:5 doing [5] 18:18 19:6 41:7 except [2] 42:11 46:11 
+
+4 67:22 5 defines [1] 27:14 44:11 55:16 exception [1] 70:20 
+
+commodities [1] 24:11 correct [13] 7:19 16:7,7 33: definition [2] 67:18,25 done [2] 32:16 38:3 executives [2] 68:5,11 
+
+common [1] 70:4 8,13 37:19 39:9 45:9 46: deliberately [1] 27:5 doubles [1] 39:24 existed [1] 61:24 
+
+companies [5] 24:18 48: 24 54:20 55:4,5 65:4 Department [2] 2:7 28:11 down [4] 15:8,9,12 35:16 existence [2] 17:11 36:16 
+
+12 53:10,19 65:19 correctly [1] 32:25 depends [1] 46:8 draw [2] 7:22 18:13 existing [1] 60:21 
+
+company [27] 10:12,14 11: 
+
+19,22 13:11 17:10,17 18: 
+
+Counsel [16] 7:21 17:22 
+
+26:3,7 30:23 46:21 47:21 
+
+described [2] 11:9 15:20 
+
+description [1] 26:24 E exists [2] 9:10 18:11 
+
+expand [2] 5:14 62:9 
+
+22 22:12 24:7,13 27:18 29: 57:16 60:13 66:17,22 68:3, designed [1] 34:16 each [3] 11:6,13 65:19 expansion [1] 61:12 
+
+20 31:19 34:14 35:12 36:4 20 69:19 70:1 71:9 detect [1] 65:22 earlier [1] 64:8 expect [2] 26:23 51:12 
+
+39:22 40:25 41:6 53:12,12 count [2] 41:12 54:15 determine [3] 29:16,22 35: earnings [1] 40:23 expectations [1] 51:16 
+
+Heritage Reporting Corporation 
+Sheet 2 CHIEF - expectations 
+
+
+
+Official 
+
+74
+
+explain [1] 12:1 14 guidance [3] 39:9,10 64: Illinois [1] 2:2 issue [13] 7:18 8:5 15:14 
+
+expressly [2] 54:24 60:16 fought [1] 15:25 15 imagine [1] 33:16 23:9 25:8 35:6 38:17 48: 
+
+extend [2] 60:21,25 found [3] 16:10 25:12 70: H immunity [6] 5:19 18:4,13 20 54:5 56:12,25 61:3,4 
+
+extensive [1] 5:19 22 19:24 20:5,7 It'll [1] 34:24 
+
+extent [5] 6:16 38:9 41:5 four [2] 24:7 43:25 half [1] 31:21 IMO [4] 17:11,14 26:17 29: Item [59] 4:22 5:20 6:16 14: 
+
+54:13 55:9 fourth [1] 22:16 half-truth [14] 8:12,19 17:4 23 9 15:18,20,21 16:14 17:13 
+
+F framed [1] 10:24 
+
+framework [1] 40:13 
+
+26:15,21 27:11,13 31:1,16 
+
+46:18 55:23 61:23 62:1 64: 
+impact [7] 17:15,17 18:2 
+
+19:13,15 24:11,12 
+
+18:4,10,15,17 19:5 20:18, 
+
+25 21:4,5,22 24:19 26:22 
+face [1] 68:15 framing [1] 34:7 22 implied [3] 5:13 13:2 61:14 27:14,24 28:3 29:4,21 30: 
+faced [1] 61:4 frankly [1] 34:23 half-truths [10] 7:23 15:7, implying [1] 60:18 2 31:25 35:11 37:1,2 38: 
+faces [1] 61:4 fraud [7] 27:2 28:12 43:20 17 16:11 31:6 34:11 42:20 import [1] 6:17 13 40:13 45:21 48:11,12 
+fact [18] 4:17,21 8:22 9:24 44:6,15,20 46:11 54:23 56:15 64:10 importance [1] 12:22 49:18,19,21 50:15 52:3,10, 
+10:6 12:17,20 14:23 17:11, fraudulent [2] 5:7 26:21 Halliburton [3] 61:5,5 62:2 important [13] 12:7,24 13: 14 53:3,9,18 54:13 56:16 
+12 23:20 24:10 28:23 30: FREDERICK [48] 2:4 3:6 happen [3] 19:18 36:4,15 4 14:7 23:14,18 24:2 27:7 63:2,13 64:20 65:4 66:23 
+17 36:8 39:23 54:11 68:12 26:9,10,12 28:8,20 29:1 happens [4] 14:17 21:5,7 29:18 34:9 35:24 36:1 38: 67:2,4,14 68:25 69:5 71:6 
+
+factory [1] 49:7 31:2,11 32:5,25 33:8,21 42:16 8 itself [5] 6:7,12 23:17 49: 
+facts [3] 16:21 29:21 49:2 34:6,21 35:2,18 36:6,14,19, happy [1] 5:24 included [1] 24:17 22 52:14 
+factual [4] 17:2 48:8,21 70: 
+
+23 
+22 37:5,10,16 38:5,20 39:2, 
+
+11,16,19 40:12,22 41:2,4, 
+
+harbor [5] 6:19 12:13 23:3, 
+
+7,17 
+includes [2] 51:20 67:19 
+
+including [2] 23:2 25:24 
+J 
+
+factually [1] 16:24 19 42:10 43:17 44:21 45: hard [1] 7:24 income [1] 27:17 JACKSON [22] 15:3 17:23 
+
+fails [1] 46:3 10 46:5,23 47:2,6,9,16 62: hear [2] 4:3,19 incomplete [3] 68:10 69: 18:9,19 20:14 30:22,24 41: 
+
+failure [4] 15:21 18:14 45: 22 65:6 heard [2] 67:8 69:19 10,13 1,3,19 42:1 43:4,8 47:20 
+
+20 66:23 free-floating [1] 40:14 hearing [1] 50:6 incorrect [1] 14:11 54:2,20,25 55:2,8,12 56:4 
+
+failures [2] 20:12,12 friend [2] 36:9 37:8 held [9] 14:8 15:6 16:18 21: increasing [1] 8:11 66:16 
+
+fairly [2] 14:4 56:10 full [2] 53:17 65:16 21 24:22 25:22 33:10,23 Indeed [1] 15:16 Jackson's [1] 22:10 
+
+fall [1] 8:4 function [1] 67:5 38:12 independent [1] 14:9 January [1] 1:12 
+
+false [2] 45:13,14 functionally [1] 67:15 help [6] 34:22,24 35:3 36: independently [1] 30:4 Janus [1] 62:7 
+
+far [6] 5:3 14:13 26:1 40:10 further [5] 8:7 26:5 47:18 18 38:1 43:25 indicated [1] 60:17 judicially [2] 5:13 13:1 
+
+64:7 71:3 60:17 68:3 helpful [2] 37:13 38:2 individual [4] 37:20 45:13 Junius [2] 9:8 19:8 
+
+favor [1] 16:4 furtherance [1] 35:4 helping [1] 35:4 52:3 53:15 jurisprudence [1] 61:15 
+
+federal [1] 6:13 future [4] 6:16 11:20 12:8 high [1] 39:20 inflated [1] 27:5 Justice [170] 2:7 4:3,11 6:1, 
+
+feel [1] 55:15 22:14 higher [2] 24:14 52:22 information [12] 17:1,2 24: 20 7:6,17,21 8:25 9:8,13 
+
+fell [1] 27:8 
+
+few [3] 18:24 26:16 65:17 G 
+highlighted [1] 46:6 
+
+hold [1] 33:24 
+20 26:23 27:6 30:20 41:17 
+
+48:13 59:13,14 65:25 67: 
+
+10:7,17,22 11:15,17 13:15, 
+
+19 15:3,4,13,24 17:21,23 
+
+fight [2] 39:3,6 General [3] 2:6 24:1 41:5 holding [6] 13:11 17:10,17 13 18:9,19 19:7,21,24 20:2,14 
+
+figure [1] 54:4 General's [1] 32:19 24:6,13 44:11 INFRASTRUCTURE [2] 1: 21:11,12,13,14 22:9,10,23 
+
+file [3] 42:12 55:20 66:25 generality [2] 24:15 42:8 holistic [1] 53:23 3 4:5 23:1,8,11 24:25 26:2,4,5,6, 
+
+filing [3] 7:7 21:8 34:14 generally [3] 38:16,19 58:6 Honor [24] 6:5,12,25 7:20 8: initial [2] 50:19,20 9,13 27:19 28:5,18,21 29:1 
+
+filings [3] 7:10 16:14 23:20 gets [3] 46:18 57:6 64:6 15 9:3,22 11:5 14:6 18:7 initio [1] 51:1 30:22,23,24,25 31:3,17 32: 
+
+finally [1] 13:1 getting [1] 39:20 20:10 21:20 23:4,13 25:10 instance [5] 8:18 12:1,13 1,2,3,6,24 33:9,15 34:1,8, 
+
+Finance [1] 28:11 give [11] 18:10 19:2 20:18 49:17 50:11 51:6,25 52:12 19:5 55:19 17,22,24 35:3,14,23 36:6, 
+
+financial [9] 24:13 30:13 28:2 38:13 43:6 47:13 51: 55:17 56:8 64:18 66:21 instinct [1] 39:4 17,20 37:3,6,11,22 38:15, 
+
+33:11 38:7,8 46:17 53:25 9,9 53:7 64:20 hoping [1] 15:4 institutional [1] 28:16 21 39:2,5,8,12,17 40:4,16 
+
+56:17 67:12 given [2] 8:23 69:9 however [2] 32:13 33:4 intended [1] 43:18 41:1,3,19 42:1,2 43:4,8 44: 
+
+Fine [1] 63:25 giving [1] 31:8 hundred [1] 65:17 intending [1] 43:19 21 45:15,17,19 46:6,20,22, 
+
+first [15] 4:4 6:6,14 8:13 10: Gorsuch [30] 26:5 36:6,17, hypothetical [8] 9:1 11:18 intentionally [1] 66:10 23 47:4,8,9,15,17,19,20 48: 
+
+19 14:6 16:12 19:4 29:5 20 37:3,6,11,22 38:15,21 22:11 27:19 31:17 33:25 interesting [1] 68:22 5 49:13,25 50:17,23 51:10, 
+
+31:17 37:4 52:13 55:3 56: 39:2,5,8,12,17 40:4,16 47: 39:21 68:4 interests [1] 64:16 22 52:9,18 54:2,19,25 55:2, 
+
+7 61:22 19 57:16,18,23,25 58:4,11, I interpret [2] 7:14 41:15 8,12 56:4 57:16,18,23,25 
+
+fits [2] 61:25 62:3 
+
+five [1] 60:9 
+
+flow [1] 13:4 
+
+flung [1] 40:10 
+
+flyspeck [1] 36:2 
+
+follow [3] 43:1 45:16 67:24 
+
+followed [1] 70:3 
+
+following [1] 11:20 
+
+force [1] 65:16 
+
+form [5] 9:19 35:13 59:17, 
+
+18 63:2 
+
+forms [2] 43:20 65:19 
+
+forward [1] 14:14 
+
+forward-looking [7] 6:18, 
+
+19 12:14 19:12,14 23:5 70: 
+
+15,18,22 59:2,6,8 
+
+got [1] 14:7 
+
+government [8] 5:17 6:6 
+
+13:7 23:25 33:13 58:22 67: 
+
+8 70:2 
+
+government's [4] 6:8 37: 
+
+17 41:5 54:7 
+
+governmental [1] 44:10 
+
+grant [1] 50:7 
+
+granted [2] 62:23 63:6 
+
+granularity [1] 40:20 
+
+greater [1] 66:8 
+
+Grundfest [1] 13:23 
+
+guess [7] 10:8 18:3 20:15 
+
+41:1,3,8 54:3 
+
+idea [2] 17:14 48:6 
+
+identification [3] 53:14,22 
+
+57:21 
+
+identified [10] 11:6 12:5,9 
+
+15:17 19:11 20:21 22:2 23: 
+
+15 32:15 68:19 
+
+identifies [5] 8:18,19 10: 
+
+21 12:16 21:3 
+
+identify [15] 14:16 15:1 20: 
+
+8 21:21 24:3 32:3 34:19 
+
+44:1 63:16,20 64:12 67:10 
+
+68:21 69:3,14 
+
+identifying [1] 19:16 
+
+ignores [1] 48:9 
+
+interpreted [1] 10:2 
+
+intersect [1] 9:9 
+
+investigate [1] 65:22 
+
+investor [7] 22:13 26:23 
+
+44:1 51:15 59:25 60:1,6 
+
+investors [8] 16:17 18:25 
+
+28:16 30:21 34:16 51:12 
+
+52:2 67:6 
+
+invoke [3] 12:13,13,15 
+
+involve [1] 44:5 
+
+involved [1] 5:10 
+
+involves [1] 26:14 
+
+involving [1] 5:7 
+
+isn't [6] 6:6 13:12 29:19 32: 
+
+2 41:18 60:24 
+
+58:4,11,15,18,22 59:2,6,8 
+
+60:4,12 61:2,10,17,21 62: 
+
+14,17,17,19,20 63:5,15,25 
+
+64:2,6,11,25,25 65:2,3,6, 
+
+24 66:13,14,14,16 70:21 
+
+71:8,11 
+
+Justice's [2] 10:9 33:1 
+
+K 
+KAGAN [18] 9:13 10:7,22 
+
+11:15,17 13:19 21:11,13 
+
+22:9,23 23:1,8,11 32:24 
+
+33:9,15 34:1,8 
+
+KAVANAUGH [18] 19:21, 
+
+24 20:2 32:2 34:17,22,24 
+
+Heritage Reporting Corporation 
+Sheet 3 explain - KAVANAUGH 
+
+
+
+Official 
+
+75
+
+35:3,14,23 51:22 52:9,18 
+
+65:2,3,6,24 66:13 
+
+kept [1] 27:4 
+
+kind [12] 8:16 9:5 12:20 13: 
+
+12 18:11 19:1 20:9 22:6 
+
+27:11 29:14 35:15 69:11 
+
+known [9] 26:16,24 27:15 
+
+29:5,8 51:13 52:16 53:20, 
+
+24 
+
+Ks [1] 70:9 
+
+L 
+L.P [4] 1:7 2:5 3:8 26:11 
+
+language [8] 11:8,8 43:15 
+
+44:17 54:5,16 57:9,11 
+
+larger [1] 53:16 
+
+last [1] 46:6 
+
+Laughter [3] 35:1 39:7 65: 
+
+9 
+
+law [3] 14:15 38:6 40:17 
+
+laws [2] 6:14 7:13 
+
+lead [1] 30:12 
+
+least [5] 31:5 35:17 38:22 
+
+50:5 60:20 
+
+leave [1] 68:6 
+
+leaves [1] 18:23 
+
+led [1] 17:19 
+
+left [2] 5:2 19:13 
+
+legal [1] 38:25 
+
+lengthy [1] 23:22 
+
+level [8] 24:14 37:7,24 38: 
+
+23 39:20 40:19 42:8 60:15 
+
+liability [13] 4:20 5:8,16 18: 
+
+11 19:2 20:6,19 22:8 23:6 
+
+25:12 43:14 44:5 51:9 
+
+liable [3] 24:22 44:12 62:9 
+
+light [6] 9:25 31:18 41:22 
+
+52:3 57:13 59:21 
+
+likely [5] 23:12 27:16 29:12 
+
+52:16,17 
+
+limit [3] 8:7 28:24 57:5 
+
+limited [2] 56:10 65:13 
+
+limits [1] 9:17 
+
+LINDA [5] 2:2 3:3,14 4:8 
+
+66:19 
+
+line [4] 26:17 28:1 29:6 31: 
+
+20 
+
+lines [2] 8:6 10:8 
+
+list [9] 18:21 22:16 53:10 
+
+68:5,5,10 69:9,13 70:5 
+
+listing [2] 60:8 69:25 
+
+lists [2] 22:15 68:10 
+
+litigation [1] 65:14 
+
+loath [2] 5:14 7:14 
+
+long [4] 24:4 38:25 49:14 
+
+67:13 
+
+long-settled [1] 62:4 
+
+longstanding [1] 57:13 
+
+look [8] 31:13,14 35:11 38: 
+
+25 46:10 56:24 57:7 69:6 
+
+looked [2] 44:18 70:11 
+
+looking [4] 35:20 39:9 44: 
+
+16 60:14 
+
+lose [4] 15:8,11 27:3 28:6 
+
+lost [1] 69:22 
+
+lot [1] 8:20 
+
+lower [8] 29:12 37:22,24 
+
+38:3,24 40:7 57:19 58:5 
+
+lowering [1] 8:12 
+
+M 
+MACQUARIE [2] 1:3 4:5 
+
+made [15] 6:2 9:25 10:1 11: 
+
+12 14:24 16:16 23:25 28: 
+
+13 30:15 31:24 35:19 41: 
+
+23 43:22 44:2 48:10 
+
+major [1] 24:7 
+
+maker [1] 44:11 
+
+management [4] 5:1 16: 
+
+17 35:7 67:7 
+
+Management's [1] 23:21 
+
+managers [2] 29:10 30:1 
+
+managers' [1] 43:1 
+
+many [10] 4:12 13:10 17:24 
+
+24:5,9 30:15,17,17 65:22 
+
+70:13 
+
+market [3] 29:24 43:23 44: 
+
+2 
+
+match [1] 8:21 
+
+material [28] 4:17,21 9:23 
+
+26:22,25 30:3,20 31:19,22, 
+
+23 35:24 45:6 46:12 47:1, 
+
+5,6,11 49:5,14,15,19 50:6, 
+
+10 51:5,7 52:17 53:19 54: 
+
+10 
+
+materiality [5] 30:12 43:7 
+
+49:21,24 52:21 
+
+materially [1] 27:25 
+
+matter [7] 1:14 9:5 10:4 32: 
+
+9 40:11 48:15 49:11 
+
+McDOWELL [44] 2:6 3:10 
+
+47:22 48:1,4 49:17 50:11, 
+
+20 51:6,11,25 52:12,20 54: 
+
+19 55:1,5,11,17 56:8 57:17, 
+
+23 58:3,9,13,17,20,25 59:3, 
+
+7,10 60:6 61:2,16,20 62:15 
+
+63:1,8,20 64:1,5,18 65:5, 
+
+10 66:2 
+
+MD&A [31] 9:18 21:7 22:11 
+
+24:1,4,10 30:14,15 32:9,15 
+
+35:7,15,20 38:7 42:12 45: 
+
+12 48:10 50:21,21 51:13, 
+
+23,25 52:6 53:7 55:20 56: 
+
+18 59:17 66:25 67:3,4,12 
+
+MD&A's [2] 50:13 63:21 
+
+meager [2] 28:14 65:7 
+
+mean [13] 9:14 10:7,23 16: 
+
+3 24:6 31:9 39:12 40:5 41: 
+
+16 52:10 56:18 61:11 66:3 
+
+meaning [2] 14:3 51:20 
+
+means [2] 21:6 64:13 
+
+meant [1] 30:14 
+
+meet [1] 52:13 
+
+mention [1] 68:23 
+
+mentioned [3] 7:3 61:14 
+
+64:8 
+
+mere [1] 28:23 
+
+messing [1] 44:12 
+
+might [13] 7:24 9:11 12:2, 
+
+12,14 19:15,20 20:21 21: 
+
+18 37:9 40:4 46:10 49:9 
+
+mind [2] 5:3 13:13 
+
+misleading [93] 4:18 5:1, 
+
+21 6:2,8,10 9:12,19 10:2,5, 
+
+15 11:12,14 12:19 13:23, 
+
+25 14:10,24 15:2 16:19 17: 
+
+1 18:16 20:8 21:4,9,24 22: 
+
+1,21 24:15 26:15 28:19,22, 
+
+24 30:13 31:25 33:7,11,19 
+
+34:5 35:15 36:25 41:8,15, 
+
+18 42:7,23 43:5 44:13 45: 
+
+8,13,14,24 46:2,8,11,13,17, 
+
+18 49:8,10 50:16 51:23 52: 
+
+1,4,8 53:1,14,16,22,23 54: 
+
+18,22 56:2,17 59:15 60:11 
+
+63:7,9,9,12,14,18 64:3 66: 
+
+25 67:11 68:7,15 69:4,8,16 
+
+70:10,16,23 
+
+misled [1] 26:25 
+
+misrepresentation [1] 25: 
+
+22 
+
+misses [1] 39:21 
+
+misstated [1] 38:6 
+
+MOAB [11] 1:7 2:5 3:8 4:6 
+
+5:16 6:24 16:20 26:11 67: 
+
+8 68:20 69:20 
+
+model [1] 67:22 
+
+moment [1] 12:25 
+
+month [1] 10:14 
+
+morning [2] 4:4 45:1 
+
+most [2] 13:24 68:5 
+
+motion [1] 69:18 
+
+move [2] 12:10 14:18 
+
+moving [1] 38:16 
+
+Ms [43] 4:7,10 6:4,24 7:9,19 
+
+8:15 9:2,21 10:19 11:4,16, 
+
+24 13:15 14:5 15:10,16 16: 
+
+8 18:7,12 19:4,22 20:1,4, 
+
+23 21:19 22:20,24 23:2,10, 
+
+12 24:25 25:5 26:8 36:9 
+
+37:23 38:21 45:3 54:3 57: 
+
+19 63:3 66:21 71:10 
+
+much [5] 17:9 18:18 19:6 
+
+22:16 68:13 
+
+multiple [4] 13:10 37:19 
+
+45:11 49:23 
+
+must [2] 11:6 14:16 
+
+N 
+narrative [9] 5:1 6:10 13:8 
+
+23:23 38:8 50:13,16 51:20 
+
+63:22 
+
+narrow [6] 13:18 14:4 17:3 
+
+34:2 39:14 45:4 
+
+narrowly [1] 33:5 
+
+nation [1] 70:5 
+
+nature [3] 18:20 20:17,24 
+
+near [1] 26:19 
+
+nearby [1] 49:7 
+
+nearly [1] 31:21 
+
+necessarily [2] 25:6 59:15 
+
+necessary [8] 4:17 9:24 
+
+14:22,23 29:22 44:4 47:7 
+
+54:21 
+
+need [8] 7:18 45:8,10 48: 
+
+21 49:10 68:1 69:12,14 
+
+needed [1] 32:15 
+
+needing [1] 54:17 
+
+needs [7] 9:4 14:11 30:2 
+
+33:6 34:4 68:18 71:7 
+
+negative [2] 17:15 60:9 
+
+Neither [1] 68:23 
+
+never [3] 34:12 42:16 46: 
+
+15 
+
+new [5] 8:2,5,11 61:22 62: 
+
+12 
+
+news [1] 17:18 
+
+next [4] 10:14 11:22 60:2,7 
+
+Ninth [1] 38:12 
+
+None [1] 4:22 
+
+note [1] 7:1 
+
+nothing [2] 51:4 63:23 
+
+notion [2] 68:18 71:5 
+
+nuanced [2] 32:21 58:7 
+
+number [2] 45:6 63:16 
+
+O 
+object [2] 58:23 67:17 
+
+objectively [1] 29:20 
+
+obviously [1] 16:3 
+
+occur [3] 29:12 52:16 55: 
+
+19 
+
+offense [1] 44:5 
+
+offer [1] 40:15 
+
+offered [1] 32:21 
+
+offering [6] 43:22,24,24 44: 
+
+1,2,8 
+
+oftentimes [1] 52:22 
+
+oil [2] 8:8 29:24 
+
+Okay [3] 26:7 36:9 50:7 
+
+old [1] 62:12 
+
+omission [69] 4:15,20 5:20, 
+
+22 6:3 8:9 9:12,18 11:11 
+
+12:4 13:21,24 14:22 15:18, 
+
+20 16:20 17:4 18:2 25:1, 
+
+23 26:25 27:12,24 28:7,20, 
+
+23 29:7,17 31:12,23 33:7, 
+
+17 34:18 35:5 36:24 42:4, 
+
+6,13,18 45:6 47:1,11 48:9, 
+
+16,23 49:1,15 50:9,14,18 
+
+51:1,3,4,5,7 52:8,10,11 53: 
+
+2,13 55:18 59:14 64:23 67: 
+
+15,18,25 70:16,24 71:5 
+
+omissions [22] 7:23 18:4, 
+
+10 20:3 28:19,21 30:11 31: 
+
+7 33:10 34:11 35:9,25 37: 
+
+14 39:15 41:10 42:23 43:5 
+
+46:9,12,16 54:23 60:22 
+
+omit [4] 9:23 51:14 53:20 
+
+55:25 
+
+omits [2] 26:22 53:12 
+
+omitted [13] 4:17,21 8:22 9: 
+
+10 10:5,13 12:20 14:23 17: 
+
+3 26:17 54:10,15 55:21 
+
+omitting [3] 30:3 44:13 60: 
+
+9 
+
+Omnicare [2] 12:15,21 
+
+Once [5] 12:7 43:23 44:2 
+
+52:18,20 
+
+one [27] 4:16 5:1,18 7:23 
+
+11:1 17:16 19:9 20:20 24: 
+
+2 25:19 26:20 27:9,24 30: 
+
+18 31:4 37:18 40:13 51:14 
+
+52:6,24 53:4,12,21,22 64: 
+
+22,23 68:6 
+
+ones [1] 28:16 
+
+online [1] 8:3 
+
+only [9] 14:22 28:9 35:10 
+
+38:10 47:5 57:17 59:21 69: 
+
+25 70:6 
+
+opacity [1] 46:5 
+
+opinion [7] 6:15 12:16,18 
+
+56:6,12 61:4 70:15 
+
+opportunities [1] 28:15 
+
+opportunity [2] 12:10 69: 
+
+17 
+
+opposed [1] 66:7 
+
+opposite [2] 22:18 24:23 
+
+opposition [3] 7:5 44:24 
+
+68:22 
+
+oral [8] 1:15 3:2,5,9 4:8 16: 
+
+12 26:10 48:1 
+
+orally [1] 16:16 
+
+order [4] 9:24 39:25 47:12 
+
+69:11 
+
+ordinary [1] 51:19 
+
+other [26] 13:5 14:15,19,24 
+
+22:25 28:13 33:19 35:17 
+
+36:16 37:8 38:10,10 40:15 
+
+43:10 47:12 50:8 53:15,22 
+
+55:25 57:1,1,3,14 58:1,24 
+
+62:5 
+
+others [1] 70:15 
+
+otherwise [8] 45:24 46:8, 
+
+13,18 63:7,9,18 64:3 
+
+out [12] 5:2 10:12 13:20 18: 
+
+21,24 19:13 27:19 30:6 41: 
+
+14 54:4 68:6 70:21 
+
+outcome [1] 24:12 
+
+outside [1] 58:19 
+
+over [2] 28:6 44:3 
+
+over-reading [1] 62:6 
+
+oversells [1] 39:23 
+
+own [3] 63:10,10,12 
+
+P 
+PAGE [2] 3:2 57:8 
+
+pages [7] 13:9,9,9 30:16, 
+
+17 70:7,8 
+
+paints [1] 10:11 
+
+panel [1] 30:9 
+
+paragraph [4] 11:19 12:8 
+
+68:9 69:9 
+
+paragraphs [7] 10:10 15: 
+
+19 32:11,17 68:24 69:6,7 
+
+part [14] 7:7 8:13 12:23 27: 
+
+3 30:14 41:20,21 46:7 55: 
+
+3,6,12,13 59:17 64:3 
+
+partial [1] 26:21 
+
+partially [1] 18:22 
+
+Heritage Reporting Corporation 
+Sheet 4 KAVANAUGH - partially 
+
+
+
+Official 
+
+76
+
+particular [8] 29:17 34:15 
+
+35:6,20 46:13 48:13 55:24 
+
+59:13 
+
+particularity [1] 44:7 
+
+particularized [1] 32:14 
+
+particularly [1] 64:13 
+
+PARTNERS [4] 1:7 2:5 3:8 
+
+26:11 
+
+parts [6] 17:25 27:22 31:5 
+
+39:25 55:25 70:5 
+
+party [1] 54:10 
+
+pass [2] 23:11,13 
+
+passed [1] 61:24 
+
+past [1] 38:17 
+
+penalize [3] 5:20 20:12 65: 
+
+22 
+
+penalties [2] 66:8,12 
+
+per [1] 30:9 
+
+percent [5] 26:18 27:9 36: 
+
+5 39:23 40:2 
+
+performance [1] 17:16 
+
+perhaps [2] 20:20 66:5 
+
+permit [2] 4:24 5:5 
+
+persisting [1] 66:22 
+
+perspective [1] 67:7 
+
+Petitioner [2] 50:3,3 
+
+Petitioners [11] 1:5 2:3 3: 
+
+4,15 4:9 26:15 27:2,12 48: 
+
+7 62:6 66:20 
+
+Petitioners' [1] 27:1 
+
+phone [1] 59:25 
+
+phrase [1] 46:6 
+
+pick [1] 48:6 
+
+picture [2] 10:11,15 
+
+place [2] 32:23 65:23 
+
+placement [1] 36:3 
+
+plaintiff [8] 8:18 14:16 19: 
+
+15 21:3,8 67:10 69:13 70: 
+
+3 
+
+plaintiffs [1] 17:19 
+
+plead [7] 18:16 19:15 21:8 
+
+38:18 43:7,7 62:11 
+
+pleaded [6] 16:11 18:17 35: 
+
+21 68:8 69:21 70:22 
+
+pleading [10] 11:9 19:19 
+
+22:4,25 57:2,4,7,9,12 69:4 
+
+pleadings [1] 16:13 
+
+please [3] 4:11 26:13 48:5 
+
+pled [1] 19:3 
+
+PLSRA [1] 57:20 
+
+plural [3] 10:24 11:7,8 
+
+point [4] 30:6 57:1 61:7 69: 
+
+14 
+
+pointed [2] 27:19 70:21 
+
+pointing [1] 13:20 
+
+points [2] 18:21 61:21 
+
+portion [1] 14:2 
+
+positing [1] 23:5 
+
+position [11] 32:7 33:3,13 
+
+37:17 51:7 52:5 53:2 54:7 
+
+56:18,21 64:9 
+
+positive [1] 60:9 
+
+possibility [1] 24:10 
+
+possibly [1] 19:2 
+
+potential [1] 28:13 
+
+potentially [1] 23:2 
+
+powers [1] 5:19 
+
+practice [2] 7:24 70:4 
+
+precedent [2] 30:9 56:20 
+
+precedential [1] 56:12 
+
+preceding [1] 32:16 
+
+predicate [1] 13:7 
+
+prediction [1] 17:14 
+
+presented [8] 31:5 38:11 
+
+39:14 46:14 60:20 64:13, 
+
+19,21 
+
+press [1] 40:23 
+
+presumably [1] 25:20 
+
+presumption [1] 62:3 
+
+pretty [3] 13:18,24 18:24 
+
+price [3] 17:20 27:4,8 
+
+principal [1] 9:15 
+
+principle [1] 61:11 
+
+prior [1] 61:14 
+
+private [11] 5:13,23 13:2 
+
+21:16 27:10 28:17 45:21 
+
+60:18,21,23 65:14 
+
+probably [1] 23:5 
+
+problem [4] 21:20 39:11, 
+
+19 41:4 
+
+proceed [3] 17:5 71:3,4 
+
+proceeding [2] 17:7 71:1 
+
+process [1] 22:5 
+
+processors [2] 8:2,11 
+
+Professor [1] 13:23 
+
+promulgated [1] 44:18 
+
+property [2] 26:19 49:6 
+
+prophylactic [1] 29:15 
+
+proposing [2] 57:21 58:8 
+
+prospects [1] 10:12 
+
+protect [1] 34:16 
+
+protected [2] 6:17 23:6 
+
+protections [1] 29:15 
+
+provide [6] 24:16,20 55:24 
+
+64:15 65:25 67:2 
+
+provided [2] 12:4 29:14 
+
+provides [1] 68:10 
+
+provision [4] 23:17 43:19 
+
+44:19 57:13 
+
+PSLRA [14] 4:15 5:2,15 11: 
+
+5,5,7 13:14 22:4 24:3 37:9, 
+
+19 58:6 61:9 62:10 
+
+PSLRA's [3] 12:23 57:2,12 
+
+public [4] 21:7 34:14,14,14 
+
+pure [15] 28:21 31:6,12 41: 
+
+10 42:4,13,13,17 46:16,25 
+
+47:11 50:9 54:23 55:18 67: 
+
+15 
+
+purely [1] 33:24 
+
+purport [1] 57:11 
+
+purported [1] 68:24 
+
+purpose [1] 67:5 
+
+purposes [1] 21:10 
+
+pursuant [1] 66:7 
+
+pursue [2] 20:11 66:12 
+
+put [6] 29:21 33:2 43:23 58: 
+
+1 59:16 63:12 
+
+Q 
+Q&A [1] 59:20 
+
+Qs [1] 70:9 
+
+qualifies [1] 52:11 
+
+qualify [1] 40:10 
+
+question [33] 6:22 8:16 9:3 
+
+10:9,20 20:5 33:2 38:11 
+
+39:14 42:3 44:22,23,25 45: 
+
+4,19 46:14 57:17 59:19,22 
+
+60:11,20 62:21,22,24,24, 
+
+25 63:6 64:4,7,13,14,19 65: 
+
+3 
+
+questions [4] 5:25 8:21 28: 
+
+4 49:12 
+
+Quick [1] 65:3 
+
+quintessential [1] 25:15 
+
+quite [2] 20:10 28:14 
+
+quo [1] 14:14 
+
+R 
+rather [1] 61:18 
+
+ratify [1] 39:4 
+
+reach [1] 7:18 
+
+reached [1] 25:25 
+
+read [8] 38:22 55:13 56:10, 
+
+15 57:12 62:8,10 63:8 
+
+readiness [2] 27:6 29:23 
+
+reading [1] 63:23 
+
+real [1] 42:17 
+
+realistic [1] 65:20 
+
+really [10] 7:5 30:7 33:1 34: 
+
+12 35:15 36:1 41:20 42:18 
+
+45:2 59:18 
+
+reason [4] 28:1 29:25 34: 
+
+23 51:11 
+
+reasonable [5] 26:23 30: 
+
+20 51:12,15 52:1 
+
+reasonably [5] 27:16 29:6, 
+
+12 52:16,17 
+
+reasoning [1] 56:10 
+
+reasons [4] 6:5 11:21 24:2 
+
+37:19 
+
+REBUTTAL [3] 3:13 66:18, 
+
+19 
+
+recast [1] 25:17 
+
+recasting [1] 5:5 
+
+recognized [2] 5:8 25:11 
+
+record [1] 32:7 
+
+red [1] 57:8 
+
+redress [1] 27:11 
+
+reduces [1] 41:6 
+
+refer [2] 45:22 69:8 
+
+referenced [2] 32:10 70:2 
+
+referred [3] 15:20 65:7 68: 
+
+3 
+
+refers [1] 67:4 
+
+reg [1] 59:5 
+
+regard [1] 44:10 
+
+regarded [1] 45:7 
+
+regime [1] 42:25 
+
+registered [1] 65:19 
+
+registration [1] 55:22 
+
+regulated [1] 54:10 
+
+regulation [13] 8:12 24:17 
+
+40:21 41:11,24 43:2,2 48: 
+
+15,20,24 49:3 53:9 59:12 
+
+regulations [3] 8:5 24:9, 
+
+11 
+
+regulatory [1] 42:24 
+
+reject [2] 33:20 62:8 
+
+related [1] 6:22 
+
+relating [2] 6:16 16:21 
+
+releases [1] 40:24 
+
+relevant [3] 27:14 30:19 
+
+63:22 
+
+reliance [3] 61:6 62:3,4 
+
+relied [1] 30:10 
+
+reluctant [1] 60:25 
+
+rely [3] 7:1 25:9 56:14 
+
+relying [4] 55:7 61:22,23 
+
+69:1 
+
+remains [1] 22:24 
+
+remand [3] 16:6 36:15 56: 
+
+23 
+
+remedies [1] 28:13 
+
+remedy [1] 7:15 
+
+remember [1] 14:7 
+
+render [5] 46:12 53:14,16, 
+
+21,23 
+
+rendered [8] 10:5,15 16:19 
+
+33:10,18 34:5 41:15 52:7 
+
+renders [7] 31:23 41:8 42: 
+
+6 50:15 54:8 56:1,16 
+
+repeatedly [1] 65:13 
+
+repeating [1] 33:1 
+
+repleaded [1] 13:25 
+
+report [1] 41:8 
+
+represent [1] 28:17 
+
+representations [1] 20:25 
+
+require [5] 10:3 22:1 37:20 
+
+40:19 57:20 
+
+required [24] 4:22 24:19 
+
+26:22 29:9 35:11 36:8 37: 
+
+9 40:21,25 41:7,16 42:5 
+
+43:13 44:4 45:20 50:5 51: 
+
+18 54:11 55:13 67:13,19 
+
+68:4,12 71:6 
+
+requirement [19] 4:25 7: 
+
+11 11:10 13:3 14:18 18:18 
+
+19:16,23 22:19,21 24:24 
+
+34:3 35:16 37:2 58:8 64: 
+
+12,17 67:18 68:16 
+
+requirements [4] 12:24 22: 
+
+4,25 25:19 
+
+requires [11] 11:5 12:19 
+
+37:21 41:11 42:25 44:6 48: 
+
+12 52:14 53:10,19 54:13 
+
+requiring [2] 41:24 49:4 
+
+resolved [1] 4:13 
+
+resources [2] 28:15 65:12 
+
+respect [12] 6:21 13:10 14: 
+
+20 20:5 21:1 38:4 44:8 54: 
+
+5,19 61:16 64:5,14 
+
+respectfully [1] 15:10 
+
+respond [1] 43:11 
+
+responded [1] 60:8 
+
+Respondent [6] 2:5,9 3:7, 
+
+12 26:11 48:3 
+
+Respondents [1] 1:8 
+
+response [5] 19:25 20:4 
+
+50:22 65:8,11 
+
+rest [1] 22:8 
+
+restrict [1] 57:11 
+
+result [3] 11:25 24:24 25: 
+
+25 
+
+results [1] 24:13 
+
+revealing [1] 66:22 
+
+revenue [2] 26:18 39:24 
+
+revenues [1] 27:17 
+
+review [4] 44:22 62:23,25 
+
+63:6 
+
+reviewing [1] 65:18 
+
+revive [1] 70:19 
+
+rights [1] 60:18 
+
+rise [10] 8:1,14 18:10 19:2 
+
+20:19 38:13 43:6 47:13 51: 
+
+9 64:20 
+
+road [1] 19:9 
+
+roadmap [1] 27:2 
+
+roads [2] 19:8 26:19 
+
+ROBERTS [23] 4:3 7:21 8: 
+
+25 21:12,14 26:2,9 30:23, 
+
+25 31:3 45:17 46:20 47:17 
+
+60:4,12 61:10,17 62:14,17 
+
+64:25 66:14 71:8,11 
+
+role [1] 35:3 
+
+rooted [1] 4:23 
+
+rosy [3] 10:11,15 12:8 
+
+routinely [1] 65:21 
+
+Rule [37] 4:14 5:9 11:8 13: 
+
+17 14:3,11 16:4,7 21:1,23 
+
+24:21 27:7 29:23 31:13 35: 
+
+10,12 42:14 43:20,21 44: 
+
+18 52:24 57:5,10,14 61:18, 
+
+25 62:10 63:2 64:20 65:14 
+
+66:7,9 67:7,9,21,23 69:2 
+
+rules [2] 32:18 34:16 
+
+ruling [3] 12:15 20:24 33: 
+
+14 
+
+S 
+safe [5] 6:19 12:13 23:3,7, 
+
+17 
+
+safeguards [1] 13:6 
+
+sales [6] 8:1,4,11,13 22:15 
+
+27:20 
+
+same [12] 10:8 11:25 27:13, 
+
+23 28:3 32:22 34:12 53:18 
+
+54:8 61:11,18 62:21 
+
+same-subject [1] 40:14 
+
+satisfied [3] 14:18 22:19 
+
+49:15 
+
+satisfies [2] 12:3 50:15 
+
+satisfy [4] 19:20 22:21 53: 
+
+4 54:16 
+
+satisfying [1] 61:8 
+
+saying [23] 9:16 11:1 20:7 
+
+28:22 31:1 38:25 41:10 43: 
+
+12 46:25 47:2 49:14,18 50: 
+
+2,3,5,12,25 54:12 56:7 61: 
+
+25 63:4,11 64:19 
+
+Heritage Reporting Corporation 
+Sheet 5 particular - saying 
+
+
+
+Official 
+
+77
+
+says [10] 8:13 11:19 14:21 situation [2] 8:13 19:3 17 70:9 SUPREME [3] 1:1,15 30: two [15] 9:9,11 15:23 16:8, 
+
+22:12 24:21 41:21 43:14 six [1] 32:17 statement's [1] 36:8 16 9 19:8 26:19 32:5 42:9 54: 
+
+54:9 56:15 60:1 size [1] 35:25 statements [55] 6:19 8:24 T 8 55:9,15 61:20 64:21 70: 
+
+scenario [2] 19:1 42:22 sky [1] 35:25 9:18,25 10:25 11:12 12:14, 20 
+
+scheme [2] 5:7 25:18 slightly [2] 53:8 62:12 16,17 13:22 14:24 15:23 table [1] 33:2 type [2] 35:25 62:12 
+
+scienter [7] 44:6,6 47:10, Solicitor [2] 2:6 32:19 16:9,10,12,16,18,23,25 23: talks [2] 18:22 54:17 typically [1] 10:6 
+
+11 49:22 50:7 52:23 
+
+scope [2] 35:25 57:5 
+
+someone [1] 65:24 
+
+sometimes [1] 13:20 
+
+19,25 27:23 30:13 31:24 
+
+32:4,14 35:6,9,20 37:21,21 
+
+tantamount [2] 67:9,17 
+
+tasked [2] 8:20 65:18 U 
+
+SEC [16] 5:19 16:14 19:25 somewhere [3] 25:22 40: 40:24 41:7 42:24 43:5 44: tells [1] 9:22 ultimately [1] 17:18 
+
+20:11 28:6,9,13 43:19 44: 20,21 8,12 45:7,14 46:2,17 52:4 tens [1] 65:18 uncertainties [5] 27:15 51: 
+
+18 53:8 61:24 65:15,17,25 sorry [2] 15:5 41:3 54:22 63:17,24 67:12 68: terms [4] 23:8 34:7 63:10, 14 53:20,25 54:14 
+
+66:8,12 sort [7] 7:6,22 22:7 34:2 48: 21 69:4,24 70:1,12,14,15, 12 uncertainty [3] 26:17 29: 
+
+SEC's [1] 65:12 14 56:6 60:14 18,21 test [2] 36:25 40:14 10 52:15 
+
+Second [32] 7:1 14:8 15:5, SOTOMAYOR [9] 6:20 7:6, STATES [5] 1:1,16 2:8 3: text [15] 4:13,13,15,23,24 5: under [32] 5:9 6:13 10:1 21: 
+
+17,25 16:1,2,6 17:5 21:21 17 15:4,13,24 17:21 65:1 11 48:2 5 9:14,15,20,21,22 10:3,24 16,23 23:6 24:19 25:2,12, 
+
+25:7,9,25 29:2,14 30:7 33: 70:21 status [1] 14:13 14:21 21:1 20,24 27:23 28:8,9 35:11 
+
+3,12,16,23 38:6 46:15 56:5, speaks [1] 54:23 statute [2] 41:14,20 textual [1] 23:18 36:12 40:18 41:22 42:24 
+
+9,11,20 64:8 67:16 69:2,23 special [1] 12:20 statutory [1] 23:7 theme [1] 13:17 45:9,11,21,21 49:20 52:22 
+
+70:19 71:2 specific [44] 5:3 6:21 12:7, step [1] 59:16 themselves [1] 7:11 55:24 61:13 62:10 64:22, 
+
+secondly [1] 6:15 22 14:16 15:16,22 16:9,21 still [1] 29:13 theories [1] 64:21 24 65:14 66:9 
+
+Section [20] 21:17 43:10, 18:16 19:11,17 21:4,9 22: stock [4] 17:20 27:4,8 43: theory [12] 28:9 46:19 56: underlying [1] 30:7 
+
+11,14,21 44:4 45:22 54:6,9, 3 23:14 24:4,16 25:19 32: 23 15 61:23,23 62:1 64:22,23 understand [24] 9:14 20: 
+
+16,20,22 55:21 66:7 67:20, 4 36:11,11 37:7 40:5,8,18, Stoneridge [1] 62:7 67:16 68:25 69:19,21 16 22:10 32:24 34:3 37:3 
+
+21,23,23,25,25 19 41:24 43:21 57:20 58:7, stored [1] 24:11 there's [13] 8:10 14:10 20: 38:17 41:9 42:1 45:5,22 
+
+securities [8] 6:14 7:10,13 7 67:10,11 68:18,21 69:3,8, straightforward [1] 53:8 17 23:16 33:4,5 36:7 41: 46:1 50:1,23,24 53:5 55:8, 
+
+8:17 22:8 40:17 42:19 62: 24 70:5,8,17,20,23 Stratte-McClure [7] 30:8, 11 43:14 51:17 63:23 64:2 14 58:4,11,15 59:8,21 60: 
+
+12 specifically [5] 7:16 11:6 11 33:9 56:13,14,24 69:2 71:5 10 
+
+see [7] 9:19 42:8 45:2 50:8, 17:13 23:20 52:4 streets [2] 9:9,11 therein [1] 54:22 understanding [1] 23:23 
+
+17 54:2 67:6 specificity [9] 9:6 10:4 12: strict [1] 44:5 they've [1] 31:24 understood [6] 9:16 10:16 
+
+seek [2] 28:12 66:9 6 37:25 38:24 39:20 42:23 strictly [1] 44:12 third [2] 9:10 26:20 37:24 57:20 58:5,6 
+
+seeking [5] 5:17,18 14:20 44:3 51:18 strikes [1] 7:23 THOMAS [18] 6:1 26:4 28: undertook [1] 29:16 
+
+18:3 20:7 specify [1] 11:13 subject [15] 5:22 9:5 10:4 5,18,21 29:2 46:22,23 47:4, uniformly [1] 37:23 
+
+seem [3] 18:24 36:9 37:4 speculative [1] 66:4 27:14,15,23 28:3 34:9,12, 8,9,15 49:13,25 50:17,23 UNITED [5] 1:1,16 2:8 3:11 
+
+seemed [1] 50:4 speech [2] 5:10 25:13 13 35:8 37:1 40:11 48:15 51:10 62:18 48:2 
+
+seems [9] 10:15 28:22 29: staff [2] 28:14 65:25 49:11 though [5] 6:12 21:17 28: unlawful [1] 9:23 
+
+25 38:23 41:13 43:11 47:4 standard [12] 28:2 29:13 subjects [1] 24:5 22 49:8 57:19 unless [2] 7:16 18:15 
+
+54:7 60:19 36:13 49:21 50:15 57:2,4, submitted [2] 71:12,14 thousands [1] 65:18 unpublished [1] 56:9 
+
+sellers [1] 49:4 7,9,13 58:19,23 Subsection [5] 55:1 57:5, three [3] 22:12,15,17 unreasonable [1] 29:20 
+
+send [2] 34:20 36:12 standards [1] 52:14 10,14 64:23 threshold [1] 52:23 up [7] 27:20 31:8 44:12 45: 
+
+sense [3] 44:9,10 66:11 standing [1] 21:22 subsections [2] 25:2 64: tie [1] 15:21 16 48:6 60:2,7 
+
+sentence [6] 30:18 36:3 started [2] 39:22 58:14 24 tied [4] 12:23 18:15 28:3 35: urge [2] 35:4 36:23 
+
+60:3,5 68:9 69:9 state [6] 9:23 43:13,13 46: subsidiaries [3] 13:11 17: 5 useful [2] 36:21 39:10 
+
+sentences [2] 10:10 37:20 3 54:10 68:25 16 24:8 tight [2] 48:7 49:10 V 
+separate [1] 7:10 
+
+series [1] 42:20 
+
+set [2] 10:9,10 
+
+seven [1] 32:17 
+
+SG [2] 18:20 32:8 
+
+shall [1] 11:13 
+
+she's [3] 37:12 38:5,9 
+
+shouldn't [2] 37:14 38:1 
+
+show [2] 33:18 52:21 
+
+shows [1] 5:2 
+
+side [3] 35:17 37:8 57:3 
+
+side's [1] 40:15 
+
+significant [2] 14:2 17:15 
+
+significantly [1] 27:16 
+
+similar [1] 55:14 
+
+similarity [1] 10:3 
+
+simply [9] 14:25 15:20 20: 
+
+7 24:16 42:12,14 62:11 65: 
+
+20 71:4 
+
+since [1] 61:24 
+
+single [2] 51:24 63:17 
+
+stated [9] 4:22 7:16 44:14 
+
+46:4 54:11,14 55:13 67:19 
+
+70:13 
+
+statement [126] 4:18,25 5: 
+
+4,22 6:2,7,8,9,10,12,15 7: 
+
+25 8:19,21 9:4,11 10:5,20, 
+
+23 11:2,6,10,13 12:2,3,7, 
+
+18,23 13:3,6,8,12,14,22,25 
+
+14:10,16,17 15:2,22 18:16, 
+
+20 19:11,16,17,22 20:8 21: 
+
+4,9,9,24 22:1,2,7,22 23:4,5, 
+
+14,24 27:13 30:16,19 32:9, 
+
+10 33:4,6,11,14,19 34:4,19 
+
+35:16 36:11,25 38:7,9 40: 
+
+10 41:15,17,18 42:7 45:24 
+
+46:8,10,13 48:8,16,22 49:1 
+
+50:4,12,19,21,22 51:2,3,5, 
+
+8,18,20,24 52:7 53:6,16,23 
+
+54:18 55:22 56:1,17 57:21 
+
+63:7,16,17,21,22 64:3 67: 
+
+11,11 68:7,8,15,18 69:8,15, 
+
+subsidiary [1] 24:12 
+
+substantial [1] 27:3 
+
+substantive [1] 61:17 
+
+substantively [1] 57:4 
+
+sue [1] 54:9 
+
+suggest [3] 16:4 23:24 50: 
+
+4 
+
+suggested [2] 51:19 52:5 
+
+suggesting [1] 57:3 
+
+suggestion [1] 36:10 
+
+suggests [4] 13:23 37:8, 
+
+23 38:22 
+
+supplement [1] 65:15 
+
+supplier [3] 27:21,25 40:1 
+
+support [1] 45:21 
+
+supporting [3] 2:8 3:12 48: 
+
+3 
+
+supports [1] 68:17 
+
+suppose [4] 17:23 27:21 
+
+49:3 59:24 
+
+supposed [1] 43:25 
+
+Today [4] 4:19 17:7,8 23:9 
+
+took [2] 11:7 44:25 
+
+tool [1] 36:1 
+
+topic [1] 8:22 
+
+topics [2] 13:10 41:25 
+
+tracks [1] 57:9 
+
+transcripts [1] 70:6 
+
+treating [1] 4:25 
+
+tree [2] 29:4,16 
+
+trend [7] 19:14 29:5,8 31: 
+
+21,22 52:15 60:10 
+
+trends [15] 18:23 19:12 22: 
+
+12,15 26:16,24 27:15 31: 
+
+20 51:13 53:20,24 54:14 
+
+60:1,7,9 
+
+true [1] 14:2 
+
+truth [1] 27:8 
+
+trying [4] 20:16 49:25 50:1 
+
+54:4 
+
+Tuesday [1] 1:12 
+
+turns [1] 10:12 
+
+vacate [3] 16:5 56:23 71:7 
+
+vacated [1] 14:12 
+
+value [1] 49:5 
+
+variation [1] 13:16 
+
+various [1] 18:23 
+
+vary [1] 49:2 
+
+versus [1] 4:5 
+
+view [1] 41:6 
+
+viewed [1] 33:12 
+
+violate [1] 20:12 
+
+violated [1] 42:14 
+
+violates [1] 5:20 
+
+violating [1] 51:15 
+
+violation [13] 14:8 21:22 
+
+29:4 31:12,14 38:13 49:19 
+
+53:3 56:16 63:2 64:20 66: 
+
+11 69:5 
+
+violations [1] 65:23 
+
+voluntary [7] 40:24 42:22 
+
+48:18 49:9 58:10,25 70:1 
+
+Heritage Reporting Corporation 
+Sheet 6 says - voluntary 
+
+
+
+5 
+
+78
+Official 
+
+W 
+wanted [2] 57:1 59:9 
+
+Washington [3] 1:11 2:4,7 
+
+waters [1] 35:16 
+
+way [14] 17:6 18:2 21:6 31: 
+
+4 32:18 44:13 48:25 53:6 
+
+56:25 57:15 61:7 62:13 64: 
+
+1,7 
+
+ways [4] 5:16 9:17 45:11 
+
+69:21 
+
+week [1] 11:22 
+
+weighed [1] 13:1 
+
+welcome [2] 28:4 49:12 
+
+Whenever [2] 5:8 41:6 
+
+Whereupon [1] 71:13 
+
+whether [10] 14:9 21:23 22: 
+
+6 29:4,11,16 35:12 45:20 
+
+60:21 68:16 
+
+whichever [1] 32:18 
+
+whole [8] 6:10 35:15 42:17 
+
+50:14 51:23 52:1 53:7 67: 
+
+will [8] 8:14 14:14 22:5 48: 
+
+21 51:12 52:2 59:15 65:21 
+
+willing [1] 34:10 
+
+wisely [1] 44:24 
+
+withholding [1] 27:6 
+
+within [10] 32:15 45:14 51: 
+
+24 55:22 56:1,20 62:1,3 
+
+63:19 67:12 
+
+without [2] 5:21 33:18 
+
+won [2] 15:13,14 
+
+wondering [1] 39:17 
+
+word [3] 5:3 13:13 19:24 
+
+words [2] 43:10 67:19 
+
+work [2] 18:18 19:6 
+
+world [2] 42:5,17 
+
+worth [1] 44:1 
+
+worthless [1] 44:23 
+
+writes [1] 41:14 
+
+Y 
+year [3] 60:2,8 65:19 
+
+Heritage Reporting Corporation 
+Sheet 7 wanted - year 
+
+
+
+
